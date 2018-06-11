@@ -45,9 +45,9 @@ server <- shinyServer(function(input, output) {
       values$outTable <-
         model_survival(
           nAdult = 10, 
-          adultModifier = scenarioValues$adultSurv,
+          adultSurvival = scenarioValues$adultSurv,
           nNestlings = 0, 
-          nestlingModifier = scenarioValues$juvSurv,
+          nestlingSurvival = scenarioValues$juvSurv,
           fecundity = scenarioValues$fecundity
         ) %>%
         mutate(generation = 1) %>%
@@ -60,9 +60,9 @@ server <- shinyServer(function(input, output) {
         outTable, 
         model_survival(
           nAdult = outTable[nrow(outTable),]$nAdults, 
-          adultModifier = scenarioValues$adultSurv,
+          adultSurvival = scenarioValues$adultSurv,
           nNestlings = outTable[nrow(outTable),]$nNestlings, 
-          nestlingModifier = scenarioValues$juvSurv,
+          nestlingSurvival = scenarioValues$juvSurv,
           fecundity = scenarioValues$fecundity
         ) %>%
           mutate(generation = nrow(outTable) + 1) %>%
