@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525631223471.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3932631915",
+    "id" : "6198C16B",
+    "lastKnownWriteTime" : 1525631245,
+    "last_content_update" : 1525631245585,
+    "path" : "~/Desktop/gits/yag_popModel_app/population_model.R",
+    "project_path" : "population_model.R",
+    "properties" : {
+        "cursorPosition" : "212,23",
+        "scrollLine" : "214",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

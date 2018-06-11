@@ -1,0 +1,198 @@
+# libraries ---------------------------------------------------------------
+
+library(mongolite)
+library(tidyverse)
+library(editData)
+library(shiny)
+
+# functions ---------------------------------------------------------------
+
+# Mongo, connect to a collection:
+
+connectMongo <-
+  function(mongoTable_name){
+    mongo(
+      mongoTable_name, 
+      url = "mongodb://bsevans:33shazam@ds025232.mlab.com:25232/nndataentry")
+  }
+
+# Mongo, convert collection to tibble:
+
+mongoToTbl <-
+  function(data){
+  if(nrow(data) > 0 & ncol(data) > 0){
+    for(j in 1:ncol(data)){
+      data[,j] <- as.character(data[,j])
+    }
+    data <- as_tibble(data)
+  }
+  data
+  }
+
+# Function to write a site query:
+
+siteQuery <-
+  function(site){
+    paste0(
+      '{\"siteID\" : {"$in" : [',
+      paste(shQuote(site, type = 'cmd'),
+            collapse = ' , '),
+      '] }}')
+  }
+
+# Function to write a site-visit query:
+
+siteDateQuery <-
+  function(site, date){
+    paste0(
+      '{\"siteID\" : {\"$in\" :[\"',
+      site,
+      '\"] }, \"date\" : \"',
+      date,
+      '\"}'
+    )
+  }
+
+# Function to get data associated with a hub from a mongo collection:
+
+get_hub <- 
+  function(collection, hub){
+    siteVector <-
+      get_mongoData(collection = 'sites') %>%
+      select(siteID, region) %>%
+      filter(region == hub) %>%
+      .$siteID
+    connectMongo(collection)$find(
+      siteQuery(siteVector)) %>%
+      mongoToTbl
+  }
+
+
+# Function to get data associated with a site from a mongo collection:
+
+get_site <-
+  function(collection, site){
+    connectMongo(collection)$find(
+      siteQuery(site)) %>%
+        mongoToTbl
+  }
+
+# Function to get data associated with a site-date pair from a mongo 
+# collection:
+
+get_siteDate <-
+  function(collection, site, date){
+    connectMongo(collection)$find(
+      siteDateQuery(site, date)
+    ) %>%
+      mongoToTbl
+  }
+
+# Get entire mongo collection, convert to tbl:
+
+get_mongoData <- 
+  function(collection, hub = NULL, site = NULL, date = NULL){
+    mongoTable <- NULL
+    if(is.null(hub) & is.null(site)){
+      mongoTable <- 
+        connectMongo(collection)$find() %>%
+        mongoToTbl
+    }
+    if(!is.null(hub) & is.null(site)){
+      mongoTable <- get_hub(collection, hub)
+    }
+    if(!is.null(site) & is.null(date)){
+      mongoTable <- get_site(collection, site)
+    }
+    if(!is.null(site) & !is.null(date)){
+      mongoTable <- get_siteDate(collection, site, date)
+    }
+    mongoTable
+  }
+
+# Function to save a collection to a csv file:
+
+save_records <-
+  function(collection, hub = NULL, site = NULL, date = NULL){
+    outName <- 
+      paste(
+        c(
+          'backup', collection, hub,  site, date,
+          paste0('downloaded_', as.character(Sys.Date()))
+        ), 
+        collapse  = '_') %>%
+      paste0('.csv')
+   outData <- get_mongoData(collection, hub, site, date)
+   write_csv(outData, outName)
+  }
+
+# Function to get a blank database collection:
+
+getMongo_blank <-
+  function(collection){
+    connectMongo(collection)$find(limit = 1) %>% 
+      replace(!is.na(.), '')
+  }
+
+# Function for edit mongo app ---------------------------------------------
+
+editMongo <-
+  function(collection, hub = NULL, site = NULL, date = NULL, newData = FALSE, viewer = "dialog") 
+  {
+    require(editData, miniUI)
+    if(newData == TRUE){
+      data <- getMongo_blank(collection)
+    } else {
+      data <- get_mongoData(collection, hub, site, date)
+    }
+    if(nrow(data) == 0){
+      getMongo_blank(collection)
+    }
+    ui <- miniUI::miniPage(
+      miniUI::gadgetTitleBar("Modify Neighborhood Nestwatch records"),
+      miniUI::miniContentPanel(
+        editableDTUI("table1") 
+      ))
+    server = function(input, output, session) {
+      uploaded <- c()
+      mydf <-
+        reactive({
+          data
+        })
+      df <-
+        callModule(editableDT, "table1", data = reactive(mydf()), 
+                   inputwidth = reactive(170))
+      observeEvent(input$done, {
+        # Remove old data:
+        if(newData == FALSE){
+          if(!is.null(hub) & is.null(site)){
+            siteVector <-
+              get_mongoData(collection = 'sites') %>%
+              select(siteID, region) %>%
+              filter(region == hub) %>%
+              .$siteID
+            connectMongo(collection)$remove(siteQuery(siteVector))
+          }
+          if(!is.null(site) & is.null(date)){
+            connectMongo(collection)$remove(siteQuery(site))
+          }
+          if(!is.null(site) & !is.null(date)){
+            connectMongo(collection)$remove(siteDateQuery(site, date))
+          }
+        }
+        # New or replacement data:
+        result = df()
+        connectMongo(collection)$insert(result)
+        stopApp(result)
+      })
+      observeEvent(input$cancel, {
+        stopApp()
+      })
+    }
+    if (viewer == "dialog") 
+      myviewer <- dialogViewer("editData", width = 1200, height = 800)
+    else if (viewer == "browser") 
+      myviewer <- browserViewer()
+    else myviewer <- paneViewer()
+    runGadget(ui, server, viewer = myviewer)
+  }

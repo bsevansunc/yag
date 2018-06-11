@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525631306901.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2896886013",
+    "id" : "E5293B3",
+    "lastKnownWriteTime" : 1525714288,
+    "last_content_update" : 1525714288284,
+    "path" : "~/Desktop/gits/yag_popModel_app/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "156,10",
+        "scrollLine" : "143"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

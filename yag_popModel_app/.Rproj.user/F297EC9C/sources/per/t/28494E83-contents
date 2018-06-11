@@ -1,0 +1,213 @@
+---
+output:
+  html_document:
+df_print: paged
+---
+
+<style>
+p {
+  font-size: 16px;
+}
+
+ul {
+  font-size: 16px;
+}
+
+ol {
+  font-size: 16px;
+  
+}
+
+
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<h2>How to use R to view and fix records in the Nestwatch database</h2>
+<hr>
+
+<p>This document will take you through the process of modifying database records in R. A couple of things to note:</p>
+<ul>
+<li>You must have R and R Studio installed on your computer</li>
+<li>This code <b>will not</b> work on a computer connected to the internet with an ethernet cable or on <i>SI-staff</i>. Smithsonian firewalls prevent direct connection to the database.</li>
+</ul>
+
+<br>
+<h3>Set-up</h3>
+<br>
+<p>We need to start by installing packages that you may not currently have. To do so, run the code below on your computer. <i>Note: This will only have to be done once and will not have to be repeated each time you want to modify or add records.</i></p>
+```{r eval = FALSE}
+install.packages('mongolite')
+install.packages('tidyverse')
+install.packages('callr')
+install.packages('shiny')
+install.packages('editData')
+install.packages('RCurl')
+```
+<br>
+<p>The next step may seem frightening, but it's not -- you don't have to understand what this stuff does. This is the behind-the-scenes mechanics that makes reading and writing to the database possible. Simply copy-and-paste this section into R and <b>run the entire section</b>.
+```{r eval = FALSE}
+# Load libraries:
+
+library(RCurl)
+
+# Load a source script:
+
+script <-
+  getURL(
+    "https://raw.githubusercontent.com/SMBC-NZP/neighborhoodNestwatch/master/fix_mongoRecords.R?token=AFXm5GZQNlAgZ3ETxvAo-LPg5LKneDyKks5bCAUawA%3D%3D"
+  )
+
+# Evaluate then remove the source script:
+
+eval(parse(text = script))
+
+rm(script)
+```
+<hr>
+<h3>Reading records</h3>
+<br>
+<p>The database is made up of a series of <b>collections</b>. Collections can be thought of as tables. The collections that are a part of the database include:</p>
+<ul>
+<li>captures</li>
+<li>contactInfo</li>
+<li>foray</li>
+<li>forayCountUnbanded</li>
+<li>nn_projects</li>
+<li>partRs</li>
+<li>pointCounts</li>
+<li>sites</li>
+<li>staffContacts</li>
+<li>techRs</li>
+<li>vegSitesSampled</li>
+<li>visits</li>
+</ul>
+<p><b>Get all records in a collection</b>:To read a collection from the database and view it as a table, you would use the function `getMongo` with the name of the collection (in quotes) within the parentheses:</p>
+```{r eval = FALSE}
+get_mongoData(
+  collection  = 'staffContacts'
+  )
+```
+<br>
+<p><b>Get collection data for a regional hub</b>: If you want to read the collection information associated with a single regional hub, you can simply add the hub name as an argument of the `get_collection` function. Hubs include:</p>
+<ul>
+<li>Atlanta</li>
+<li>Colorado</li>
+<li>DC</li>
+<li>Gainesville</li>
+<li>Pittsburgh</li>
+<li>Raleigh</li>
+<li>Springfield</li>
+</ul>
+```{r eval = FALSE}
+get_mongoData(
+  collection  = 'sites',
+  hub = 'DC'
+  )
+```
+
+<p><b>Get collection data for a site</b>: If you want to read the collection information associated with a single site, include arguments for the name of the collection and the name of the site, both in quotes. <i>Note: Not all collections have a site field!</i></p>
+```{r eval = FALSE}
+get_mongoData(
+  collection  = 'visits',
+  site = 'REITBOBMD1'
+  )
+```
+<br>
+<p><b>Get collection data for a site and date</b>: If you want to read the collection information associated with the date that a site was visited, add the arguments for the name of the collection, the name of the site, and the observation date to the function. Collections with site and date information include:</p>
+<ul>
+<li>captures</li>
+<li>foray</li>
+<li>forayCountUnbanded</li>
+<li>partRs</li>
+<li>pointCounts</li>
+<li>techRs</li>
+<li>visits</li>
+</ul>
+```{r eval = FALSE}
+get_mongoData(
+  collection  = 'captures',
+  site = 'REITBOBMD1',
+  date = '2000-06-07'
+  )
+```
+<hr>
+<h3>How to save records to an Excel-friendly file format</h3>
+<br>
+<p>You can save records to <i>.csv</i> files if you would prefer to play with them in Excel. To do so, you would use the `save_records` function and include the name of the collection.</p>
+```{r eval = FALSE}
+save_records(
+  collection = 'visits'
+  )
+```
+<br>
+<p>Records will be saved to your current working directory. You can use the `getwd` function to find out where that is.</p>
+```{r eval = FALSE}
+getwd()
+```
+<br>
+<p>You can also save records associated with a single hub, site, or visit, as follows.</p>
+```{r eval = FALSE}
+# Save records associated with a single hub:
+
+save_records(
+  collection = 'captures',
+  hub = 'DC'
+  )
+
+# Save records associated with a single site:
+
+save_records(
+  collection = 'captures',
+  site = 'REITBOBMD1'
+  )
+
+# Save records associated with a single visit:
+
+save_records(
+  collection = 'captures',
+  site = 'REITBOBMD1',
+  date = '2000-06-07'
+  )
+
+```
+<hr>
+<h3>Adding and modifying data</h3>
+<br>
+<p>You will be happy to know that there is now a GUI for adding and modifying data! To use the gui to <b>add data</b>, you use the function `editMongo`. Most of the arguments of this function are the same as reading the data above. The only additional argument is `newData`. If `newData = TRUE` (the default), then new records will be added to the database.</p>
+
+```{r eval = FALSE}
+# Add a new record for a site:
+
+editMongo(
+  collection = 'captures',
+  site = 'test',
+  newData = TRUE
+  )
+```
+<br>
+<p>To modify an existing record, you simply modify the newData argument such that `newData = FALSE`.</p>
+```{r eval = FALSE}
+
+# Modify data for all dates associated with a site:
+
+editMongo(
+  collection = 'captures',
+  site = 'test',
+  newData = FALSE
+  )
+
+# Modify data for a given date associated with a site:
+
+editMongo(
+  collection = 'captures',
+  site = 'test',
+  date = '2018-05-17',
+  newData = FALSE
+  )
+```
+<br>
+<p>That's it!</p>
+

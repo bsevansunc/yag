@@ -1,0 +1,133 @@
+# Install necessary packages (only has to be run once): 
+
+install.packages('mongolite')
+install.packages('tidyverse')
+install.packages('callr')
+install.packages('editData')
+install.packages('shiny')
+install.packages('RCurl')
+
+
+# setup, run this entire section ------------------------------------------
+
+# Load libraries:
+
+library(RCurl)
+
+# Load a source script:
+
+script <-
+  getURL(
+    "https://raw.githubusercontent.com/SMBC-NZP/neighborhoodNestwatch/master/fix_mongoRecords.R?token=AFXm5GZQNlAgZ3ETxvAo-LPg5LKneDyKks5bCAUawA%3D%3D"
+  )
+
+# Evaluate then remove the source script:
+
+eval(parse(text = script))
+
+rm(script)
+
+
+# Read mongo records ------------------------------------------------------
+
+# Note, collection names include (but are not limited to):
+# - captures
+# - contactInfo
+# - foray
+# - forayCountUnbanded
+# - nn_projects
+# - partRs
+# - pointCounts
+# - sites
+# - staffContacts
+# - techRs
+# - vegSitesSampled
+# - visits
+
+# Get all records in a collection:
+
+get_mongoData(
+  collection  = 'staffContacts'
+)
+
+# Get all records associated with a hub:
+
+get_mongoData(
+  collection  = 'sites',
+  hub = 'DC'
+)
+
+# Get all records associated with a site:
+
+get_mongoData(
+  collection  = 'visits',
+  site = 'REITBOBMD1'
+)
+
+# Get all records associated with visit:
+
+get_mongoData(
+  collection  = 'captures',
+  site = 'REITBOBMD1',
+  date = '2000-06-07'
+)
+
+# Save a local copy of mongo records --------------------------------------
+
+# Save records associated with a single hub:
+
+save_records(
+  collection = 'captures',
+  hub = 'DC'
+)
+
+# Save records associated with a single site:
+
+save_records(
+  collection = 'captures',
+  site = 'REITBOBMD1'
+)
+
+# Save records associated with a single visit:
+
+save_records(
+  collection = 'captures',
+  site = 'REITBOBMD1',
+  date = '2000-06-07'
+)
+
+# Adding and modifying data -----------------------------------------------
+
+# Add a new record for a site:
+
+editMongo(
+  collection = 'captures',
+  site = 'test',
+  newData = TRUE
+)
+
+# Modify data for all dates associated with a site:
+
+editMongo(
+  collection = 'captures',
+  site = 'test',
+  newData = FALSE
+)
+
+# Modify data for a given date associated with a site:
+
+editMongo(
+  collection = 'captures',
+  site = 'test',
+  date = '2018-05-17',
+  newData = FALSE
+)
+
+
+
+
+
+
+
+
+

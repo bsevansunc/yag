@@ -1,0 +1,12 @@
+name: popModel_app
+title: popModel_app
+username:
+account: smbc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 338646
+bundleId: 1363816
+url: https://smbc.shinyapps.io/popModel_app/
+when: 1525822420.76477
+asMultiple: FALSE
+asStatic: FALSE

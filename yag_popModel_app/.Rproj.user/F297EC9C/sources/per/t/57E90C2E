@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526655973292.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2419594641",
+    "id" : "57E90C2E",
+    "lastKnownWriteTime" : 1526655724,
+    "last_content_update" : 1526655724,
+    "path" : "~/Desktop/gits/neighborhoodNestwatch/fix_mongoRecords.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

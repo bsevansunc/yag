@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526655978773.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3057951422",
+    "id" : "A2CD9166",
+    "lastKnownWriteTime" : 1526656975,
+    "last_content_update" : 1526656975,
+    "path" : "~/Desktop/gits/neighborhoodNestwatch/mongo_readEdit.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "100,0",
+        "scrollLine" : "91"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

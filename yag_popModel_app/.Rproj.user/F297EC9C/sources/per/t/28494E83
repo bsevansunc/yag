@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526655934470.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "207396358",
+    "id" : "28494E83",
+    "lastKnownWriteTime" : 1526656611,
+    "last_content_update" : 1526656611591,
+    "path" : "~/Desktop/gits/smbc-nzp.github.io/modifying_mongoDatabase.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "34,5",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
