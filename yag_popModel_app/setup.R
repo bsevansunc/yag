@@ -3,21 +3,26 @@
 model_survival <- 
   function(
     nAdult, 
-    adultModifier,
+    adultSurvival,
     nNestlings, 
-    nestlingModifier,
+    nestlingSurvival,
     fecundity
   ){
     adultsDied <-
-      (nAdult*(1-adultModifier)) %>% 
-      floor
+      rbinom(1, nAdult, 1-adultSurvival)
+      # (nAdult*(1-adultModifier)) %>% 
+      # floor
     adultsNew <-
-      (nNestlings*nestlingModifier) %>%
-      floor
+      rbinom(1, nNestlings, nestlingSurvival)
+      # (nNestlings*nestlingModifier) %>%
+      # floor
     adultsT <- nAdult - adultsDied + adultsNew
-    nestlingsT <-
-      adultsT*fecundity %>%
-      floor
+    if(adultsT > 1){
+      nestlingsT <-
+        adultsT*fecundity
+    } else {
+      nestlingsT <- 0
+    }
     return(
       data.frame(
         newAdults = adultsNew,
@@ -39,8 +44,8 @@ scenarioFrame_natural <-
       'lotsa-bugs',
       'plenty-o-shrubs',
       'natural-predators'),
-    juvSurv = c(0.0,0.0,.3,.15,.1),
-    adultSurv = c(.85,.85,.7,.75,.7),
+    juvSurv = c(0.05,0.05,.3,.25,.15),
+    adultSurv = c(.9,.9,.75,.8,.75),
     fecundity = rep(2, 5)
   ) %>%
   select(scenario:fecundity) %>%
@@ -58,8 +63,8 @@ scenarioFrame_anthropogenic <-
       'cats', 
       'disease',
       'pollution'),
-    juvSurv = c(0.1,.1, .15, 0.05, 0.1, .1),
-    adultSurv = c(.5,.75, .6, .3, .5, .6),
+    juvSurv = c(0.1,0.1, 0.15, 0.05, 0.1, .1),
+    adultSurv = c(.7,.65, .5, .3, .6, .7),
     fecundity = c(2,2,2,2,2,2)
   ) %>%
   select(scenario:fecundity) %>%
@@ -78,8 +83,8 @@ scenarioFrame_conservation <-
       'cats_inside', 
       'clean-feeders',
       'pollution-solution'),
-    juvSurv = c(.2, .2, .2, .15, .15, .15, .15),
-    adultSurv = c(.75, .75, .75, .7, .75, .75, .75),
+    juvSurv = c(.2, .25, .25, .15, .15, .15, .15),
+    adultSurv = c(.75, .75, .85, .75, .75, .85, .8),
     fecundity = c(2,2,2,2,2,2,2)
   ) %>%
   select(scenario:fecundity) %>%
@@ -91,33 +96,6 @@ scenarioList <-
     anthropogenic = scenarioFrame_anthropogenic,
     conservation = scenarioFrame_conservation
   )
-
-# one model run with scenario ---------------------------------------------
-
-runModel <-
-  function(
-    scenarioFrame,
-    generation,
-    nAdults,
-    nNestlings,
-    anthropogenic
-  ){
-    scenario <- sample_n(scenarioFrame, 1)
-    survivalOutput <-
-      model_survival(
-        nAdult = nAdults,
-        adultModifier = scenario$adultSurv,
-        nNestlings = nNestlings,
-        nestlingModifier = scenario$juvSurv,
-        fecundity = scenario$fecundity,
-        anthropogenic
-      )
-    bind_cols(
-      generation = generation,
-      scenario = scenario$scenario,
-      survivalOutput
-    )
-  }
 
 
 # function to print model results -----------------------------------------
@@ -176,6 +154,4 @@ convert_outTable_to_printTable <-
       outTable <- NULL
     }
   }
-
-
 
