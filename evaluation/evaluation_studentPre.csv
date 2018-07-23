@@ -1,0 +1,4057 @@
+student,question,qDetail,answer
+1,1a,Your school’s name ,Springfield Public Day Middle School
+1,1b,Your grade level,7
+1,2a,I believe in myself.,7
+1,2b,I feel it is important to take good care of the environment.,9
+1,2c,"Humans are a part of nature, not separate from it.",na
+1,2d,I have the power to protect the environment.,na
+1,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,7
+1,2f,I can make a difference in my community.,10
+1,3a,Science.,8
+1,3b,How to research things I am curious about.,9
+1,3c,Learning about new subjects in school.,4
+1,3d,Learning more about nature.,6
+1,4a,Solving problems,9
+1,4b,Using science to answer a question,na
+1,4c,Listening to other people’s points of view,4
+1,4d,Knowing how to do research,6
+1,5a,Help to protect the environment.,7
+1,5b,Spend more time outside.,9
+1,5c,Make a positive difference in my community.,10
+1,5d,Listen more to other people's points of view.,4
+1,5e,Talk with others about ways to protect the environment.,7
+1,5f,Cooperate more with my classmates.,8
+1,5g,Work harder in school.,9
+1,5h,Pay more attention in class.,4
+1,6,Are you a girl or a boy?,Boy
+1,7,Which of the following best describes your racial or ethnic background?,Hispanic
+2,1a,Your school’s name ,Springfield Public Day Middle School
+2,1b,Your grade level,6
+2,2a,I believe in myself.,10
+2,2b,I feel it is important to take good care of the environment.,10
+2,2c,"Humans are a part of nature, not separate from it.",5
+2,2d,I have the power to protect the environment.,10
+2,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+2,2f,I can make a difference in my community.,10
+2,3a,Science.,6
+2,3b,How to research things I am curious about.,6
+2,3c,Learning about new subjects in school.,10
+2,3d,Learning more about nature.,10
+2,4a,Solving problems,8
+2,4b,Using science to answer a question,9
+2,4c,Listening to other people’s points of view,8
+2,4d,Knowing how to do research,6
+2,5a,Help to protect the environment.,10
+2,5b,Spend more time outside.,10
+2,5c,Make a positive difference in my community.,10
+2,5d,Listen more to other people's points of view.,10
+2,5e,Talk with others about ways to protect the environment.,10
+2,5f,Cooperate more with my classmates.,10
+2,5g,Work harder in school.,10
+2,5h,Pay more attention in class.,10
+2,6,Are you a girl or a boy?,Boy
+2,7,Which of the following best describes your racial or ethnic background?,"White, not of Hispanic descent"
+3,1a,Your school’s name ,Springfield Public Day Middle School
+3,1b,Your grade level,6
+3,2a,I believe in myself.,10
+3,2b,I feel it is important to take good care of the environment.,10
+3,2c,"Humans are a part of nature, not separate from it.",10
+3,2d,I have the power to protect the environment.,10
+3,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+3,2f,I can make a difference in my community.,10
+3,3a,Science.,5
+3,3b,How to research things I am curious about.,10
+3,3c,Learning about new subjects in school.,10
+3,3d,Learning more about nature.,10
+3,4a,Solving problems,5
+3,4b,Using science to answer a question,6
+3,4c,Listening to other people’s points of view,7
+3,4d,Knowing how to do research,9
+3,5a,Help to protect the environment.,10
+3,5b,Spend more time outside.,10
+3,5c,Make a positive difference in my community.,10
+3,5d,Listen more to other people's points of view.,5
+3,5e,Talk with others about ways to protect the environment.,10
+3,5f,Cooperate more with my classmates.,5
+3,5g,Work harder in school.,9
+3,5h,Pay more attention in class.,10
+3,6,Are you a girl or a boy?,Girl
+3,7,Which of the following best describes your racial or ethnic background?,Hispanic
+4,1a,Your school’s name ,Springfield Public Day Middle School
+4,1b,Your grade level,8
+4,2a,I believe in myself.,10
+4,2b,I feel it is important to take good care of the environment.,8
+4,2c,"Humans are a part of nature, not separate from it.",10
+4,2d,I have the power to protect the environment.,7
+4,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+4,2f,I can make a difference in my community.,8
+4,3a,Science.,10
+4,3b,How to research things I am curious about.,10
+4,3c,Learning about new subjects in school.,8
+4,3d,Learning more about nature.,6
+4,4a,Solving problems,10
+4,4b,Using science to answer a question,7
+4,4c,Listening to other people’s points of view,9
+4,4d,Knowing how to do research,10
+4,5a,Help to protect the environment.,6
+4,5b,Spend more time outside.,10
+4,5c,Make a positive difference in my community.,3
+4,5d,Listen more to other people's points of view.,6
+4,5e,Talk with others about ways to protect the environment.,2
+4,5f,Cooperate more with my classmates.,10
+4,5g,Work harder in school.,10
+4,5h,Pay more attention in class.,10
+4,6,Are you a girl or a boy?,Boy
+4,7,Which of the following best describes your racial or ethnic background?,Hispanic
+5,1a,Your school’s name ,Springfield Public Day Middle School
+5,1b,Your grade level,6
+5,2a,I believe in myself.,10
+5,2b,I feel it is important to take good care of the environment.,10
+5,2c,"Humans are a part of nature, not separate from it.",10
+5,2d,I have the power to protect the environment.,10
+5,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+5,2f,I can make a difference in my community.,10
+5,3a,Science.,5
+5,3b,How to research things I am curious about.,10
+5,3c,Learning about new subjects in school.,7
+5,3d,Learning more about nature.,10
+5,4a,Solving problems,10
+5,4b,Using science to answer a question,10
+5,4c,Listening to other people’s points of view,10
+5,4d,Knowing how to do research,10
+5,5a,Help to protect the environment.,10
+5,5b,Spend more time outside.,10
+5,5c,Make a positive difference in my community.,10
+5,5d,Listen more to other people's points of view.,10
+5,5e,Talk with others about ways to protect the environment.,10
+5,5f,Cooperate more with my classmates.,10
+5,5g,Work harder in school.,10
+5,5h,Pay more attention in class.,10
+5,6,Are you a girl or a boy?,Boy
+5,7,Which of the following best describes your racial or ethnic background?,Hispanic
+6,1a,Your school’s name ,Springfield Public Day Middle School
+6,1b,Your grade level,8
+6,2a,I believe in myself.,10
+6,2b,I feel it is important to take good care of the environment.,10
+6,2c,"Humans are a part of nature, not separate from it.",10
+6,2d,I have the power to protect the environment.,10
+6,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+6,2f,I can make a difference in my community.,10
+6,3a,Science.,10
+6,3b,How to research things I am curious about.,4
+6,3c,Learning about new subjects in school.,7
+6,3d,Learning more about nature.,9
+6,4a,Solving problems,3
+6,4b,Using science to answer a question,5
+6,4c,Listening to other people’s points of view,7
+6,4d,Knowing how to do research,6
+6,5a,Help to protect the environment.,5
+6,5b,Spend more time outside.,9
+6,5c,Make a positive difference in my community.,3
+6,5d,Listen more to other people's points of view.,4
+6,5e,Talk with others about ways to protect the environment.,9
+6,5f,Cooperate more with my classmates.,5
+6,5g,Work harder in school.,6
+6,5h,Pay more attention in class.,8
+6,6,Are you a girl or a boy?,Boy
+6,7,Which of the following best describes your racial or ethnic background?,Hispanic
+7,1a,Your school’s name ,Springfield Public Day Middle School
+7,1b,Your grade level,6
+7,2a,I believe in myself.,10
+7,2b,I feel it is important to take good care of the environment.,10
+7,2c,"Humans are a part of nature, not separate from it.",5
+7,2d,I have the power to protect the environment.,3
+7,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+7,2f,I can make a difference in my community.,8
+7,3a,Science.,10
+7,3b,How to research things I am curious about.,10
+7,3c,Learning about new subjects in school.,10
+7,3d,Learning more about nature.,6
+7,4a,Solving problems,10
+7,4b,Using science to answer a question,10
+7,4c,Listening to other people’s points of view,6
+7,4d,Knowing how to do research,10
+7,5a,Help to protect the environment.,10
+7,5b,Spend more time outside.,10
+7,5c,Make a positive difference in my community.,10
+7,5d,Listen more to other people's points of view.,6
+7,5e,Talk with others about ways to protect the environment.,10
+7,5f,Cooperate more with my classmates.,10
+7,5g,Work harder in school.,10
+7,5h,Pay more attention in class.,8
+7,6,Are you a girl or a boy?,Boy
+7,7,Which of the following best describes your racial or ethnic background?,Other: African American
+8,1a,Your school’s name ,Springfield Public Day Middle School
+8,1b,Your grade level,6
+8,2a,I believe in myself.,6
+8,2b,I feel it is important to take good care of the environment.,10
+8,2c,"Humans are a part of nature, not separate from it.",7
+8,2d,I have the power to protect the environment.,10
+8,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+8,2f,I can make a difference in my community.,10
+8,3a,Science.,8
+8,3b,How to research things I am curious about.,10
+8,3c,Learning about new subjects in school.,10
+8,3d,Learning more about nature.,10
+8,4a,Solving problems,5
+8,4b,Using science to answer a question,10
+8,4c,Listening to other people’s points of view,4
+8,4d,Knowing how to do research,7
+8,5a,Help to protect the environment.,9
+8,5b,Spend more time outside.,3
+8,5c,Make a positive difference in my community.,8
+8,5d,Listen more to other people's points of view.,4
+8,5e,Talk with others about ways to protect the environment.,10
+8,5f,Cooperate more with my classmates.,9
+8,5g,Work harder in school.,4
+8,5h,Pay more attention in class.,7
+8,6,Are you a girl or a boy?,Girl
+8,7,Which of the following best describes your racial or ethnic background?,Hispanic
+9,1a,Your school’s name ,John J. Duggan Academy
+9,1b,Your grade level,8
+9,2a,I believe in myself.,9
+9,2b,I feel it is important to take good care of the environment.,10
+9,2c,"Humans are a part of nature, not separate from it.",9
+9,2d,I have the power to protect the environment.,7
+9,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,8
+9,2f,I can make a difference in my community.,4
+9,3a,Science.,5
+9,3b,How to research things I am curious about.,8
+9,3c,Learning about new subjects in school.,6
+9,3d,Learning more about nature.,4
+9,4a,Solving problems,7
+9,4b,Using science to answer a question,6
+9,4c,Listening to other people’s points of view,7
+9,4d,Knowing how to do research,7
+9,5a,Help to protect the environment.,5
+9,5b,Spend more time outside.,7
+9,5c,Make a positive difference in my community.,5
+9,5d,Listen more to other people's points of view.,6
+9,5e,Talk with others about ways to protect the environment.,6
+9,5f,Cooperate more with my classmates.,7
+9,5g,Work harder in school.,8
+9,5h,Pay more attention in class.,10
+9,6,Are you a girl or a boy?,Girl
+9,7,Which of the following best describes your racial or ethnic background?,Hispanic
+10,1a,Your school’s name ,John J. Duggan Academy
+10,1b,Your grade level,8
+10,2a,I believe in myself.,9
+10,2b,I feel it is important to take good care of the environment.,10
+10,2c,"Humans are a part of nature, not separate from it.",10
+10,2d,I have the power to protect the environment.,10
+10,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+10,2f,I can make a difference in my community.,10
+10,3a,Science.,10
+10,3b,How to research things I am curious about.,10
+10,3c,Learning about new subjects in school.,10
+10,3d,Learning more about nature.,10
+10,4a,Solving problems,8
+10,4b,Using science to answer a question,6
+10,4c,Listening to other people’s points of view,10
+10,4d,Knowing how to do research,10
+10,5a,Help to protect the environment.,6
+10,5b,Spend more time outside.,6
+10,5c,Make a positive difference in my community.,10
+10,5d,Listen more to other people's points of view.,10
+10,5e,Talk with others about ways to protect the environment.,10
+10,5f,Cooperate more with my classmates.,8
+10,5g,Work harder in school.,10
+10,5h,Pay more attention in class.,10
+10,6,Are you a girl or a boy?,Boy
+10,7,Which of the following best describes your racial or ethnic background?,Hispanic
+11,1a,Your school’s name ,John J. Duggan Academy
+11,1b,Your grade level,8
+11,2a,I believe in myself.,8
+11,2b,I feel it is important to take good care of the environment.,8
+11,2c,"Humans are a part of nature, not separate from it.",8
+11,2d,I have the power to protect the environment.,7
+11,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,na
+11,2f,I can make a difference in my community.,9
+11,3a,Science.,6
+11,3b,How to research things I am curious about.,7
+11,3c,Learning about new subjects in school.,6
+11,3d,Learning more about nature.,7
+11,4a,Solving problems,7
+11,4b,Using science to answer a question,5
+11,4c,Listening to other people’s points of view,8
+11,4d,Knowing how to do research,7
+11,5a,Help to protect the environment.,7
+11,5b,Spend more time outside.,7
+11,5c,Make a positive difference in my community.,6
+11,5d,Listen more to other people's points of view.,7
+11,5e,Talk with others about ways to protect the environment.,5
+11,5f,Cooperate more with my classmates.,7
+11,5g,Work harder in school.,8
+11,5h,Pay more attention in class.,7
+11,6,Are you a girl or a boy?,Girl
+11,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+12,1a,Your school’s name ,John J. Duggan Academy
+12,1b,Your grade level,8
+12,2a,I believe in myself.,9
+12,2b,I feel it is important to take good care of the environment.,10
+12,2c,"Humans are a part of nature, not separate from it.",10
+12,2d,I have the power to protect the environment.,10
+12,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,8
+12,2f,I can make a difference in my community.,7
+12,3a,Science.,10
+12,3b,How to research things I am curious about.,10
+12,3c,Learning about new subjects in school.,10
+12,3d,Learning more about nature.,10
+12,4a,Solving problems,10
+12,4b,Using science to answer a question,8
+12,4c,Listening to other people’s points of view,10
+12,4d,Knowing how to do research,9
+12,5a,Help to protect the environment.,6
+12,5b,Spend more time outside.,10
+12,5c,Make a positive difference in my community.,4
+12,5d,Listen more to other people's points of view.,10
+12,5e,Talk with others about ways to protect the environment.,1
+12,5f,Cooperate more with my classmates.,10
+12,5g,Work harder in school.,10
+12,5h,Pay more attention in class.,10
+12,6,Are you a girl or a boy?,Boy
+12,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+13,1a,Your school’s name ,John J. Duggan Academy
+13,1b,Your grade level,8
+13,2a,I believe in myself.,5
+13,2b,I feel it is important to take good care of the environment.,9
+13,2c,"Humans are a part of nature, not separate from it.",10
+13,2d,I have the power to protect the environment.,6
+13,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+13,2f,I can make a difference in my community.,5
+13,3a,Science.,10
+13,3b,How to research things I am curious about.,na
+13,3c,Learning about new subjects in school.,8
+13,3d,Learning more about nature.,8
+13,4a,Solving problems,5
+13,4b,Using science to answer a question,9
+13,4c,Listening to other people’s points of view,9
+13,4d,Knowing how to do research,7
+13,5a,Help to protect the environment.,7
+13,5b,Spend more time outside.,4
+13,5c,Make a positive difference in my community.,9
+13,5d,Listen more to other people's points of view.,10
+13,5e,Talk with others about ways to protect the environment.,6
+13,5f,Cooperate more with my classmates.,6
+13,5g,Work harder in school.,6
+13,5h,Pay more attention in class.,5
+13,6,Are you a girl or a boy?,Rather not say
+13,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+14,1a,Your school’s name ,John J. Duggan Academy
+14,1b,Your grade level,8
+14,2a,I believe in myself.,10
+14,2b,I feel it is important to take good care of the environment.,10
+14,2c,"Humans are a part of nature, not separate from it.",9
+14,2d,I have the power to protect the environment.,10
+14,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+14,2f,I can make a difference in my community.,10
+14,3a,Science.,9
+14,3b,How to research things I am curious about.,10
+14,3c,Learning about new subjects in school.,10
+14,3d,Learning more about nature.,10
+14,4a,Solving problems,5
+14,4b,Using science to answer a question,8
+14,4c,Listening to other people’s points of view,9
+14,4d,Knowing how to do research,7
+14,5a,Help to protect the environment.,9
+14,5b,Spend more time outside.,10
+14,5c,Make a positive difference in my community.,10
+14,5d,Listen more to other people's points of view.,9
+14,5e,Talk with others about ways to protect the environment.,10
+14,5f,Cooperate more with my classmates.,10
+14,5g,Work harder in school.,10
+14,5h,Pay more attention in class.,10
+14,6,Are you a girl or a boy?,Girl
+14,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+15,1a,Your school’s name ,John J. Duggan Academy
+15,1b,Your grade level,8
+15,2a,I believe in myself.,5
+15,2b,I feel it is important to take good care of the environment.,8
+15,2c,"Humans are a part of nature, not separate from it.",7
+15,2d,I have the power to protect the environment.,5
+15,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,6
+15,2f,I can make a difference in my community.,3
+15,3a,Science.,8
+15,3b,How to research things I am curious about.,8
+15,3c,Learning about new subjects in school.,8
+15,3d,Learning more about nature.,7
+15,4a,Solving problems,5
+15,4b,Using science to answer a question,4
+15,4c,Listening to other people’s points of view,10
+15,4d,Knowing how to do research,6
+15,5a,Help to protect the environment.,6
+15,5b,Spend more time outside.,7
+15,5c,Make a positive difference in my community.,5
+15,5d,Listen more to other people's points of view.,8
+15,5e,Talk with others about ways to protect the environment.,7
+15,5f,Cooperate more with my classmates.,6
+15,5g,Work harder in school.,8
+15,5h,Pay more attention in class.,9
+15,6,Are you a girl or a boy?,Girl
+15,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+16,1a,Your school’s name ,John J. Duggan Academy
+16,1b,Your grade level,8
+16,2a,I believe in myself.,9
+16,2b,I feel it is important to take good care of the environment.,9
+16,2c,"Humans are a part of nature, not separate from it.",9
+16,2d,I have the power to protect the environment.,10
+16,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+16,2f,I can make a difference in my community.,9
+16,3a,Science.,7
+16,3b,How to research things I am curious about.,10
+16,3c,Learning about new subjects in school.,8
+16,3d,Learning more about nature.,9
+16,4a,Solving problems,9
+16,4b,Using science to answer a question,7
+16,4c,Listening to other people’s points of view,10
+16,4d,Knowing how to do research,10
+16,5a,Help to protect the environment.,8
+16,5b,Spend more time outside.,na
+16,5c,Make a positive difference in my community.,na
+16,5d,Listen more to other people's points of view.,na
+16,5e,Talk with others about ways to protect the environment.,na
+16,5f,Cooperate more with my classmates.,na
+16,5g,Work harder in school.,na
+16,5h,Pay more attention in class.,na
+16,6,Are you a girl or a boy?,Boy
+16,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+17,1a,Your school’s name ,John J. Duggan Academy
+17,1b,Your grade level,8
+17,2a,I believe in myself.,8
+17,2b,I feel it is important to take good care of the environment.,9
+17,2c,"Humans are a part of nature, not separate from it.",10
+17,2d,I have the power to protect the environment.,10
+17,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+17,2f,I can make a difference in my community.,7
+17,3a,Science.,9
+17,3b,How to research things I am curious about.,7
+17,3c,Learning about new subjects in school.,2
+17,3d,Learning more about nature.,5
+17,4a,Solving problems,8
+17,4b,Using science to answer a question,7
+17,4c,Listening to other people’s points of view,8
+17,4d,Knowing how to do research,9
+17,5a,Help to protect the environment.,5
+17,5b,Spend more time outside.,0
+17,5c,Make a positive difference in my community.,6
+17,5d,Listen more to other people's points of view.,8
+17,5e,Talk with others about ways to protect the environment.,6
+17,5f,Cooperate more with my classmates.,9
+17,5g,Work harder in school.,5
+17,5h,Pay more attention in class.,6
+17,6,Are you a girl or a boy?,Boy
+17,7,Which of the following best describes your racial or ethnic background?,Other: I don't know fully
+18,1a,Your school’s name ,John J. Duggan Academy
+18,1b,Your grade level,8
+18,2a,I believe in myself.,10
+18,2b,I feel it is important to take good care of the environment.,8
+18,2c,"Humans are a part of nature, not separate from it.",7
+18,2d,I have the power to protect the environment.,5
+18,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,6
+18,2f,I can make a difference in my community.,5
+18,3a,Science.,8
+18,3b,How to research things I am curious about.,10
+18,3c,Learning about new subjects in school.,8
+18,3d,Learning more about nature.,5
+18,4a,Solving problems,8
+18,4b,Using science to answer a question,9
+18,4c,Listening to other people’s points of view,7
+18,4d,Knowing how to do research,6
+18,5a,Help to protect the environment.,6
+18,5b,Spend more time outside.,5
+18,5c,Make a positive difference in my community.,8
+18,5d,Listen more to other people's points of view.,7
+18,5e,Talk with others about ways to protect the environment.,8
+18,5f,Cooperate more with my classmates.,8
+18,5g,Work harder in school.,7
+18,5h,Pay more attention in class.,8
+18,6,Are you a girl or a boy?,Boy
+18,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+19,1a,Your school’s name ,John J. Duggan Academy
+19,1b,Your grade level,8
+19,2a,I believe in myself.,8
+19,2b,I feel it is important to take good care of the environment.,9
+19,2c,"Humans are a part of nature, not separate from it.",9
+19,2d,I have the power to protect the environment.,na
+19,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+19,2f,I can make a difference in my community.,6
+19,3a,Science.,7
+19,3b,How to research things I am curious about.,10
+19,3c,Learning about new subjects in school.,9
+19,3d,Learning more about nature.,8
+19,4a,Solving problems,8
+19,4b,Using science to answer a question,7
+19,4c,Listening to other people’s points of view,7
+19,4d,Knowing how to do research,9
+19,5a,Help to protect the environment.,8
+19,5b,Spend more time outside.,9
+19,5c,Make a positive difference in my community.,8
+19,5d,Listen more to other people's points of view.,7
+19,5e,Talk with others about ways to protect the environment.,10
+19,5f,Cooperate more with my classmates.,8
+19,5g,Work harder in school.,9
+19,5h,Pay more attention in class.,9
+19,6,Are you a girl or a boy?,Boy
+19,7,Which of the following best describes your racial or ethnic background?,Asian
+20,1a,Your school’s name ,John J. Duggan Academy
+20,1b,Your grade level,8
+20,2a,I believe in myself.,10
+20,2b,I feel it is important to take good care of the environment.,10
+20,2c,"Humans are a part of nature, not separate from it.",10
+20,2d,I have the power to protect the environment.,10
+20,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+20,2f,I can make a difference in my community.,10
+20,3a,Science.,7
+20,3b,How to research things I am curious about.,10
+20,3c,Learning about new subjects in school.,8
+20,3d,Learning more about nature.,9
+20,4a,Solving problems,10
+20,4b,Using science to answer a question,9
+20,4c,Listening to other people’s points of view,10
+20,4d,Knowing how to do research,8
+20,5a,Help to protect the environment.,10
+20,5b,Spend more time outside.,10
+20,5c,Make a positive difference in my community.,10
+20,5d,Listen more to other people's points of view.,10
+20,5e,Talk with others about ways to protect the environment.,10
+20,5f,Cooperate more with my classmates.,10
+20,5g,Work harder in school.,10
+20,5h,Pay more attention in class.,10
+20,6,Are you a girl or a boy?,Girl
+20,7,Which of the following best describes your racial or ethnic background?,Hispanic
+21,1a,Your school’s name ,John J. Duggan Academy
+21,1b,Your grade level,8
+21,2a,I believe in myself.,6
+21,2b,I feel it is important to take good care of the environment.,10
+21,2c,"Humans are a part of nature, not separate from it.",4
+21,2d,I have the power to protect the environment.,10
+21,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+21,2f,I can make a difference in my community.,10
+21,3a,Science.,10
+21,3b,How to research things I am curious about.,10
+21,3c,Learning about new subjects in school.,8
+21,3d,Learning more about nature.,8
+21,4a,Solving problems,8
+21,4b,Using science to answer a question,10
+21,4c,Listening to other people’s points of view,9
+21,4d,Knowing how to do research,7
+21,5a,Help to protect the environment.,6
+21,5b,Spend more time outside.,9
+21,5c,Make a positive difference in my community.,10
+21,5d,Listen more to other people's points of view.,9
+21,5e,Talk with others about ways to protect the environment.,7
+21,5f,Cooperate more with my classmates.,10
+21,5g,Work harder in school.,8
+21,5h,Pay more attention in class.,10
+21,6,Are you a girl or a boy?,Boy
+21,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+22,1a,Your school’s name ,John J. Duggan Academy
+22,1b,Your grade level,8
+22,2a,I believe in myself.,10
+22,2b,I feel it is important to take good care of the environment.,10
+22,2c,"Humans are a part of nature, not separate from it.",9
+22,2d,I have the power to protect the environment.,8
+22,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+22,2f,I can make a difference in my community.,10
+22,3a,Science.,8
+22,3b,How to research things I am curious about.,9
+22,3c,Learning about new subjects in school.,10
+22,3d,Learning more about nature.,10
+22,4a,Solving problems,9
+22,4b,Using science to answer a question,10
+22,4c,Listening to other people’s points of view,10
+22,4d,Knowing how to do research,9
+22,5a,Help to protect the environment.,10
+22,5b,Spend more time outside.,10
+22,5c,Make a positive difference in my community.,8
+22,5d,Listen more to other people's points of view.,9
+22,5e,Talk with others about ways to protect the environment.,7
+22,5f,Cooperate more with my classmates.,9
+22,5g,Work harder in school.,10
+22,5h,Pay more attention in class.,10
+22,6,Are you a girl or a boy?,Boy
+22,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+23,1a,Your school’s name ,John J. Duggan Academy
+23,1b,Your grade level,8
+23,2a,I believe in myself.,6
+23,2b,I feel it is important to take good care of the environment.,10
+23,2c,"Humans are a part of nature, not separate from it.",5
+23,2d,I have the power to protect the environment.,10
+23,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+23,2f,I can make a difference in my community.,10
+23,3a,Science.,5
+23,3b,How to research things I am curious about.,5
+23,3c,Learning about new subjects in school.,7
+23,3d,Learning more about nature.,10
+23,4a,Solving problems,6
+23,4b,Using science to answer a question,5
+23,4c,Listening to other people’s points of view,10
+23,4d,Knowing how to do research,5
+23,5a,Help to protect the environment.,10
+23,5b,Spend more time outside.,10
+23,5c,Make a positive difference in my community.,10
+23,5d,Listen more to other people's points of view.,10
+23,5e,Talk with others about ways to protect the environment.,5
+23,5f,Cooperate more with my classmates.,7
+23,5g,Work harder in school.,10
+23,5h,Pay more attention in class.,10
+23,6,Are you a girl or a boy?,Girl
+23,7,Which of the following best describes your racial or ethnic background?,"White, not of Hispanic descent"
+24,1a,Your school’s name ,John J. Duggan Academy
+24,1b,Your grade level,8
+24,2a,I believe in myself.,8
+24,2b,I feel it is important to take good care of the environment.,9
+24,2c,"Humans are a part of nature, not separate from it.",9
+24,2d,I have the power to protect the environment.,9
+24,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+24,2f,I can make a difference in my community.,5
+24,3a,Science.,7
+24,3b,How to research things I am curious about.,na
+24,3c,Learning about new subjects in school.,8
+24,3d,Learning more about nature.,6
+24,4a,Solving problems,9
+24,4b,Using science to answer a question,7
+24,4c,Listening to other people’s points of view,7
+24,4d,Knowing how to do research,9
+24,5a,Help to protect the environment.,8
+24,5b,Spend more time outside.,9
+24,5c,Make a positive difference in my community.,7
+24,5d,Listen more to other people's points of view.,7
+24,5e,Talk with others about ways to protect the environment.,9
+24,5f,Cooperate more with my classmates.,8
+24,5g,Work harder in school.,9
+24,5h,Pay more attention in class.,9
+24,6,Are you a girl or a boy?,Boy
+24,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+25,1a,Your school’s name ,John J. Duggan Academy
+25,1b,Your grade level,8
+25,2a,I believe in myself.,5
+25,2b,I feel it is important to take good care of the environment.,10
+25,2c,"Humans are a part of nature, not separate from it.",10
+25,2d,I have the power to protect the environment.,8
+25,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+25,2f,I can make a difference in my community.,8
+25,3a,Science.,10
+25,3b,How to research things I am curious about.,10
+25,3c,Learning about new subjects in school.,9
+25,3d,Learning more about nature.,10
+25,4a,Solving problems,0
+25,4b,Using science to answer a question,5
+25,4c,Listening to other people’s points of view,10
+25,4d,Knowing how to do research,10
+25,5a,Help to protect the environment.,10
+25,5b,Spend more time outside.,5
+25,5c,Make a positive difference in my community.,9
+25,5d,Listen more to other people's points of view.,8
+25,5e,Talk with others about ways to protect the environment.,6
+25,5f,Cooperate more with my classmates.,10
+25,5g,Work harder in school.,10
+25,5h,Pay more attention in class.,10
+25,6,Are you a girl or a boy?,Girl
+25,7,Which of the following best describes your racial or ethnic background?,Hispanic
+26,1a,Your school’s name ,John J. Duggan Academy
+26,1b,Your grade level,8
+26,2a,I believe in myself.,10
+26,2b,I feel it is important to take good care of the environment.,10
+26,2c,"Humans are a part of nature, not separate from it.",9
+26,2d,I have the power to protect the environment.,na
+26,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+26,2f,I can make a difference in my community.,8
+26,3a,Science.,7
+26,3b,How to research things I am curious about.,8
+26,3c,Learning about new subjects in school.,9
+26,3d,Learning more about nature.,9
+26,4a,Solving problems,5
+26,4b,Using science to answer a question,7
+26,4c,Listening to other people’s points of view,7
+26,4d,Knowing how to do research,6
+26,5a,Help to protect the environment.,9
+26,5b,Spend more time outside.,9
+26,5c,Make a positive difference in my community.,8
+26,5d,Listen more to other people's points of view.,7
+26,5e,Talk with others about ways to protect the environment.,8
+26,5f,Cooperate more with my classmates.,8
+26,5g,Work harder in school.,10
+26,5h,Pay more attention in class.,10
+26,6,Are you a girl or a boy?,Girl
+26,7,Which of the following best describes your racial or ethnic background?,Hispanic
+27,1a,Your school’s name ,John J. Duggan Academy
+27,1b,Your grade level,8
+27,2a,I believe in myself.,4
+27,2b,I feel it is important to take good care of the environment.,10
+27,2c,"Humans are a part of nature, not separate from it.",10
+27,2d,I have the power to protect the environment.,8
+27,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,4
+27,2f,I can make a difference in my community.,7
+27,3a,Science.,5
+27,3b,How to research things I am curious about.,3
+27,3c,Learning about new subjects in school.,3
+27,3d,Learning more about nature.,5
+27,4a,Solving problems,4
+27,4b,Using science to answer a question,3
+27,4c,Listening to other people’s points of view,8
+27,4d,Knowing how to do research,4
+27,5a,Help to protect the environment.,7
+27,5b,Spend more time outside.,3
+27,5c,Make a positive difference in my community.,7
+27,5d,Listen more to other people's points of view.,9
+27,5e,Talk with others about ways to protect the environment.,7
+27,5f,Cooperate more with my classmates.,3
+27,5g,Work harder in school.,9
+27,5h,Pay more attention in class.,9
+27,6,Are you a girl or a boy?,Girl
+27,7,Which of the following best describes your racial or ethnic background?,Hispanic
+28,1a,Your school’s name ,John J. Duggan Academy
+28,1b,Your grade level,8
+28,2a,I believe in myself.,8
+28,2b,I feel it is important to take good care of the environment.,8
+28,2c,"Humans are a part of nature, not separate from it.",7
+28,2d,I have the power to protect the environment.,8
+28,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+28,2f,I can make a difference in my community.,9
+28,3a,Science.,5
+28,3b,How to research things I am curious about.,na
+28,3c,Learning about new subjects in school.,na
+28,3d,Learning more about nature.,6
+28,4a,Solving problems,6
+28,4b,Using science to answer a question,5
+28,4c,Listening to other people’s points of view,7
+28,4d,Knowing how to do research,6
+28,5a,Help to protect the environment.,5
+28,5b,Spend more time outside.,8
+28,5c,Make a positive difference in my community.,7
+28,5d,Listen more to other people's points of view.,7
+28,5e,Talk with others about ways to protect the environment.,7
+28,5f,Cooperate more with my classmates.,8
+28,5g,Work harder in school.,9
+28,5h,Pay more attention in class.,8
+28,6,Are you a girl or a boy?,Girl
+28,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+29,1a,Your school’s name ,John J. Duggan Academy
+29,1b,Your grade level,8
+29,2a,I believe in myself.,7
+29,2b,I feel it is important to take good care of the environment.,8
+29,2c,"Humans are a part of nature, not separate from it.",8
+29,2d,I have the power to protect the environment.,10
+29,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,8
+29,2f,I can make a difference in my community.,8
+29,3a,Science.,6
+29,3b,How to research things I am curious about.,7
+29,3c,Learning about new subjects in school.,6
+29,3d,Learning more about nature.,5
+29,4a,Solving problems,9
+29,4b,Using science to answer a question,na
+29,4c,Listening to other people’s points of view,na
+29,4d,Knowing how to do research,8
+29,5a,Help to protect the environment.,7
+29,5b,Spend more time outside.,6
+29,5c,Make a positive difference in my community.,9
+29,5d,Listen more to other people's points of view.,na
+29,5e,Talk with others about ways to protect the environment.,6
+29,5f,Cooperate more with my classmates.,7
+29,5g,Work harder in school.,9
+29,5h,Pay more attention in class.,8
+29,6,Are you a girl or a boy?,Girl
+29,7,Which of the following best describes your racial or ethnic background?,na
+30,1a,Your school’s name ,John J. Duggan Academy
+30,1b,Your grade level,8
+30,2a,I believe in myself.,9
+30,2b,I feel it is important to take good care of the environment.,10
+30,2c,"Humans are a part of nature, not separate from it.",10
+30,2d,I have the power to protect the environment.,8
+30,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+30,2f,I can make a difference in my community.,5
+30,3a,Science.,9
+30,3b,How to research things I am curious about.,10
+30,3c,Learning about new subjects in school.,10
+30,3d,Learning more about nature.,8
+30,4a,Solving problems,5
+30,4b,Using science to answer a question,8
+30,4c,Listening to other people’s points of view,10
+30,4d,Knowing how to do research,10
+30,5a,Help to protect the environment.,7
+30,5b,Spend more time outside.,9
+30,5c,Make a positive difference in my community.,8
+30,5d,Listen more to other people's points of view.,10
+30,5e,Talk with others about ways to protect the environment.,5
+30,5f,Cooperate more with my classmates.,6
+30,5g,Work harder in school.,10
+30,5h,Pay more attention in class.,10
+31,6,Are you a girl or a boy?,Boy
+31,7,Which of the following best describes your racial or ethnic background?,Black not of Hispanic descent
+31,1a,Your school’s name ,John J. Duggan Academy
+31,1b,Your grade level,8
+31,2a,I believe in myself.,10
+31,2b,I feel it is important to take good care of the environment.,10
+31,2c,"Humans are a part of nature, not separate from it.",5
+31,2d,I have the power to protect the environment.,3
+31,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+31,2f,I can make a difference in my community.,8
+31,3a,Science.,3
+31,3b,How to research things I am curious about.,6
+31,3c,Learning about new subjects in school.,9
+31,3d,Learning more about nature.,8
+31,4a,Solving problems,8
+31,4b,Using science to answer a question,6
+31,4c,Listening to other people’s points of view,9
+31,4d,Knowing how to do research,8
+31,5a,Help to protect the environment.,3
+31,5b,Spend more time outside.,5
+31,5c,Make a positive difference in my community.,5
+31,5d,Listen more to other people's points of view.,5
+31,5e,Talk with others about ways to protect the environment.,2
+31,5f,Cooperate more with my classmates.,5
+31,5g,Work harder in school.,3
+31,5h,Pay more attention in class.,4
+31,6,Are you a girl or a boy?,Girl
+31,7,Which of the following best describes your racial or ethnic background?,Hispanic
+32,1a,Your school’s name ,John J. Duggan Academy
+32,1b,Your grade level,8
+32,2a,I believe in myself.,10
+32,2b,I feel it is important to take good care of the environment.,10
+32,2c,"Humans are a part of nature, not separate from it.",10
+32,2d,I have the power to protect the environment.,4
+32,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+32,2f,I can make a difference in my community.,10
+32,3a,Science.,10
+32,3b,How to research things I am curious about.,10
+32,3c,Learning about new subjects in school.,10
+32,3d,Learning more about nature.,8
+32,4a,Solving problems,5
+32,4b,Using science to answer a question,5
+32,4c,Listening to other people’s points of view,10
+32,4d,Knowing how to do research,5
+32,5a,Help to protect the environment.,5
+32,5b,Spend more time outside.,10
+32,5c,Make a positive difference in my community.,10
+32,5d,Listen more to other people's points of view.,10
+32,5e,Talk with others about ways to protect the environment.,10
+32,5f,Cooperate more with my classmates.,10
+32,5g,Work harder in school.,10
+32,5h,Pay more attention in class.,10
+32,6,Are you a girl or a boy?,Girl
+32,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+33,1a,Your school’s name ,John J. Duggan Academy
+33,1b,Your grade level,8
+33,2a,I believe in myself.,10
+33,2b,I feel it is important to take good care of the environment.,10
+33,2c,"Humans are a part of nature, not separate from it.",9
+33,2d,I have the power to protect the environment.,8
+33,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+33,2f,I can make a difference in my community.,9
+33,3a,Science.,7
+33,3b,How to research things I am curious about.,10
+33,3c,Learning about new subjects in school.,9
+33,3d,Learning more about nature.,8
+33,4a,Solving problems,9
+33,4b,Using science to answer a question,8
+33,4c,Listening to other people’s points of view,10
+33,4d,Knowing how to do research,9
+33,5a,Help to protect the environment.,8
+33,5b,Spend more time outside.,10
+33,5c,Make a positive difference in my community.,8
+33,5d,Listen more to other people's points of view.,10
+33,5e,Talk with others about ways to protect the environment.,9
+33,5f,Cooperate more with my classmates.,7
+33,5g,Work harder in school.,10
+33,5h,Pay more attention in class.,10
+33,6,Are you a girl or a boy?,Girl
+33,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+34,1a,Your school’s name ,John J. Duggan Academy
+34,1b,Your grade level,8
+34,2a,I believe in myself.,5
+34,2b,I feel it is important to take good care of the environment.,10
+34,2c,"Humans are a part of nature, not separate from it.",9
+34,2d,I have the power to protect the environment.,10
+34,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,8
+34,2f,I can make a difference in my community.,8
+34,3a,Science.,7
+34,3b,How to research things I am curious about.,8
+34,3c,Learning about new subjects in school.,8
+34,3d,Learning more about nature.,10
+34,4a,Solving problems,6
+34,4b,Using science to answer a question,8
+34,4c,Listening to other people’s points of view,9
+34,4d,Knowing how to do research,7
+34,5a,Help to protect the environment.,9
+34,5b,Spend more time outside.,10
+34,5c,Make a positive difference in my community.,9
+34,5d,Listen more to other people's points of view.,9
+34,5e,Talk with others about ways to protect the environment.,9
+34,5f,Cooperate more with my classmates.,8
+34,5g,Work harder in school.,8
+34,5h,Pay more attention in class.,8
+34,6,Are you a girl or a boy?,Girl
+34,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+35,1a,Your school’s name ,John J. Duggan Academy
+35,1b,Your grade level,8
+35,2a,I believe in myself.,7
+35,2b,I feel it is important to take good care of the environment.,10
+35,2c,"Humans are a part of nature, not separate from it.",9
+35,2d,I have the power to protect the environment.,5
+35,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,7
+35,2f,I can make a difference in my community.,6
+35,3a,Science.,7
+35,3b,How to research things I am curious about.,9
+35,3c,Learning about new subjects in school.,8
+35,3d,Learning more about nature.,7
+35,4a,Solving problems,9
+35,4b,Using science to answer a question,6
+35,4c,Listening to other people’s points of view,9
+35,4d,Knowing how to do research,8
+35,5a,Help to protect the environment.,8
+35,5b,Spend more time outside.,6
+35,5c,Make a positive difference in my community.,7
+35,5d,Listen more to other people's points of view.,6
+35,5e,Talk with others about ways to protect the environment.,5
+35,5f,Cooperate more with my classmates.,8
+35,5g,Work harder in school.,9
+35,5h,Pay more attention in class.,9
+35,6,Are you a girl or a boy?,Girl
+35,7,Which of the following best describes your racial or ethnic background?,Other: Mexican
+36,1a,Your school’s name ,John J. Duggan Academy
+36,1b,Your grade level,8
+36,2a,I believe in myself.,10
+36,2b,I feel it is important to take good care of the environment.,10
+36,2c,"Humans are a part of nature, not separate from it.",10
+36,2d,I have the power to protect the environment.,10
+36,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+36,2f,I can make a difference in my community.,10
+36,3a,Science.,3
+36,3b,How to research things I am curious about.,7
+36,3c,Learning about new subjects in school.,7
+36,3d,Learning more about nature.,4
+36,4a,Solving problems,7
+36,4b,Using science to answer a question,3
+36,4c,Listening to other people’s points of view,8
+36,4d,Knowing how to do research,4
+36,5a,Help to protect the environment.,10
+36,5b,Spend more time outside.,3
+36,5c,Make a positive difference in my community.,7
+36,5d,Listen more to other people's points of view.,4
+36,5e,Talk with others about ways to protect the environment.,6
+36,5f,Cooperate more with my classmates.,2
+36,5g,Work harder in school.,5
+36,5h,Pay more attention in class.,7
+36,6,Are you a girl or a boy?,Girl
+36,7,Which of the following best describes your racial or ethnic background?,Hispanic
+37,1a,Your school’s name ,John J. Duggan Academy
+37,1b,Your grade level,8
+37,2a,I believe in myself.,5
+37,2b,I feel it is important to take good care of the environment.,9
+37,2c,"Humans are a part of nature, not separate from it.",7
+37,2d,I have the power to protect the environment.,3
+37,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+37,2f,I can make a difference in my community.,7
+37,3a,Science.,3
+37,3b,How to research things I am curious about.,5
+37,3c,Learning about new subjects in school.,4
+37,3d,Learning more about nature.,4
+37,4a,Solving problems,5
+37,4b,Using science to answer a question,4
+37,4c,Listening to other people’s points of view,3
+37,4d,Knowing how to do research,2
+37,5a,Help to protect the environment.,6
+37,5b,Spend more time outside.,6
+37,5c,Make a positive difference in my community.,6
+37,5d,Listen more to other people's points of view.,6
+37,5e,Talk with others about ways to protect the environment.,6
+37,5f,Cooperate more with my classmates.,7
+37,5g,Work harder in school.,4
+37,5h,Pay more attention in class.,3
+37,6,Are you a girl or a boy?,Girl
+37,7,Which of the following best describes your racial or ethnic background?,Hispanic
+38,1a,Your school’s name ,John J. Duggan Academy
+38,1b,Your grade level,8
+38,2a,I believe in myself.,10
+38,2b,I feel it is important to take good care of the environment.,10
+38,2c,"Humans are a part of nature, not separate from it.",10
+38,2d,I have the power to protect the environment.,10
+38,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+38,2f,I can make a difference in my community.,10
+38,3a,Science.,10
+38,3b,How to research things I am curious about.,10
+38,3c,Learning about new subjects in school.,9
+38,3d,Learning more about nature.,10
+38,4a,Solving problems,10
+38,4b,Using science to answer a question,9
+38,4c,Listening to other people’s points of view,10
+38,4d,Knowing how to do research,8
+38,5a,Help to protect the environment.,9
+38,5b,Spend more time outside.,10
+38,5c,Make a positive difference in my community.,8
+38,5d,Listen more to other people's points of view.,10
+38,5e,Talk with others about ways to protect the environment.,10
+38,5f,Cooperate more with my classmates.,9
+38,5g,Work harder in school.,10
+38,5h,Pay more attention in class.,10
+38,6,Are you a girl or a boy?,Girl
+38,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+39,1a,Your school’s name ,John J. Duggan Academy
+39,1b,Your grade level,8
+39,2a,I believe in myself.,10
+39,2b,I feel it is important to take good care of the environment.,10
+39,2c,"Humans are a part of nature, not separate from it.",10
+39,2d,I have the power to protect the environment.,9
+39,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+39,2f,I can make a difference in my community.,5
+39,3a,Science.,7
+39,3b,How to research things I am curious about.,10
+39,3c,Learning about new subjects in school.,9
+39,3d,Learning more about nature.,10
+39,4a,Solving problems,7
+39,4b,Using science to answer a question,7
+39,4c,Listening to other people’s points of view,9
+39,4d,Knowing how to do research,9
+39,5a,Help to protect the environment.,10
+39,5b,Spend more time outside.,10
+39,5c,Make a positive difference in my community.,9
+39,5d,Listen more to other people's points of view.,9
+39,5e,Talk with others about ways to protect the environment.,9
+39,5f,Cooperate more with my classmates.,10
+39,5g,Work harder in school.,10
+39,5h,Pay more attention in class.,10
+39,6,Are you a girl or a boy?,Boy
+39,7,Which of the following best describes your racial or ethnic background?,Hispanic
+40,1a,Your school’s name ,John J. Duggan Academy
+40,1b,Your grade level,8
+40,2a,I believe in myself.,5
+40,2b,I feel it is important to take good care of the environment.,10
+40,2c,"Humans are a part of nature, not separate from it.",10
+40,2d,I have the power to protect the environment.,10
+40,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,7
+40,2f,I can make a difference in my community.,7
+40,3a,Science.,5
+40,3b,How to research things I am curious about.,10
+40,3c,Learning about new subjects in school.,10
+40,3d,Learning more about nature.,8
+40,4a,Solving problems,7
+40,4b,Using science to answer a question,5
+40,4c,Listening to other people’s points of view,7
+40,4d,Knowing how to do research,10
+40,5a,Help to protect the environment.,5
+40,5b,Spend more time outside.,8
+40,5c,Make a positive difference in my community.,5
+40,5d,Listen more to other people's points of view.,10
+40,5e,Talk with others about ways to protect the environment.,5
+40,5f,Cooperate more with my classmates.,10
+40,5g,Work harder in school.,10
+40,5h,Pay more attention in class.,10
+40,6,Are you a girl or a boy?,Girl
+40,7,Which of the following best describes your racial or ethnic background?,"White, not of Hispanic descent"
+41,1a,Your school’s name ,John J. Duggan Academy
+41,1b,Your grade level,8
+41,2a,I believe in myself.,5
+41,2b,I feel it is important to take good care of the environment.,7
+41,2c,"Humans are a part of nature, not separate from it.",7
+41,2d,I have the power to protect the environment.,7
+41,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+41,2f,I can make a difference in my community.,6
+41,3a,Science.,8
+41,3b,How to research things I am curious about.,7
+41,3c,Learning about new subjects in school.,7
+41,3d,Learning more about nature.,7
+41,4a,Solving problems,9
+41,4b,Using science to answer a question,8
+41,4c,Listening to other people’s points of view,7
+41,4d,Knowing how to do research,7
+41,5a,Help to protect the environment.,6
+41,5b,Spend more time outside.,8
+41,5c,Make a positive difference in my community.,7
+41,5d,Listen more to other people's points of view.,6
+41,5e,Talk with others about ways to protect the environment.,5
+41,5f,Cooperate more with my classmates.,8
+41,5g,Work harder in school.,9
+41,5h,Pay more attention in class.,9
+41,6,Are you a girl or a boy?,Girl
+41,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+42,1a,Your school’s name ,John J. Duggan Academy
+42,1b,Your grade level,8
+42,2a,I believe in myself.,10
+42,2b,I feel it is important to take good care of the environment.,10
+42,2c,"Humans are a part of nature, not separate from it.",8
+42,2d,I have the power to protect the environment.,10
+42,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+42,2f,I can make a difference in my community.,10
+42,3a,Science.,5
+42,3b,How to research things I am curious about.,5
+42,3c,Learning about new subjects in school.,8
+42,3d,Learning more about nature.,8
+42,4a,Solving problems,7
+42,4b,Using science to answer a question,5
+42,4c,Listening to other people’s points of view,10
+42,4d,Knowing how to do research,5
+42,5a,Help to protect the environment.,9
+42,5b,Spend more time outside.,9
+42,5c,Make a positive difference in my community.,9
+42,5d,Listen more to other people's points of view.,9
+42,5e,Talk with others about ways to protect the environment.,5
+42,5f,Cooperate more with my classmates.,9
+42,5g,Work harder in school.,9
+42,5h,Pay more attention in class.,10
+42,6,Are you a girl or a boy?,Boy
+42,7,Which of the following best describes your racial or ethnic background?,Hispanic
+43,1a,Your school’s name ,John J. Duggan Academy
+43,1b,Your grade level,8
+43,2a,I believe in myself.,10
+43,2b,I feel it is important to take good care of the environment.,10
+43,2c,"Humans are a part of nature, not separate from it.",10
+43,2d,I have the power to protect the environment.,2
+43,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+43,2f,I can make a difference in my community.,5
+43,3a,Science.,7
+43,3b,How to research things I am curious about.,10
+43,3c,Learning about new subjects in school.,5
+43,3d,Learning more about nature.,7
+43,4a,Solving problems,8
+43,4b,Using science to answer a question,3
+43,4c,Listening to other people’s points of view,10
+43,4d,Knowing how to do research,10
+43,5a,Help to protect the environment.,5
+43,5b,Spend more time outside.,10
+43,5c,Make a positive difference in my community.,7
+43,5d,Listen more to other people's points of view.,10
+43,5e,Talk with others about ways to protect the environment.,7
+43,5f,Cooperate more with my classmates.,4
+43,5g,Work harder in school.,10
+43,5h,Pay more attention in class.,10
+43,6,Are you a girl or a boy?,Girl
+43,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+44,1a,Your school’s name ,John J. Duggan Academy
+44,1b,Your grade level,8
+44,2a,I believe in myself.,10
+44,2b,I feel it is important to take good care of the environment.,10
+44,2c,"Humans are a part of nature, not separate from it.",10
+44,2d,I have the power to protect the environment.,9
+44,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+44,2f,I can make a difference in my community.,10
+44,3a,Science.,10
+44,3b,How to research things I am curious about.,9
+44,3c,Learning about new subjects in school.,10
+44,3d,Learning more about nature.,10
+44,4a,Solving problems,9
+44,4b,Using science to answer a question,10
+44,4c,Listening to other people’s points of view,10
+44,4d,Knowing how to do research,10
+44,5a,Help to protect the environment.,9
+44,5b,Spend more time outside.,10
+44,5c,Make a positive difference in my community.,10
+44,5d,Listen more to other people's points of view.,10
+44,5e,Talk with others about ways to protect the environment.,10
+44,5f,Cooperate more with my classmates.,10
+44,5g,Work harder in school.,10
+44,5h,Pay more attention in class.,10
+44,6,Are you a girl or a boy?,Girl
+44,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+45,1a,Your school’s name ,John J. Duggan Academy
+45,1b,Your grade level,8
+45,2a,I believe in myself.,2
+45,2b,I feel it is important to take good care of the environment.,5
+45,2c,"Humans are a part of nature, not separate from it.",8
+45,2d,I have the power to protect the environment.,5
+45,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,2
+45,2f,I can make a difference in my community.,1
+45,3a,Science.,5
+45,3b,How to research things I am curious about.,5
+45,3c,Learning about new subjects in school.,5
+45,3d,Learning more about nature.,5
+45,4a,Solving problems,4
+45,4b,Using science to answer a question,5
+45,4c,Listening to other people’s points of view,5
+45,4d,Knowing how to do research,7
+45,5a,Help to protect the environment.,3
+45,5b,Spend more time outside.,5
+45,5c,Make a positive difference in my community.,2
+45,5d,Listen more to other people's points of view.,na
+45,5e,Talk with others about ways to protect the environment.,2
+45,5f,Cooperate more with my classmates.,5
+45,5g,Work harder in school.,5
+45,5h,Pay more attention in class.,5
+45,6,Are you a girl or a boy?,Boy
+45,7,Which of the following best describes your racial or ethnic background?,Other: Jamaican
+46,1a,Your school’s name ,John J. Duggan Academy
+46,1b,Your grade level,8
+46,2a,I believe in myself.,7
+46,2b,I feel it is important to take good care of the environment.,10
+46,2c,"Humans are a part of nature, not separate from it.",9
+46,2d,I have the power to protect the environment.,9
+46,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,8
+46,2f,I can make a difference in my community.,6
+46,3a,Science.,5
+46,3b,How to research things I am curious about.,7
+46,3c,Learning about new subjects in school.,8
+46,3d,Learning more about nature.,10
+46,4a,Solving problems,10
+46,4b,Using science to answer a question,6
+46,4c,Listening to other people’s points of view,5
+46,4d,Knowing how to do research,8
+46,5a,Help to protect the environment.,8
+46,5b,Spend more time outside.,5
+46,5c,Make a positive difference in my community.,7
+46,5d,Listen more to other people's points of view.,7
+46,5e,Talk with others about ways to protect the environment.,8
+46,5f,Cooperate more with my classmates.,7
+46,5g,Work harder in school.,9
+46,5h,Pay more attention in class.,9
+46,6,Are you a girl or a boy?,Boy
+46,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+47,1a,Your school’s name ,John J. Duggan Academy
+47,1b,Your grade level,8
+47,2a,I believe in myself.,10
+47,2b,I feel it is important to take good care of the environment.,10
+47,2c,"Humans are a part of nature, not separate from it.",9
+47,2d,I have the power to protect the environment.,10
+47,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+47,2f,I can make a difference in my community.,9
+47,3a,Science.,9
+47,3b,How to research things I am curious about.,7
+47,3c,Learning about new subjects in school.,8
+47,3d,Learning more about nature.,8
+47,4a,Solving problems,8
+47,4b,Using science to answer a question,8
+47,4c,Listening to other people’s points of view,9
+47,4d,Knowing how to do research,7
+47,5a,Help to protect the environment.,8
+47,5b,Spend more time outside.,8
+47,5c,Make a positive difference in my community.,8
+47,5d,Listen more to other people's points of view.,9
+47,5e,Talk with others about ways to protect the environment.,8
+47,5f,Cooperate more with my classmates.,8
+47,5g,Work harder in school.,9
+47,5h,Pay more attention in class.,9
+47,6,Are you a girl or a boy?,Boy
+47,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+48,1a,Your school’s name ,John J. Duggan Academy
+48,1b,Your grade level,8
+48,2a,I believe in myself.,10
+48,2b,I feel it is important to take good care of the environment.,8
+48,2c,"Humans are a part of nature, not separate from it.",7
+48,2d,I have the power to protect the environment.,6
+48,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,8
+48,2f,I can make a difference in my community.,9
+48,3a,Science.,2
+48,3b,How to research things I am curious about.,7
+48,3c,Learning about new subjects in school.,na
+48,3d,Learning more about nature.,10
+48,4a,Solving problems,8
+48,4b,Using science to answer a question,4
+48,4c,Listening to other people’s points of view,9
+48,4d,Knowing how to do research,6
+48,5a,Help to protect the environment.,6
+48,5b,Spend more time outside.,7
+48,5c,Make a positive difference in my community.,5
+48,5d,Listen more to other people's points of view.,8
+48,5e,Talk with others about ways to protect the environment.,5
+48,5f,Cooperate more with my classmates.,7
+48,5g,Work harder in school.,6
+48,5h,Pay more attention in class.,7
+48,6,Are you a girl or a boy?,Girl
+48,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+49,1a,Your school’s name ,John J. Duggan Academy
+49,1b,Your grade level,8
+49,2a,I believe in myself.,10
+49,2b,I feel it is important to take good care of the environment.,6
+49,2c,"Humans are a part of nature, not separate from it.",5
+49,2d,I have the power to protect the environment.,5
+49,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+49,2f,I can make a difference in my community.,5
+49,3a,Science.,7
+49,3b,How to research things I am curious about.,6
+49,3c,Learning about new subjects in school.,6
+49,3d,Learning more about nature.,5
+49,4a,Solving problems,10
+49,4b,Using science to answer a question,10
+49,4c,Listening to other people’s points of view,8
+49,4d,Knowing how to do research,7
+49,5a,Help to protect the environment.,1
+49,5b,Spend more time outside.,7
+49,5c,Make a positive difference in my community.,1
+49,5d,Listen more to other people's points of view.,4
+49,5e,Talk with others about ways to protect the environment.,0
+49,5f,Cooperate more with my classmates.,7
+49,5g,Work harder in school.,9
+49,5h,Pay more attention in class.,9
+49,6,Are you a girl or a boy?,Boy
+49,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+50,1a,Your school’s name ,John J. Duggan Academy
+50,1b,Your grade level,8
+50,2a,I believe in myself.,10
+50,2b,I feel it is important to take good care of the environment.,3
+50,2c,"Humans are a part of nature, not separate from it.",1
+50,2d,I have the power to protect the environment.,7
+50,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+50,2f,I can make a difference in my community.,2
+50,3a,Science.,10
+50,3b,How to research things I am curious about.,8
+50,3c,Learning about new subjects in school.,5
+50,3d,Learning more about nature.,0
+50,4a,Solving problems,6
+50,4b,Using science to answer a question,1
+50,4c,Listening to other people’s points of view,3
+50,4d,Knowing how to do research,6
+50,5a,Help to protect the environment.,1
+50,5b,Spend more time outside.,0
+50,5c,Make a positive difference in my community.,7
+50,5d,Listen more to other people's points of view.,9
+50,5e,Talk with others about ways to protect the environment.,3
+50,5f,Cooperate more with my classmates.,8
+50,5g,Work harder in school.,10
+50,5h,Pay more attention in class.,8
+50,6,Are you a girl or a boy?,Girl
+50,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+51,1a,Your school’s name , John J. Duggan Academy
+51,1b,Your grade level,8
+51,2a,I believe in myself.,8
+51,2b,I feel it is important to take good care of the environment.,7
+51,2c,"Humans are a part of nature, not separate from it.",7
+51,2d,I have the power to protect the environment.,4
+51,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,7
+51,2f,I can make a difference in my community.,7
+51,3a,Science.,7
+51,3b,How to research things I am curious about.,7
+51,3c,Learning about new subjects in school.,6
+51,3d,Learning more about nature.,6
+51,4a,Solving problems,8
+51,4b,Using science to answer a question,7
+51,4c,Listening to other people’s points of view,9
+51,4d,Knowing how to do research,6
+51,5a,Help to protect the environment.,6
+51,5b,Spend more time outside.,10
+51,5c,Make a positive difference in my community.,5
+51,5d,Listen more to other people's points of view.,7
+51,5e,Talk with others about ways to protect the environment.,6
+51,5f,Cooperate more with my classmates.,6
+51,5g,Work harder in school.,7
+51,5h,Pay more attention in class.,6
+51,6,Are you a girl or a boy?,Boy
+51,7,Which of the following best describes your racial or ethnic background?,"White, not of Hispanic descent"
+52,1a,Your school’s name ,John J. Duggan Academy
+52,1b,Your grade level,8
+52,2a,I believe in myself.,4
+52,2b,I feel it is important to take good care of the environment.,6
+52,2c,"Humans are a part of nature, not separate from it.",6
+52,2d,I have the power to protect the environment.,6
+52,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+52,2f,I can make a difference in my community.,6
+52,3a,Science.,5
+52,3b,How to research things I am curious about.,6
+52,3c,Learning about new subjects in school.,5
+52,3d,Learning more about nature.,5
+52,4a,Solving problems,4
+52,4b,Using science to answer a question,4
+52,4c,Listening to other people’s points of view,5
+52,4d,Knowing how to do research,5
+52,5a,Help to protect the environment.,5
+52,5b,Spend more time outside.,5
+52,5c,Make a positive difference in my community.,6
+52,5d,Listen more to other people's points of view.,7
+52,5e,Talk with others about ways to protect the environment.,7
+52,5f,Cooperate more with my classmates.,1
+52,5g,Work harder in school.,5
+52,5h,Pay more attention in class.,5
+52,6,Are you a girl or a boy?,Girl
+52,7,Which of the following best describes your racial or ethnic background?,"White, not of Hispanic descent"
+53,1a,Your school’s name ,John J. Duggan Academy
+53,1b,Your grade level,8
+53,2a,I believe in myself.,4
+53,2b,I feel it is important to take good care of the environment.,2
+53,2c,"Humans are a part of nature, not separate from it.",na
+53,2d,I have the power to protect the environment.,6
+53,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+53,2f,I can make a difference in my community.,4
+53,3a,Science.,2
+53,3b,How to research things I am curious about.,3
+53,3c,Learning about new subjects in school.,na
+53,3d,Learning more about nature.,2
+53,4a,Solving problems,7
+53,4b,Using science to answer a question,na
+53,4c,Listening to other people’s points of view,3
+53,4d,Knowing how to do research,10
+53,5a,Help to protect the environment.,3
+53,5b,Spend more time outside.,2
+53,5c,Make a positive difference in my community.,4
+53,5d,Listen more to other people's points of view.,2
+53,5e,Talk with others about ways to protect the environment.,na
+53,5f,Cooperate more with my classmates.,na
+53,5g,Work harder in school.,na
+53,5h,Pay more attention in class.,5
+53,6,Are you a girl or a boy?,Girl
+53,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+54,1a,Your school’s name ,John J. Duggan Academy
+54,1b,Your grade level,8
+54,2a,I believe in myself.,1
+54,2b,I feel it is important to take good care of the environment.,10
+54,2c,"Humans are a part of nature, not separate from it.",7
+54,2d,I have the power to protect the environment.,9
+54,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,1
+54,2f,I can make a difference in my community.,6
+54,3a,Science.,na
+54,3b,How to research things I am curious about.,8
+54,3c,Learning about new subjects in school.,9
+54,3d,Learning more about nature.,9
+54,4a,Solving problems,6
+54,4b,Using science to answer a question,2
+54,4c,Listening to other people’s points of view,8
+54,4d,Knowing how to do research,8
+54,5a,Help to protect the environment.,8
+54,5b,Spend more time outside.,7
+54,5c,Make a positive difference in my community.,7
+54,5d,Listen more to other people's points of view.,7
+54,5e,Talk with others about ways to protect the environment.,6
+54,5f,Cooperate more with my classmates.,5
+54,5g,Work harder in school.,8
+54,5h,Pay more attention in class.,9
+54,6,Are you a girl or a boy?,Girl
+54,7,Which of the following best describes your racial or ethnic background?,mixed (two or more races)
+55,1a,Your school’s name ,John J. Duggan Academy
+55,1b,Your grade level,8
+55,2a,I believe in myself.,5
+55,2b,I feel it is important to take good care of the environment.,10
+55,2c,"Humans are a part of nature, not separate from it.",5
+55,2d,I have the power to protect the environment.,10
+55,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+55,2f,I can make a difference in my community.,10
+55,3a,Science.,5
+55,3b,How to research things I am curious about.,5
+55,3c,Learning about new subjects in school.,5
+55,3d,Learning more about nature.,7
+55,4a,Solving problems,2
+55,4b,Using science to answer a question,2
+55,4c,Listening to other people’s points of view,3
+55,4d,Knowing how to do research,6
+55,5a,Help to protect the environment.,5
+55,5b,Spend more time outside.,0
+55,5c,Make a positive difference in my community.,5
+55,5d,Listen more to other people's points of view.,2
+55,5e,Talk with others about ways to protect the environment.,2
+55,5f,Cooperate more with my classmates.,3
+55,5g,Work harder in school.,1
+55,5h,Pay more attention in class.,10
+55,6,Are you a girl or a boy?,Boy
+55,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+56,1a,Your school’s name ,John J. Duggan Academy
+56,1b,Your grade level,8
+56,2a,I believe in myself.,0
+56,2b,I feel it is important to take good care of the environment.,10
+56,2c,"Humans are a part of nature, not separate from it.",8
+56,2d,I have the power to protect the environment.,9
+56,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,0
+56,2f,I can make a difference in my community.,5
+56,3a,Science.,8
+56,3b,How to research things I am curious about.,7
+56,3c,Learning about new subjects in school.,9
+56,3d,Learning more about nature.,9
+56,4a,Solving problems,8
+56,4b,Using science to answer a question,8
+56,4c,Listening to other people’s points of view,9
+56,4d,Knowing how to do research,7
+56,5a,Help to protect the environment.,7
+56,5b,Spend more time outside.,10
+56,5c,Make a positive difference in my community.,8
+56,5d,Listen more to other people's points of view.,10
+56,5e,Talk with others about ways to protect the environment.,7
+56,5f,Cooperate more with my classmates.,9
+56,5g,Work harder in school.,9
+56,5h,Pay more attention in class.,8
+56,6,Are you a girl or a boy?,Girl
+56,7,Which of the following best describes your racial or ethnic background?,Hispanic
+57,1a,Your school’s name ,John J. Duggan Academy
+57,1b,Your grade level,8
+57,2a,I believe in myself.,5
+57,2b,I feel it is important to take good care of the environment.,9
+57,2c,"Humans are a part of nature, not separate from it.",6
+57,2d,I have the power to protect the environment.,6
+57,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+57,2f,I can make a difference in my community.,4
+57,3a,Science.,7
+57,3b,How to research things I am curious about.,8
+57,3c,Learning about new subjects in school.,6
+57,3d,Learning more about nature.,7
+57,4a,Solving problems,8
+57,4b,Using science to answer a question,5
+57,4c,Listening to other people’s points of view,9
+57,4d,Knowing how to do research,5
+57,5a,Help to protect the environment.,6
+57,5b,Spend more time outside.,7
+57,5c,Make a positive difference in my community.,5
+57,5d,Listen more to other people's points of view.,8
+57,5e,Talk with others about ways to protect the environment.,6
+57,5f,Cooperate more with my classmates.,5
+57,5g,Work harder in school.,8
+57,5h,Pay more attention in class.,7
+57,6,Are you a girl or a boy?,Girl
+57,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+58,1a,Your school’s name ,John J. Duggan Academy
+58,1b,Your grade level,8
+58,2a,I believe in myself.,8
+58,2b,I feel it is important to take good care of the environment.,9
+58,2c,"Humans are a part of nature, not separate from it.",10
+58,2d,I have the power to protect the environment.,7
+58,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+58,2f,I can make a difference in my community.,7
+58,3a,Science.,8
+58,3b,How to research things I am curious about.,9
+58,3c,Learning about new subjects in school.,8
+58,3d,Learning more about nature.,9
+58,4a,Solving problems,9
+58,4b,Using science to answer a question,8
+58,4c,Listening to other people’s points of view,9
+58,4d,Knowing how to do research,9
+58,5a,Help to protect the environment.,7
+58,5b,Spend more time outside.,8
+58,5c,Make a positive difference in my community.,8
+58,5d,Listen more to other people's points of view.,9
+58,5e,Talk with others about ways to protect the environment.,8
+58,5f,Cooperate more with my classmates.,8
+58,5g,Work harder in school.,8
+58,5h,Pay more attention in class.,8
+58,6,Are you a girl or a boy?,Boy
+58,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+59,1a,Your school’s name ,John J. Duggan Academy
+59,1b,Your grade level,8
+59,2a,I believe in myself.,10
+59,2b,I feel it is important to take good care of the environment.,10
+59,2c,"Humans are a part of nature, not separate from it.",9
+59,2d,I have the power to protect the environment.,10
+59,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+59,2f,I can make a difference in my community.,10
+59,3a,Science.,7
+59,3b,How to research things I am curious about.,7
+59,3c,Learning about new subjects in school.,7
+59,3d,Learning more about nature.,7
+59,4a,Solving problems,10
+59,4b,Using science to answer a question,7
+59,4c,Listening to other people’s points of view,10
+59,4d,Knowing how to do research,8
+59,5a,Help to protect the environment.,10
+59,5b,Spend more time outside.,10
+59,5c,Make a positive difference in my community.,10
+59,5d,Listen more to other people's points of view.,10
+59,5e,Talk with others about ways to protect the environment.,10
+59,5f,Cooperate more with my classmates.,10
+59,5g,Work harder in school.,10
+59,5h,Pay more attention in class.,10
+59,6,Are you a girl or a boy?,Boy
+59,7,Which of the following best describes your racial or ethnic background?,Asian
+60,1a,Your school’s name ,John J. Duggan Academy
+60,1b,Your grade level,8
+60,2a,I believe in myself.,10
+60,2b,I feel it is important to take good care of the environment.,10
+60,2c,"Humans are a part of nature, not separate from it.",8
+60,2d,I have the power to protect the environment.,6
+60,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+60,2f,I can make a difference in my community.,8
+60,3a,Science.,7
+60,3b,How to research things I am curious about.,6
+60,3c,Learning about new subjects in school.,8
+60,3d,Learning more about nature.,7
+60,4a,Solving problems,8
+60,4b,Using science to answer a question,6
+60,4c,Listening to other people’s points of view,7
+60,4d,Knowing how to do research,7
+60,5a,Help to protect the environment.,6
+60,5b,Spend more time outside.,3
+60,5c,Make a positive difference in my community.,7
+60,5d,Listen more to other people's points of view.,9
+60,5e,Talk with others about ways to protect the environment.,4
+60,5f,Cooperate more with my classmates.,7
+60,5g,Work harder in school.,8
+60,5h,Pay more attention in class.,7
+60,6,Are you a girl or a boy?,Boy
+60,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+61,1a,Your school’s name ,Van Sickle Academy
+61,1b,Your grade level,6
+61,2a,I believe in myself.,10
+61,2b,I feel it is important to take good care of the environment.,10
+61,2c,"Humans are a part of nature, not separate from it.",10
+61,2d,I have the power to protect the environment.,10
+61,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+61,2f,I can make a difference in my community.,5
+61,3a,Science.,8
+61,3b,How to research things I am curious about.,10
+61,3c,Learning about new subjects in school.,7
+61,3d,Learning more about nature.,10
+61,4a,Solving problems,8
+61,4b,Using science to answer a question,9
+61,4c,Listening to other people’s points of view,5
+61,4d,Knowing how to do research,6
+61,5a,Help to protect the environment.,8
+61,5b,Spend more time outside.,6
+61,5c,Make a positive difference in my community.,8
+61,5d,Listen more to other people's points of view.,6
+61,5e,Talk with others about ways to protect the environment.,9
+61,5f,Cooperate more with my classmates.,6
+61,5g,Work harder in school.,10
+61,5h,Pay more attention in class.,10
+61,6,Are you a girl or a boy?,Boy
+61,7,Which of the following best describes your racial or ethnic background?,mixed (two or more races)
+62,1a,Your school’s name ,Van Sickle Academy
+62,1b,Your grade level,6
+62,2a,I believe in myself.,10
+62,2b,I feel it is important to take good care of the environment.,10
+62,2c,"Humans are a part of nature, not separate from it.",10
+62,2d,I have the power to protect the environment.,0
+62,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+62,2f,I can make a difference in my community.,5
+62,3a,Science.,10
+62,3b,How to research things I am curious about.,10
+62,3c,Learning about new subjects in school.,7
+62,3d,Learning more about nature.,5
+62,4a,Solving problems,8
+62,4b,Using science to answer a question,9
+62,4c,Listening to other people’s points of view,6
+62,4d,Knowing how to do research,10
+62,5a,Help to protect the environment.,5
+62,5b,Spend more time outside.,9
+62,5c,Make a positive difference in my community.,6
+62,5d,Listen more to other people's points of view.,4
+62,5e,Talk with others about ways to protect the environment.,2
+62,5f,Cooperate more with my classmates.,6
+62,5g,Work harder in school.,10
+62,5h,Pay more attention in class.,10
+62,6,Are you a girl or a boy?,Boy
+62,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+63,1a,Your school’s name ,Van Sickle Academy
+63,1b,Your grade level,6
+63,2a,I believe in myself.,10
+63,2b,I feel it is important to take good care of the environment.,7
+63,2c,"Humans are a part of nature, not separate from it.",5
+63,2d,I have the power to protect the environment.,9
+63,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+63,2f,I can make a difference in my community.,8
+63,3a,Science.,5
+63,3b,How to research things I am curious about.,7
+63,3c,Learning about new subjects in school.,2
+63,3d,Learning more about nature.,3
+63,4a,Solving problems,6
+63,4b,Using science to answer a question,6
+63,4c,Listening to other people’s points of view,5
+63,4d,Knowing how to do research,6
+63,5a,Help to protect the environment.,7
+63,5b,Spend more time outside.,5
+63,5c,Make a positive difference in my community.,6
+63,5d,Listen more to other people's points of view.,6
+63,5e,Talk with others about ways to protect the environment.,1
+63,5f,Cooperate more with my classmates.,4
+63,5g,Work harder in school.,6
+63,5h,Pay more attention in class.,6
+63,6,Are you a girl or a boy?,Boy
+63,7,Which of the following best describes your racial or ethnic background?,Hispanic
+64,1a,Your school’s name ,Van Sickle Academy
+64,1b,Your grade level,6
+64,2a,I believe in myself.,8
+64,2b,I feel it is important to take good care of the environment.,10
+64,2c,"Humans are a part of nature, not separate from it.",8
+64,2d,I have the power to protect the environment.,8
+64,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+64,2f,I can make a difference in my community.,3
+64,3a,Science.,1
+64,3b,How to research things I am curious about.,1
+64,3c,Learning about new subjects in school.,5
+64,3d,Learning more about nature.,3
+64,4a,Solving problems,3
+64,4b,Using science to answer a question,5
+64,4c,Listening to other people’s points of view,5
+64,4d,Knowing how to do research,5
+64,5a,Help to protect the environment.,5
+64,5b,Spend more time outside.,8
+64,5c,Make a positive difference in my community.,0
+64,5d,Listen more to other people's points of view.,3
+64,5e,Talk with others about ways to protect the environment.,4
+64,5f,Cooperate more with my classmates.,1
+64,5g,Work harder in school.,5
+64,5h,Pay more attention in class.,3
+64,6,Are you a girl or a boy?,Girl
+64,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+65,1a,Your school’s name ,Van Sickle Academy
+65,1b,Your grade level,6
+65,2a,I believe in myself.,10
+65,2b,I feel it is important to take good care of the environment.,4
+65,2c,"Humans are a part of nature, not separate from it.",2
+65,2d,I have the power to protect the environment.,2
+65,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+65,2f,I can make a difference in my community.,6
+65,3a,Science.,5
+65,3b,How to research things I am curious about.,2
+65,3c,Learning about new subjects in school.,1
+65,3d,Learning more about nature.,1
+65,4a,Solving problems,4
+65,4b,Using science to answer a question,2
+65,4c,Listening to other people’s points of view,5
+65,4d,Knowing how to do research,8
+65,5a,Help to protect the environment.,3
+65,5b,Spend more time outside.,6
+65,5c,Make a positive difference in my community.,4
+65,5d,Listen more to other people's points of view.,4
+65,5e,Talk with others about ways to protect the environment.,3
+65,5f,Cooperate more with my classmates.,7
+65,5g,Work harder in school.,7
+65,5h,Pay more attention in class.,7
+65,6,Are you a girl or a boy?,Boy
+65,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+66,1a,Your school’s name ,Van Sickle Academy
+66,1b,Your grade level,6
+66,2a,I believe in myself.,8
+66,2b,I feel it is important to take good care of the environment.,5
+66,2c,"Humans are a part of nature, not separate from it.",2
+66,2d,I have the power to protect the environment.,0
+66,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,6
+66,2f,I can make a difference in my community.,4
+66,3a,Science.,4
+66,3b,How to research things I am curious about.,6
+66,3c,Learning about new subjects in school.,0
+66,3d,Learning more about nature.,4
+66,4a,Solving problems,6
+66,4b,Using science to answer a question,2
+66,4c,Listening to other people’s points of view,9
+66,4d,Knowing how to do research,8
+66,5a,Help to protect the environment.,6
+66,5b,Spend more time outside.,8
+66,5c,Make a positive difference in my community.,7
+66,5d,Listen more to other people's points of view.,8
+66,5e,Talk with others about ways to protect the environment.,5
+66,5f,Cooperate more with my classmates.,5
+66,5g,Work harder in school.,5
+66,5h,Pay more attention in class.,7
+66,6,Are you a girl or a boy?,Boy
+66,7,Which of the following best describes your racial or ethnic background?,Hispanic
+67,1a,Your school’s name ,Van Sickle Academy
+67,1b,Your grade level,6
+67,2a,I believe in myself.,10
+67,2b,I feel it is important to take good care of the environment.,10
+67,2c,"Humans are a part of nature, not separate from it.",10
+67,2d,I have the power to protect the environment.,8
+67,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+67,2f,I can make a difference in my community.,6
+67,3a,Science.,8
+67,3b,How to research things I am curious about.,1
+67,3c,Learning about new subjects in school.,1
+67,3d,Learning more about nature.,7
+67,4a,Solving problems,10
+67,4b,Using science to answer a question,5
+67,4c,Listening to other people’s points of view,4
+67,4d,Knowing how to do research,10
+67,5a,Help to protect the environment.,10
+67,5b,Spend more time outside.,10
+67,5c,Make a positive difference in my community.,10
+67,5d,Listen more to other people's points of view.,3
+67,5e,Talk with others about ways to protect the environment.,3
+67,5f,Cooperate more with my classmates.,10
+67,5g,Work harder in school.,10
+67,5h,Pay more attention in class.,10
+67,6,Are you a girl or a boy?,Girl
+67,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+68,1a,Your school’s name ,Van Sickle Academy
+68,1b,Your grade level,6
+68,2a,I believe in myself.,10
+68,2b,I feel it is important to take good care of the environment.,6
+68,2c,"Humans are a part of nature, not separate from it.",5
+68,2d,I have the power to protect the environment.,5
+68,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+68,2f,I can make a difference in my community.,3
+68,3a,Science.,4
+68,3b,How to research things I am curious about.,1
+68,3c,Learning about new subjects in school.,1
+68,3d,Learning more about nature.,3
+68,4a,Solving problems,3
+68,4b,Using science to answer a question,1
+68,4c,Listening to other people’s points of view,1
+68,4d,Knowing how to do research,1
+68,5a,Help to protect the environment.,1
+68,5b,Spend more time outside.,9
+68,5c,Make a positive difference in my community.,3
+68,5d,Listen more to other people's points of view.,2
+68,5e,Talk with others about ways to protect the environment.,1
+68,5f,Cooperate more with my classmates.,2
+68,5g,Work harder in school.,5
+68,5h,Pay more attention in class.,7
+68,6,Are you a girl or a boy?,Girl
+68,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+69,1a,Your school’s name ,Van Sickle Academy
+69,1b,Your grade level,6
+69,2a,I believe in myself.,10
+69,2b,I feel it is important to take good care of the environment.,9
+69,2c,"Humans are a part of nature, not separate from it.",10
+69,2d,I have the power to protect the environment.,7
+69,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+69,2f,I can make a difference in my community.,8
+69,3a,Science.,8
+69,3b,How to research things I am curious about.,9
+69,3c,Learning about new subjects in school.,8
+69,3d,Learning more about nature.,9
+69,4a,Solving problems,9
+69,4b,Using science to answer a question,8
+69,4c,Listening to other people’s points of view,10
+69,4d,Knowing how to do research,9
+69,5a,Help to protect the environment.,8
+69,5b,Spend more time outside.,10
+69,5c,Make a positive difference in my community.,7
+69,5d,Listen more to other people's points of view.,10
+69,5e,Talk with others about ways to protect the environment.,7
+69,5f,Cooperate more with my classmates.,9
+69,5g,Work harder in school.,10
+69,5h,Pay more attention in class.,10
+69,6,Are you a girl or a boy?,Boy
+69,7,Which of the following best describes your racial or ethnic background?,mixed (two or more races)
+70,1a,Your school’s name ,Van Sickle Academy
+70,1b,Your grade level,6
+70,2a,I believe in myself.,10
+70,2b,I feel it is important to take good care of the environment.,9
+70,2c,"Humans are a part of nature, not separate from it.",10
+70,2d,I have the power to protect the environment.,7
+70,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+70,2f,I can make a difference in my community.,5
+70,3a,Science.,5
+70,3b,How to research things I am curious about.,7
+70,3c,Learning about new subjects in school.,9
+70,3d,Learning more about nature.,2
+70,4a,Solving problems,9
+70,4b,Using science to answer a question,4
+70,4c,Listening to other people’s points of view,8
+70,4d,Knowing how to do research,10
+70,5a,Help to protect the environment.,10
+70,5b,Spend more time outside.,3
+70,5c,Make a positive difference in my community.,6
+70,5d,Listen more to other people's points of view.,9
+70,5e,Talk with others about ways to protect the environment.,3
+70,5f,Cooperate more with my classmates.,8
+70,5g,Work harder in school.,10
+70,5h,Pay more attention in class.,7
+70,6,Are you a girl or a boy?,Boy
+70,7,Which of the following best describes your racial or ethnic background?,mixed (two or more races)
+71,1a,Your school’s name ,Van Sickle Academy
+71,1b,Your grade level,6
+71,2a,I believe in myself.,7
+71,2b,I feel it is important to take good care of the environment.,10
+71,2c,"Humans are a part of nature, not separate from it.",9
+71,2d,I have the power to protect the environment.,8
+71,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+71,2f,I can make a difference in my community.,9
+71,3a,Science.,9
+71,3b,How to research things I am curious about.,9
+71,3c,Learning about new subjects in school.,9
+71,3d,Learning more about nature.,8
+71,4a,Solving problems,7
+71,4b,Using science to answer a question,8
+71,4c,Listening to other people’s points of view,9
+71,4d,Knowing how to do research,10
+71,5a,Help to protect the environment.,8
+71,5b,Spend more time outside.,9
+71,5c,Make a positive difference in my community.,9
+71,5d,Listen more to other people's points of view.,10
+71,5e,Talk with others about ways to protect the environment.,10
+71,5f,Cooperate more with my classmates.,10
+71,5g,Work harder in school.,10
+71,5h,Pay more attention in class.,10
+71,6,Are you a girl or a boy?,Girl
+71,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+72,1a,Your school’s name ,Van Sickle Academy
+72,1b,Your grade level,6
+72,2a,I believe in myself.,7
+72,2b,I feel it is important to take good care of the environment.,8
+72,2c,"Humans are a part of nature, not separate from it.",6
+72,2d,I have the power to protect the environment.,7
+72,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,6
+72,2f,I can make a difference in my community.,0
+72,3a,Science.,2
+72,3b,How to research things I am curious about.,4
+72,3c,Learning about new subjects in school.,0
+72,3d,Learning more about nature.,4
+72,4a,Solving problems,5
+72,4b,Using science to answer a question,3
+72,4c,Listening to other people’s points of view,6
+72,4d,Knowing how to do research,7
+72,5a,Help to protect the environment.,6
+72,5b,Spend more time outside.,10
+72,5c,Make a positive difference in my community.,4
+72,5d,Listen more to other people's points of view.,7
+72,5e,Talk with others about ways to protect the environment.,7
+72,5f,Cooperate more with my classmates.,6
+72,5g,Work harder in school.,3
+72,5h,Pay more attention in class.,9
+72,6,Are you a girl or a boy?,Girl
+72,7,Which of the following best describes your racial or ethnic background?,Hispanic
+73,1a,Your school’s name ,Van Sickle Academy
+73,1b,Your grade level,6
+73,2a,I believe in myself.,7
+73,2b,I feel it is important to take good care of the environment.,10
+73,2c,"Humans are a part of nature, not separate from it.",10
+73,2d,I have the power to protect the environment.,9
+73,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,6
+73,2f,I can make a difference in my community.,8
+73,3a,Science.,8
+73,3b,How to research things I am curious about.,8
+73,3c,Learning about new subjects in school.,6
+73,3d,Learning more about nature.,4
+73,4a,Solving problems,3
+73,4b,Using science to answer a question,5
+73,4c,Listening to other people’s points of view,8
+73,4d,Knowing how to do research,8
+73,5a,Help to protect the environment.,8
+73,5b,Spend more time outside.,6
+73,5c,Make a positive difference in my community.,na
+73,5d,Listen more to other people's points of view.,7
+73,5e,Talk with others about ways to protect the environment.,6
+73,5f,Cooperate more with my classmates.,6
+73,5g,Work harder in school.,10
+73,5h,Pay more attention in class.,10
+73,6,Are you a girl or a boy?,Girl
+73,7,Which of the following best describes your racial or ethnic background?,Hispanic
+74,1a,Your school’s name ,Van Sickle Academy
+74,1b,Your grade level,6
+74,2a,I believe in myself.,7
+74,2b,I feel it is important to take good care of the environment.,8
+74,2c,"Humans are a part of nature, not separate from it.",10
+74,2d,I have the power to protect the environment.,6
+74,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,4
+74,2f,I can make a difference in my community.,0
+74,3a,Science.,6
+74,3b,How to research things I am curious about.,7
+74,3c,Learning about new subjects in school.,5
+74,3d,Learning more about nature.,3
+74,4a,Solving problems,5
+74,4b,Using science to answer a question,3
+74,4c,Listening to other people’s points of view,8
+74,4d,Knowing how to do research,3
+74,5a,Help to protect the environment.,6
+74,5b,Spend more time outside.,10
+74,5c,Make a positive difference in my community.,5
+74,5d,Listen more to other people's points of view.,5
+74,5e,Talk with others about ways to protect the environment.,6
+74,5f,Cooperate more with my classmates.,10
+74,5g,Work harder in school.,6
+74,5h,Pay more attention in class.,3
+74,6,Are you a girl or a boy?,Girl
+74,7,Which of the following best describes your racial or ethnic background?,Hispanic
+75,1a,Your school’s name ,Van Sickle Academy
+75,1b,Your grade level,6
+75,2a,I believe in myself.,10
+75,2b,I feel it is important to take good care of the environment.,10
+75,2c,"Humans are a part of nature, not separate from it.",10
+75,2d,I have the power to protect the environment.,5
+75,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+75,2f,I can make a difference in my community.,10
+75,3a,Science.,10
+75,3b,How to research things I am curious about.,5
+75,3c,Learning about new subjects in school.,5
+75,3d,Learning more about nature.,7
+75,4a,Solving problems,10
+75,4b,Using science to answer a question,8
+75,4c,Listening to other people’s points of view,7
+75,4d,Knowing how to do research,9
+75,5a,Help to protect the environment.,10
+75,5b,Spend more time outside.,3
+75,5c,Make a positive difference in my community.,5
+75,5d,Listen more to other people's points of view.,10
+75,5e,Talk with others about ways to protect the environment.,4
+75,5f,Cooperate more with my classmates.,10
+75,5g,Work harder in school.,10
+75,5h,Pay more attention in class.,10
+75,6,Are you a girl or a boy?,Boy
+75,7,Which of the following best describes your racial or ethnic background?,Hispanic
+76,1a,Your school’s name ,Van Sickle Academy
+76,1b,Your grade level,6
+76,2a,I believe in myself.,10
+76,2b,I feel it is important to take good care of the environment.,10
+76,2c,"Humans are a part of nature, not separate from it.",10
+76,2d,I have the power to protect the environment.,5
+76,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+76,2f,I can make a difference in my community.,10
+76,3a,Science.,10
+76,3b,How to research things I am curious about.,10
+76,3c,Learning about new subjects in school.,6
+76,3d,Learning more about nature.,10
+76,4a,Solving problems,9
+76,4b,Using science to answer a question,7
+76,4c,Listening to other people’s points of view,7
+76,4d,Knowing how to do research,10
+76,5a,Help to protect the environment.,8
+76,5b,Spend more time outside.,5
+76,5c,Make a positive difference in my community.,5
+76,5d,Listen more to other people's points of view.,5
+76,5e,Talk with others about ways to protect the environment.,5
+76,5f,Cooperate more with my classmates.,8
+76,5g,Work harder in school.,10
+76,5h,Pay more attention in class.,10
+76,6,Are you a girl or a boy?,Boy
+76,7,Which of the following best describes your racial or ethnic background?,Hispanic & American Inian or Alaskan Native
+77,1a,Your school’s name ,Van Sickle Academy
+77,1b,Your grade level,6
+77,2a,I believe in myself.,10
+77,2b,I feel it is important to take good care of the environment.,10
+77,2c,"Humans are a part of nature, not separate from it.",10
+77,2d,I have the power to protect the environment.,10
+77,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+77,2f,I can make a difference in my community.,10
+77,3a,Science.,10
+77,3b,How to research things I am curious about.,10
+77,3c,Learning about new subjects in school.,10
+77,3d,Learning more about nature.,9
+77,4a,Solving problems,9
+77,4b,Using science to answer a question,10
+77,4c,Listening to other people’s points of view,10
+77,4d,Knowing how to do research,10
+77,5a,Help to protect the environment.,10
+77,5b,Spend more time outside.,6
+77,5c,Make a positive difference in my community.,10
+77,5d,Listen more to other people's points of view.,10
+77,5e,Talk with others about ways to protect the environment.,10
+77,5f,Cooperate more with my classmates.,10
+77,5g,Work harder in school.,10
+77,5h,Pay more attention in class.,10
+77,6,Are you a girl or a boy?,Boy
+77,7,Which of the following best describes your racial or ethnic background?,Asian
+78,1a,Your school’s name ,Van Sickle Academy
+78,1b,Your grade level,6
+78,2a,I believe in myself.,6
+78,2b,I feel it is important to take good care of the environment.,10
+78,2c,"Humans are a part of nature, not separate from it.",5
+78,2d,I have the power to protect the environment.,8
+78,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,7
+78,2f,I can make a difference in my community.,6
+78,3a,Science.,8
+78,3b,How to research things I am curious about.,7
+78,3c,Learning about new subjects in school.,6
+78,3d,Learning more about nature.,9
+78,4a,Solving problems,5
+78,4b,Using science to answer a question,5
+78,4c,Listening to other people’s points of view,5
+78,4d,Knowing how to do research,6
+78,5a,Help to protect the environment.,7
+78,5b,Spend more time outside.,5
+78,5c,Make a positive difference in my community.,5
+78,5d,Listen more to other people's points of view.,5
+78,5e,Talk with others about ways to protect the environment.,7
+78,5f,Cooperate more with my classmates.,6
+78,5g,Work harder in school.,5
+78,5h,Pay more attention in class.,7
+78,6,Are you a girl or a boy?,Boy
+78,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+79,1a,Your school’s name ,Van Sickle Academy
+79,1b,Your grade level,7
+79,2a,I believe in myself.,9
+79,2b,I feel it is important to take good care of the environment.,7
+79,2c,"Humans are a part of nature, not separate from it.",5
+79,2d,I have the power to protect the environment.,4
+79,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,7
+79,2f,I can make a difference in my community.,6
+79,3a,Science.,5
+79,3b,How to research things I am curious about.,8
+79,3c,Learning about new subjects in school.,7
+79,3d,Learning more about nature.,6
+79,4a,Solving problems,8
+79,4b,Using science to answer a question,6
+79,4c,Listening to other people’s points of view,7
+79,4d,Knowing how to do research,7
+79,5a,Help to protect the environment.,6
+79,5b,Spend more time outside.,4
+79,5c,Make a positive difference in my community.,7
+79,5d,Listen more to other people's points of view.,8
+79,5e,Talk with others about ways to protect the environment.,7
+79,5f,Cooperate more with my classmates.,6
+79,5g,Work harder in school.,9
+79,5h,Pay more attention in class.,10
+79,6,Are you a girl or a boy?,Rather not say
+79,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+80,1a,Your school’s name ,Van Sickle Academy
+80,1b,Your grade level,7
+80,2a,I believe in myself.,5
+80,2b,I feel it is important to take good care of the environment.,3
+80,2c,"Humans are a part of nature, not separate from it.",9
+80,2d,I have the power to protect the environment.,10
+80,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,4
+80,2f,I can make a difference in my community.,2
+80,3a,Science.,8
+80,3b,How to research things I am curious about.,3
+80,3c,Learning about new subjects in school.,na
+80,3d,Learning more about nature.,2
+80,4a,Solving problems,5
+80,4b,Using science to answer a question,9
+80,4c,Listening to other people’s points of view,10
+80,4d,Knowing how to do research,4
+80,5a,Help to protect the environment.,4
+80,5b,Spend more time outside.,7
+80,5c,Make a positive difference in my community.,3
+80,5d,Listen more to other people's points of view.,2
+80,5e,Talk with others about ways to protect the environment.,0
+80,5f,Cooperate more with my classmates.,7
+80,5g,Work harder in school.,9
+80,5h,Pay more attention in class.,10
+80,6,Are you a girl or a boy?,Boy
+80,7,Which of the following best describes your racial or ethnic background?,Hispanic
+81,1a,Your school’s name ,Van Sickle Academy
+81,1b,Your grade level,6
+81,2a,I believe in myself.,2
+81,2b,I feel it is important to take good care of the environment.,10
+81,2c,"Humans are a part of nature, not separate from it.",10
+81,2d,I have the power to protect the environment.,5
+81,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,0
+81,2f,I can make a difference in my community.,10
+81,3a,Science.,0
+81,3b,How to research things I am curious about.,10
+81,3c,Learning about new subjects in school.,10
+81,3d,Learning more about nature.,10
+81,4a,Solving problems,5
+81,4b,Using science to answer a question,0
+81,4c,Listening to other people’s points of view,10
+81,4d,Knowing how to do research,10
+81,5a,Help to protect the environment.,2
+81,5b,Spend more time outside.,10
+81,5c,Make a positive difference in my community.,10
+81,5d,Listen more to other people's points of view.,10
+81,5e,Talk with others about ways to protect the environment.,0
+81,5f,Cooperate more with my classmates.,5
+81,5g,Work harder in school.,5
+81,5h,Pay more attention in class.,4
+81,6,Are you a girl or a boy?,Girl
+81,7,Which of the following best describes your racial or ethnic background?,Hispanic & Mixed (two or more races)
+82,1a,Your school’s name ,Van Sickle Academy
+82,1b,Your grade level,6
+82,2a,I believe in myself.,10
+82,2b,I feel it is important to take good care of the environment.,10
+82,2c,"Humans are a part of nature, not separate from it.",10
+82,2d,I have the power to protect the environment.,10
+82,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+82,2f,I can make a difference in my community.,10
+82,3a,Science.,10
+82,3b,How to research things I am curious about.,10
+82,3c,Learning about new subjects in school.,10
+82,3d,Learning more about nature.,10
+82,4a,Solving problems,10
+82,4b,Using science to answer a question,10
+82,4c,Listening to other people’s points of view,10
+82,4d,Knowing how to do research,10
+82,5a,Help to protect the environment.,10
+82,5b,Spend more time outside.,10
+82,5c,Make a positive difference in my community.,10
+82,5d,Listen more to other people's points of view.,10
+82,5e,Talk with others about ways to protect the environment.,10
+82,5f,Cooperate more with my classmates.,10
+82,5g,Work harder in school.,10
+82,5h,Pay more attention in class.,6
+82,6,Are you a girl or a boy?,Rather not say
+82,7,Which of the following best describes your racial or ethnic background?,Hispanic
+83,1a,Your school’s name ,Van Sickle Academy
+83,1b,Your grade level,6
+83,2a,I believe in myself.,10
+83,2b,I feel it is important to take good care of the environment.,10
+83,2c,"Humans are a part of nature, not separate from it.",10
+83,2d,I have the power to protect the environment.,10
+83,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+83,2f,I can make a difference in my community.,10
+83,3a,Science.,5
+83,3b,How to research things I am curious about.,5
+83,3c,Learning about new subjects in school.,10
+83,3d,Learning more about nature.,5
+83,4a,Solving problems,5
+83,4b,Using science to answer a question,1
+83,4c,Listening to other people’s points of view,10
+83,4d,Knowing how to do research,5
+83,5a,Help to protect the environment.,10
+83,5b,Spend more time outside.,5
+83,5c,Make a positive difference in my community.,5
+83,5d,Listen more to other people's points of view.,10
+83,5e,Talk with others about ways to protect the environment.,10
+83,5f,Cooperate more with my classmates.,10
+83,5g,Work harder in school.,5
+83,5h,Pay more attention in class.,10
+83,6,Are you a girl or a boy?,Boy
+83,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+84,1a,Your school’s name ,Van Sickle Academy
+84,1b,Your grade level,6
+84,2a,I believe in myself.,10
+84,2b,I feel it is important to take good care of the environment.,10
+84,2c,"Humans are a part of nature, not separate from it.",10
+84,2d,I have the power to protect the environment.,10
+84,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+84,2f,I can make a difference in my community.,10
+84,3a,Science.,10
+84,3b,How to research things I am curious about.,10
+84,3c,Learning about new subjects in school.,10
+84,3d,Learning more about nature.,10
+84,4a,Solving problems,10
+84,4b,Using science to answer a question,10
+84,4c,Listening to other people’s points of view,10
+84,4d,Knowing how to do research,10
+84,5a,Help to protect the environment.,10
+84,5b,Spend more time outside.,10
+84,5c,Make a positive difference in my community.,10
+84,5d,Listen more to other people's points of view.,10
+84,5e,Talk with others about ways to protect the environment.,10
+84,5f,Cooperate more with my classmates.,10
+84,5g,Work harder in school.,10
+84,5h,Pay more attention in class.,10
+84,6,Are you a girl or a boy?,Boy
+84,7,Which of the following best describes your racial or ethnic background?,Hispanic & Mixed (two or more races)
+85,1a,Your school’s name ,Van Sickle Academy
+85,1b,Your grade level,7
+85,2a,I believe in myself.,10
+85,2b,I feel it is important to take good care of the environment.,10
+85,2c,"Humans are a part of nature, not separate from it.",10
+85,2d,I have the power to protect the environment.,10
+85,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+85,2f,I can make a difference in my community.,10
+85,3a,Science.,10
+85,3b,How to research things I am curious about.,10
+85,3c,Learning about new subjects in school.,10
+85,3d,Learning more about nature.,10
+85,4a,Solving problems,10
+85,4b,Using science to answer a question,10
+85,4c,Listening to other people’s points of view,10
+85,4d,Knowing how to do research,10
+85,5a,Help to protect the environment.,10
+85,5b,Spend more time outside.,10
+85,5c,Make a positive difference in my community.,10
+85,5d,Listen more to other people's points of view.,10
+85,5e,Talk with others about ways to protect the environment.,10
+85,5f,Cooperate more with my classmates.,10
+85,5g,Work harder in school.,10
+85,5h,Pay more attention in class.,10
+85,6,Are you a girl or a boy?,Girl
+85,7,Which of the following best describes your racial or ethnic background?,Hispanic
+86,1a,Your school’s name ,Van Sickle Academy
+86,1b,Your grade level,7
+86,2a,I believe in myself.,9
+86,2b,I feel it is important to take good care of the environment.,9
+86,2c,"Humans are a part of nature, not separate from it.",7
+86,2d,I have the power to protect the environment.,5
+86,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+86,2f,I can make a difference in my community.,10
+86,3a,Science.,10
+86,3b,How to research things I am curious about.,7
+86,3c,Learning about new subjects in school.,9
+86,3d,Learning more about nature.,9
+86,4a,Solving problems,8
+86,4b,Using science to answer a question,6
+86,4c,Listening to other people’s points of view,6
+86,4d,Knowing how to do research,9
+86,5a,Help to protect the environment.,8
+86,5b,Spend more time outside.,10
+86,5c,Make a positive difference in my community.,9
+86,5d,Listen more to other people's points of view.,8
+86,5e,Talk with others about ways to protect the environment.,8
+86,5f,Cooperate more with my classmates.,10
+86,5g,Work harder in school.,10
+86,5h,Pay more attention in class.,10
+86,6,Are you a girl or a boy?,Boy
+86,7,Which of the following best describes your racial or ethnic background?,na
+87,1a,Your school’s name ,Van Sickle Academy
+87,1b,Your grade level,7
+87,2a,I believe in myself.,na
+87,2b,I feel it is important to take good care of the environment.,7
+87,2c,"Humans are a part of nature, not separate from it.",7
+87,2d,I have the power to protect the environment.,7
+87,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,7
+87,2f,I can make a difference in my community.,7
+87,3a,Science.,na
+87,3b,How to research things I am curious about.,7
+87,3c,Learning about new subjects in school.,5
+87,3d,Learning more about nature.,7
+87,4a,Solving problems,5
+87,4b,Using science to answer a question,7
+87,4c,Listening to other people’s points of view,6
+87,4d,Knowing how to do research,7
+87,5a,Help to protect the environment.,7
+87,5b,Spend more time outside.,7
+87,5c,Make a positive difference in my community.,8
+87,5d,Listen more to other people's points of view.,7
+87,5e,Talk with others about ways to protect the environment.,7
+87,5f,Cooperate more with my classmates.,7
+87,5g,Work harder in school.,9
+87,5h,Pay more attention in class.,6
+87,6,Are you a girl or a boy?,Boy
+87,7,Which of the following best describes your racial or ethnic background?,Hispanic
+88,1a,Your school’s name ,Van Sickle Academy
+88,1b,Your grade level,6
+88,2a,I believe in myself.,3
+88,2b,I feel it is important to take good care of the environment.,10
+88,2c,"Humans are a part of nature, not separate from it.",10
+88,2d,I have the power to protect the environment.,10
+88,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,3
+88,2f,I can make a difference in my community.,8
+88,3a,Science.,9
+88,3b,How to research things I am curious about.,10
+88,3c,Learning about new subjects in school.,6
+88,3d,Learning more about nature.,4
+88,4a,Solving problems,6
+88,4b,Using science to answer a question,8
+88,4c,Listening to other people’s points of view,10
+88,4d,Knowing how to do research,9
+88,5a,Help to protect the environment.,10
+88,5b,Spend more time outside.,7
+88,5c,Make a positive difference in my community.,4
+88,5d,Listen more to other people's points of view.,10
+88,5e,Talk with others about ways to protect the environment.,8
+88,5f,Cooperate more with my classmates.,9
+88,5g,Work harder in school.,10
+88,5h,Pay more attention in class.,10
+88,6,Are you a girl or a boy?,Girl
+88,7,Which of the following best describes your racial or ethnic background?,Hispanic & mixed (two or more races)
+89,1a,Your school’s name ,Van Sickle Academy
+89,1b,Your grade level,6
+89,2a,I believe in myself.,10
+89,2b,I feel it is important to take good care of the environment.,10
+89,2c,"Humans are a part of nature, not separate from it.",10
+89,2d,I have the power to protect the environment.,10
+89,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+89,2f,I can make a difference in my community.,10
+89,3a,Science.,1
+89,3b,How to research things I am curious about.,6
+89,3c,Learning about new subjects in school.,10
+89,3d,Learning more about nature.,10
+89,4a,Solving problems,8
+89,4b,Using science to answer a question,9
+89,4c,Listening to other people’s points of view,na
+89,4d,Knowing how to do research,5
+89,5a,Help to protect the environment.,9
+89,5b,Spend more time outside.,na
+89,5c,Make a positive difference in my community.,6
+89,5d,Listen more to other people's points of view.,na
+89,5e,Talk with others about ways to protect the environment.,9
+89,5f,Cooperate more with my classmates.,9
+89,5g,Work harder in school.,10
+89,5h,Pay more attention in class.,10
+89,6,Are you a girl or a boy?,Boy
+89,7,Which of the following best describes your racial or ethnic background?,"White, not of Hispanic descent"
+90,1a,Your school’s name ,Van Sickle Academy
+90,1b,Your grade level,6
+90,2a,I believe in myself.,1
+90,2b,I feel it is important to take good care of the environment.,10
+90,2c,"Humans are a part of nature, not separate from it.",10
+90,2d,I have the power to protect the environment.,8
+90,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,4
+90,2f,I can make a difference in my community.,0
+90,3a,Science.,5
+90,3b,How to research things I am curious about.,2
+90,3c,Learning about new subjects in school.,7
+90,3d,Learning more about nature.,9
+90,4a,Solving problems,5
+90,4b,Using science to answer a question,3
+90,4c,Listening to other people’s points of view,7
+90,4d,Knowing how to do research,8
+90,5a,Help to protect the environment.,7
+90,5b,Spend more time outside.,6
+90,5c,Make a positive difference in my community.,6
+90,5d,Listen more to other people's points of view.,6
+90,5e,Talk with others about ways to protect the environment.,5
+90,5f,Cooperate more with my classmates.,4
+90,5g,Work harder in school.,7
+90,5h,Pay more attention in class.,5
+90,6,Are you a girl or a boy?,Rather not say
+90,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+91,1a,Your school’s name ,Van Sickle Academy
+91,1b,Your grade level,6
+91,2a,I believe in myself.,10
+91,2b,I feel it is important to take good care of the environment.,10
+91,2c,"Humans are a part of nature, not separate from it.",10
+91,2d,I have the power to protect the environment.,10
+91,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+91,2f,I can make a difference in my community.,10
+91,3a,Science.,5
+91,3b,How to research things I am curious about.,5
+91,3c,Learning about new subjects in school.,5
+91,3d,Learning more about nature.,5
+91,4a,Solving problems,7
+91,4b,Using science to answer a question,7
+91,4c,Listening to other people’s points of view,7
+91,4d,Knowing how to do research,7
+91,5a,Help to protect the environment.,9
+91,5b,Spend more time outside.,9
+91,5c,Make a positive difference in my community.,9
+91,5d,Listen more to other people's points of view.,9
+91,5e,Talk with others about ways to protect the environment.,9
+91,5f,Cooperate more with my classmates.,9
+91,5g,Work harder in school.,9
+91,5h,Pay more attention in class.,9
+91,6,Are you a girl or a boy?,Rather not say
+91,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+92,1a,Your school’s name ,Van Sickle Academy
+92,1b,Your grade level,6
+92,2a,I believe in myself.,10
+92,2b,I feel it is important to take good care of the environment.,10
+92,2c,"Humans are a part of nature, not separate from it.",10
+92,2d,I have the power to protect the environment.,10
+92,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+92,2f,I can make a difference in my community.,10
+92,3a,Science.,8
+92,3b,How to research things I am curious about.,10
+92,3c,Learning about new subjects in school.,7
+92,3d,Learning more about nature.,10
+92,4a,Solving problems,10
+92,4b,Using science to answer a question,10
+92,4c,Listening to other people’s points of view,10
+92,4d,Knowing how to do research,10
+92,5a,Help to protect the environment.,10
+92,5b,Spend more time outside.,10
+92,5c,Make a positive difference in my community.,10
+92,5d,Listen more to other people's points of view.,10
+92,5e,Talk with others about ways to protect the environment.,10
+92,5f,Cooperate more with my classmates.,10
+92,5g,Work harder in school.,10
+92,5h,Pay more attention in class.,10
+92,6,Are you a girl or a boy?,Boy
+92,7,Which of the following best describes your racial or ethnic background?,"Black, not of Hispanic descent"
+93,1a,Your school’s name ,Van Sickle Academy
+93,1b,Your grade level,6
+93,2a,I believe in myself.,0
+93,2b,I feel it is important to take good care of the environment.,10
+93,2c,"Humans are a part of nature, not separate from it.",10
+93,2d,I have the power to protect the environment.,10
+93,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,4
+93,2f,I can make a difference in my community.,7
+93,3a,Science.,8
+93,3b,How to research things I am curious about.,5
+93,3c,Learning about new subjects in school.,3
+93,3d,Learning more about nature.,7
+93,4a,Solving problems,7
+93,4b,Using science to answer a question,4
+93,4c,Listening to other people’s points of view,8
+93,4d,Knowing how to do research,10
+93,5a,Help to protect the environment.,5
+93,5b,Spend more time outside.,3
+93,5c,Make a positive difference in my community.,na
+93,5d,Listen more to other people's points of view.,na
+93,5e,Talk with others about ways to protect the environment.,5
+93,5f,Cooperate more with my classmates.,2
+93,5g,Work harder in school.,4
+93,5h,Pay more attention in class.,7
+93,6,Are you a girl or a boy?,Rather not say
+93,7,Which of the following best describes your racial or ethnic background?,Hispanic
+94,1a,Your school’s name ,Van Sickle Academy
+94,1b,Your grade level,7
+94,2a,I believe in myself.,10
+94,2b,I feel it is important to take good care of the environment.,10
+94,2c,"Humans are a part of nature, not separate from it.",10
+94,2d,I have the power to protect the environment.,10
+94,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+94,2f,I can make a difference in my community.,10
+94,3a,Science.,10
+94,3b,How to research things I am curious about.,10
+94,3c,Learning about new subjects in school.,10
+94,3d,Learning more about nature.,10
+94,4a,Solving problems,10
+94,4b,Using science to answer a question,10
+94,4c,Listening to other people’s points of view,9
+94,4d,Knowing how to do research,10
+94,5a,Help to protect the environment.,10
+94,5b,Spend more time outside.,10
+94,5c,Make a positive difference in my community.,10
+94,5d,Listen more to other people's points of view.,10
+94,5e,Talk with others about ways to protect the environment.,10
+94,5f,Cooperate more with my classmates.,10
+94,5g,Work harder in school.,10
+94,5h,Pay more attention in class.,10
+94,6,Are you a girl or a boy?,Boy
+94,7,Which of the following best describes your racial or ethnic background?,American Indian or Alaskan Native
+95,1a,Your school’s name ,Van Sickle Academy
+95,1b,Your grade level,7
+95,2a,I believe in myself.,10
+95,2b,I feel it is important to take good care of the environment.,10
+95,2c,"Humans are a part of nature, not separate from it.",10
+95,2d,I have the power to protect the environment.,10
+95,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+95,2f,I can make a difference in my community.,10
+95,3a,Science.,10
+95,3b,How to research things I am curious about.,10
+95,3c,Learning about new subjects in school.,7
+95,3d,Learning more about nature.,10
+95,4a,Solving problems,5
+95,4b,Using science to answer a question,4
+95,4c,Listening to other people’s points of view,10
+95,4d,Knowing how to do research,4
+95,5a,Help to protect the environment.,7
+95,5b,Spend more time outside.,10
+95,5c,Make a positive difference in my community.,8
+95,5d,Listen more to other people's points of view.,6
+95,5e,Talk with others about ways to protect the environment.,3
+95,5f,Cooperate more with my classmates.,5
+95,5g,Work harder in school.,8
+95,5h,Pay more attention in class.,10
+95,6,Are you a girl or a boy?,Boy
+95,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+96,1a,Your school’s name ,Van Sickle Academy
+96,1b,Your grade level,7
+96,2a,I believe in myself.,8
+96,2b,I feel it is important to take good care of the environment.,10
+96,2c,"Humans are a part of nature, not separate from it.",10
+96,2d,I have the power to protect the environment.,2
+96,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,2
+96,2f,I can make a difference in my community.,0
+96,3a,Science.,7
+96,3b,How to research things I am curious about.,7
+96,3c,Learning about new subjects in school.,7
+96,3d,Learning more about nature.,7
+96,4a,Solving problems,5
+96,4b,Using science to answer a question,5
+96,4c,Listening to other people’s points of view,5
+96,4d,Knowing how to do research,9
+96,5a,Help to protect the environment.,0
+96,5b,Spend more time outside.,0
+96,5c,Make a positive difference in my community.,0
+96,5d,Listen more to other people's points of view.,0
+96,5e,Talk with others about ways to protect the environment.,0
+96,5f,Cooperate more with my classmates.,3
+96,5g,Work harder in school.,5
+96,5h,Pay more attention in class.,5
+96,6,Are you a girl or a boy?,Rather not say
+96,7,Which of the following best describes your racial or ethnic background?,Asian
+97,1a,Your school’s name ,Van Sickle Academy
+97,1b,Your grade level,6
+97,2a,I believe in myself.,10
+97,2b,I feel it is important to take good care of the environment.,10
+97,2c,"Humans are a part of nature, not separate from it.",2
+97,2d,I have the power to protect the environment.,10
+97,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,3
+97,2f,I can make a difference in my community.,4
+97,3a,Science.,na
+97,3b,How to research things I am curious about.,4
+97,3c,Learning about new subjects in school.,5
+97,3d,Learning more about nature.,8
+97,4a,Solving problems,10
+97,4b,Using science to answer a question,6
+97,4c,Listening to other people’s points of view,7
+97,4d,Knowing how to do research,2
+97,5a,Help to protect the environment.,7
+97,5b,Spend more time outside.,9
+97,5c,Make a positive difference in my community.,10
+97,5d,Listen more to other people's points of view.,4
+97,5e,Talk with others about ways to protect the environment.,6
+97,5f,Cooperate more with my classmates.,7
+97,5g,Work harder in school.,4
+97,5h,Pay more attention in class.,5
+97,6,Are you a girl or a boy?,Boy
+97,7,Which of the following best describes your racial or ethnic background?,Hispanic
+98,1a,Your school’s name ,Van Sickle Academy
+98,1b,Your grade level,7
+98,2a,I believe in myself.,8
+98,2b,I feel it is important to take good care of the environment.,10
+98,2c,"Humans are a part of nature, not separate from it.",9
+98,2d,I have the power to protect the environment.,10
+98,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+98,2f,I can make a difference in my community.,10
+98,3a,Science.,8
+98,3b,How to research things I am curious about.,9
+98,3c,Learning about new subjects in school.,4
+98,3d,Learning more about nature.,6
+98,4a,Solving problems,9
+98,4b,Using science to answer a question,8
+98,4c,Listening to other people’s points of view,7
+98,4d,Knowing how to do research,10
+98,5a,Help to protect the environment.,7
+98,5b,Spend more time outside.,10
+98,5c,Make a positive difference in my community.,8
+98,5d,Listen more to other people's points of view.,8
+98,5e,Talk with others about ways to protect the environment.,6
+98,5f,Cooperate more with my classmates.,10
+98,5g,Work harder in school.,9
+98,5h,Pay more attention in class.,7
+98,6,Are you a girl or a boy?,Boy
+98,7,Which of the following best describes your racial or ethnic background?,Mixed (two or more races)
+99,1a,Your school’s name ,Van Sickle Academy
+99,1b,Your grade level,na
+99,2a,I believe in myself.,10
+99,2b,I feel it is important to take good care of the environment.,9
+99,2c,"Humans are a part of nature, not separate from it.",0
+99,2d,I have the power to protect the environment.,5
+99,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,6
+99,2f,I can make a difference in my community.,5
+99,3a,Science.,8
+99,3b,How to research things I am curious about.,5
+99,3c,Learning about new subjects in school.,5
+99,3d,Learning more about nature.,3
+99,4a,Solving problems,5
+99,4b,Using science to answer a question,6
+99,4c,Listening to other people’s points of view,6
+99,4d,Knowing how to do research,7
+99,5a,Help to protect the environment.,7
+99,5b,Spend more time outside.,6
+99,5c,Make a positive difference in my community.,6
+99,5d,Listen more to other people's points of view.,5
+99,5e,Talk with others about ways to protect the environment.,7
+99,5f,Cooperate more with my classmates.,9
+99,5g,Work harder in school.,9
+99,5h,Pay more attention in class.,5
+99,6,Are you a girl or a boy?,na
+99,7,Which of the following best describes your racial or ethnic background?,Other
+100,1a,Your school’s name ,Van Sickle Academy
+100,1b,Your grade level,7
+100,2a,I believe in myself.,10
+100,2b,I feel it is important to take good care of the environment.,10
+100,2c,"Humans are a part of nature, not separate from it.",9
+100,2d,I have the power to protect the environment.,10
+100,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+100,2f,I can make a difference in my community.,10
+100,3a,Science.,9
+100,3b,How to research things I am curious about.,10
+100,3c,Learning about new subjects in school.,10
+100,3d,Learning more about nature.,10
+100,4a,Solving problems,10
+100,4b,Using science to answer a question,10
+100,4c,Listening to other people’s points of view,9
+100,4d,Knowing how to do research,10
+100,5a,Help to protect the environment.,9
+100,5b,Spend more time outside.,10
+100,5c,Make a positive difference in my community.,10
+100,5d,Listen more to other people's points of view.,10
+100,5e,Talk with others about ways to protect the environment.,9
+100,5f,Cooperate more with my classmates.,10
+100,5g,Work harder in school.,10
+100,5h,Pay more attention in class.,10
+100,6,Are you a girl or a boy?,Boy
+100,7,Which of the following best describes your racial or ethnic background?,Hispanic
+101,1a,Your school’s name ,Van Sickle Academy
+101,1b,Your grade level,6
+101,2a,I believe in myself.,10
+101,2b,I feel it is important to take good care of the environment.,10
+101,2c,"Humans are a part of nature, not separate from it.",10
+101,2d,I have the power to protect the environment.,10
+101,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+101,2f,I can make a difference in my community.,10
+101,3a,Science.,9
+101,3b,How to research things I am curious about.,6
+101,3c,Learning about new subjects in school.,10
+101,3d,Learning more about nature.,10
+101,4a,Solving problems,10
+101,4b,Using science to answer a question,7
+101,4c,Listening to other people’s points of view,10
+101,4d,Knowing how to do research,8
+101,5a,Help to protect the environment.,10
+101,5b,Spend more time outside.,10
+101,5c,Make a positive difference in my community.,10
+101,5d,Listen more to other people's points of view.,10
+101,5e,Talk with others about ways to protect the environment.,10
+101,5f,Cooperate more with my classmates.,10
+101,5g,Work harder in school.,10
+101,5h,Pay more attention in class.,10
+101,6,Are you a girl or a boy?,Girl
+101,7,Which of the following best describes your racial or ethnic background?,Hispanic
+102,1a,Your school’s name ,Van Sickle Academy
+102,1b,Your grade level,6
+102,2a,I believe in myself.,10
+102,2b,I feel it is important to take good care of the environment.,10
+102,2c,"Humans are a part of nature, not separate from it.",10
+102,2d,I have the power to protect the environment.,10
+102,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+102,2f,I can make a difference in my community.,10
+102,3a,Science.,10
+102,3b,How to research things I am curious about.,10
+102,3c,Learning about new subjects in school.,10
+102,3d,Learning more about nature.,10
+102,4a,Solving problems,10
+102,4b,Using science to answer a question,10
+102,4c,Listening to other people’s points of view,10
+102,4d,Knowing how to do research,10
+102,5a,Help to protect the environment.,10
+102,5b,Spend more time outside.,10
+102,5c,Make a positive difference in my community.,10
+102,5d,Listen more to other people's points of view.,10
+102,5e,Talk with others about ways to protect the environment.,10
+102,5f,Cooperate more with my classmates.,10
+102,5g,Work harder in school.,10
+102,5h,Pay more attention in class.,10
+102,6,Are you a girl or a boy?,Boy
+102,7,Which of the following best describes your racial or ethnic background?,Hispanic
+103,1a,Your school’s name ,Van Sickle Academy
+103,1b,Your grade level,6
+103,2a,I believe in myself.,10
+103,2b,I feel it is important to take good care of the environment.,10
+103,2c,"Humans are a part of nature, not separate from it.",10
+103,2d,I have the power to protect the environment.,10
+103,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+103,2f,I can make a difference in my community.,10
+103,3a,Science.,10
+103,3b,How to research things I am curious about.,10
+103,3c,Learning about new subjects in school.,10
+103,3d,Learning more about nature.,10
+103,4a,Solving problems,10
+103,4b,Using science to answer a question,8
+103,4c,Listening to other people’s points of view,10
+103,4d,Knowing how to do research,10
+103,5a,Help to protect the environment.,10
+103,5b,Spend more time outside.,10
+103,5c,Make a positive difference in my community.,10
+103,5d,Listen more to other people's points of view.,10
+103,5e,Talk with others about ways to protect the environment.,10
+103,5f,Cooperate more with my classmates.,10
+103,5g,Work harder in school.,10
+103,5h,Pay more attention in class.,10
+103,6,Are you a girl or a boy?,Boy
+103,7,Which of the following best describes your racial or ethnic background?,Hispanic
+104,1a,Your school’s name ,Van Sickle Academy
+104,1b,Your grade level,6
+104,2a,I believe in myself.,10
+104,2b,I feel it is important to take good care of the environment.,10
+104,2c,"Humans are a part of nature, not separate from it.",10
+104,2d,I have the power to protect the environment.,10
+104,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+104,2f,I can make a difference in my community.,10
+104,3a,Science.,9
+104,3b,How to research things I am curious about.,10
+104,3c,Learning about new subjects in school.,10
+104,3d,Learning more about nature.,8
+104,4a,Solving problems,7
+104,4b,Using science to answer a question,6
+104,4c,Listening to other people’s points of view,9
+104,4d,Knowing how to do research,10
+104,5a,Help to protect the environment.,10
+104,5b,Spend more time outside.,10
+104,5c,Make a positive difference in my community.,10
+104,5d,Listen more to other people's points of view.,10
+104,5e,Talk with others about ways to protect the environment.,10
+104,5f,Cooperate more with my classmates.,10
+104,5g,Work harder in school.,10
+104,5h,Pay more attention in class.,10
+104,6,Are you a girl or a boy?,Boy
+104,7,Which of the following best describes your racial or ethnic background?,"Hispanic, Mixed"
+105,1a,Your school’s name ,Van Sickle Academy
+105,1b,Your grade level,6
+105,2a,I believe in myself.,10
+105,2b,I feel it is important to take good care of the environment.,10
+105,2c,"Humans are a part of nature, not separate from it.",10
+105,2d,I have the power to protect the environment.,9
+105,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+105,2f,I can make a difference in my community.,10
+105,3a,Science.,10
+105,3b,How to research things I am curious about.,10
+105,3c,Learning about new subjects in school.,10
+105,3d,Learning more about nature.,10
+105,4a,Solving problems,10
+105,4b,Using science to answer a question,9
+105,4c,Listening to other people’s points of view,9
+105,4d,Knowing how to do research,9
+105,5a,Help to protect the environment.,10
+105,5b,Spend more time outside.,10
+105,5c,Make a positive difference in my community.,10
+105,5d,Listen more to other people's points of view.,10
+105,5e,Talk with others about ways to protect the environment.,10
+105,5f,Cooperate more with my classmates.,10
+105,5g,Work harder in school.,10
+105,5h,Pay more attention in class.,10
+105,6,Are you a girl or a boy?,Boy
+105,7,Which of the following best describes your racial or ethnic background?,Hispanic
+106,1a,Your school’s name ,Van Sickle Academy
+106,1b,Your grade level,6
+106,2a,I believe in myself.,10
+106,2b,I feel it is important to take good care of the environment.,10
+106,2c,"Humans are a part of nature, not separate from it.",10
+106,2d,I have the power to protect the environment.,10
+106,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+106,2f,I can make a difference in my community.,10
+106,3a,Science.,9
+106,3b,How to research things I am curious about.,10
+106,3c,Learning about new subjects in school.,7
+106,3d,Learning more about nature.,10
+106,4a,Solving problems,8
+106,4b,Using science to answer a question,7
+106,4c,Listening to other people’s points of view,9
+106,4d,Knowing how to do research,8
+106,5a,Help to protect the environment.,10
+106,5b,Spend more time outside.,10
+106,5c,Make a positive difference in my community.,10
+106,5d,Listen more to other people's points of view.,10
+106,5e,Talk with others about ways to protect the environment.,10
+106,5f,Cooperate more with my classmates.,10
+106,5g,Work harder in school.,10
+106,5h,Pay more attention in class.,10
+106,6,Are you a girl or a boy?,Girl
+106,7,Which of the following best describes your racial or ethnic background?,Hispanic
+107,1a,Your school’s name ,Van Sickle Academy
+107,1b,Your grade level,6
+107,2a,I believe in myself.,10
+107,2b,I feel it is important to take good care of the environment.,10
+107,2c,"Humans are a part of nature, not separate from it.",10
+107,2d,I have the power to protect the environment.,10
+107,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+107,2f,I can make a difference in my community.,10
+107,3a,Science.,9
+107,3b,How to research things I am curious about.,10
+107,3c,Learning about new subjects in school.,10
+107,3d,Learning more about nature.,7
+107,4a,Solving problems,8
+107,4b,Using science to answer a question,7
+107,4c,Listening to other people’s points of view,9
+107,4d,Knowing how to do research,10
+107,5a,Help to protect the environment.,10
+107,5b,Spend more time outside.,10
+107,5c,Make a positive difference in my community.,10
+107,5d,Listen more to other people's points of view.,10
+107,5e,Talk with others about ways to protect the environment.,10
+107,5f,Cooperate more with my classmates.,10
+107,5g,Work harder in school.,10
+107,5h,Pay more attention in class.,10
+107,6,Are you a girl or a boy?,Boy
+107,7,Which of the following best describes your racial or ethnic background?,"Hispanic, Mixed"
+108,1a,Your school’s name ,Van Sickle Academy
+108,1b,Your grade level,6
+108,2a,I believe in myself.,NA
+108,2b,I feel it is important to take good care of the environment.,9
+108,2c,"Humans are a part of nature, not separate from it.",10
+108,2d,I have the power to protect the environment.,10
+108,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+108,2f,I can make a difference in my community.,10
+108,3a,Science.,NA
+108,3b,How to research things I am curious about.,5
+108,3c,Learning about new subjects in school.,8
+108,3d,Learning more about nature.,9
+108,4a,Solving problems,8
+108,4b,Using science to answer a question,4
+108,4c,Listening to other people’s points of view,NA
+108,4d,Knowing how to do research,8
+108,5a,Help to protect the environment.,10
+108,5b,Spend more time outside.,10
+108,5c,Make a positive difference in my community.,6
+108,5d,Listen more to other people's points of view.,NA
+108,5e,Talk with others about ways to protect the environment.,8
+108,5f,Cooperate more with my classmates.,7
+108,5g,Work harder in school.,9
+108,5h,Pay more attention in class.,10
+108,6,Are you a girl or a boy?,Boy
+108,7,Which of the following best describes your racial or ethnic background?,Mixed
+109,1a,Your school’s name ,Van Sickle Academy
+109,1b,Your grade level,7
+109,2a,I believe in myself.,10
+109,2b,I feel it is important to take good care of the environment.,10
+109,2c,"Humans are a part of nature, not separate from it.",10
+109,2d,I have the power to protect the environment.,10
+109,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+109,2f,I can make a difference in my community.,10
+109,3a,Science.,5
+109,3b,How to research things I am curious about.,5
+109,3c,Learning about new subjects in school.,5
+109,3d,Learning more about nature.,3
+109,4a,Solving problems,10
+109,4b,Using science to answer a question,7
+109,4c,Listening to other people’s points of view,7
+109,4d,Knowing how to do research,10
+109,5a,Help to protect the environment.,10
+109,5b,Spend more time outside.,10
+109,5c,Make a positive difference in my community.,10
+109,5d,Listen more to other people's points of view.,10
+109,5e,Talk with others about ways to protect the environment.,10
+109,5f,Cooperate more with my classmates.,10
+109,5g,Work harder in school.,10
+109,5h,Pay more attention in class.,10
+109,6,Are you a girl or a boy?,Boy
+109,7,Which of the following best describes your racial or ethnic background?,NA
+110,1a,Your school’s name ,Van Sickle Academy
+110,1b,Your grade level,7
+110,2a,I believe in myself.,10
+110,2b,I feel it is important to take good care of the environment.,10
+110,2c,"Humans are a part of nature, not separate from it.",9
+110,2d,I have the power to protect the environment.,10
+110,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+110,2f,I can make a difference in my community.,8
+110,3a,Science.,8
+110,3b,How to research things I am curious about.,9
+110,3c,Learning about new subjects in school.,8
+110,3d,Learning more about nature.,10
+110,4a,Solving problems,8
+110,4b,Using science to answer a question,6
+110,4c,Listening to other people’s points of view,9
+110,4d,Knowing how to do research,8
+110,5a,Help to protect the environment.,9
+110,5b,Spend more time outside.,6
+110,5c,Make a positive difference in my community.,9
+110,5d,Listen more to other people's points of view.,10
+110,5e,Talk with others about ways to protect the environment.,9
+110,5f,Cooperate more with my classmates.,9
+110,5g,Work harder in school.,10
+110,5h,Pay more attention in class.,9
+110,6,Are you a girl or a boy?,Girl
+110,7,Which of the following best describes your racial or ethnic background?,White
+111,1a,Your school’s name ,Van Sickle Academy
+111,1b,Your grade level,7
+111,2a,I believe in myself.,10
+111,2b,I feel it is important to take good care of the environment.,10
+111,2c,"Humans are a part of nature, not separate from it.",NA
+111,2d,I have the power to protect the environment.,8
+111,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+111,2f,I can make a difference in my community.,8
+111,3a,Science.,5
+111,3b,How to research things I am curious about.,7
+111,3c,Learning about new subjects in school.,9
+111,3d,Learning more about nature.,9
+111,4a,Solving problems,7
+111,4b,Using science to answer a question,8
+111,4c,Listening to other people’s points of view,9
+111,4d,Knowing how to do research,8
+111,5a,Help to protect the environment.,7
+111,5b,Spend more time outside.,8
+111,5c,Make a positive difference in my community.,9
+111,5d,Listen more to other people's points of view.,9
+111,5e,Talk with others about ways to protect the environment.,10
+111,5f,Cooperate more with my classmates.,10
+111,5g,Work harder in school.,10
+111,5h,Pay more attention in class.,10
+111,6,Are you a girl or a boy?,Girl
+111,7,Which of the following best describes your racial or ethnic background?,Hispanic
+112,1a,Your school’s name ,Van Sickle Academy
+112,1b,Your grade level,7
+112,2a,I believe in myself.,10
+112,2b,I feel it is important to take good care of the environment.,10
+112,2c,"Humans are a part of nature, not separate from it.",7
+112,2d,I have the power to protect the environment.,4
+112,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,7
+112,2f,I can make a difference in my community.,7
+112,3a,Science.,0
+112,3b,How to research things I am curious about.,5
+112,3c,Learning about new subjects in school.,0
+112,3d,Learning more about nature.,5
+112,4a,Solving problems,5
+112,4b,Using science to answer a question,5
+112,4c,Listening to other people’s points of view,10
+112,4d,Knowing how to do research,5
+112,5a,Help to protect the environment.,5
+112,5b,Spend more time outside.,7
+112,5c,Make a positive difference in my community.,6
+112,5d,Listen more to other people's points of view.,5
+112,5e,Talk with others about ways to protect the environment.,3
+112,5f,Cooperate more with my classmates.,5
+112,5g,Work harder in school.,1
+112,5h,Pay more attention in class.,1
+112,6,Are you a girl or a boy?,Boy
+112,7,Which of the following best describes your racial or ethnic background?,Hispanic
+113,1a,Your school’s name ,Van Sickle Academy
+113,1b,Your grade level,7
+113,2a,I believe in myself.,8
+113,2b,I feel it is important to take good care of the environment.,10
+113,2c,"Humans are a part of nature, not separate from it.",10
+113,2d,I have the power to protect the environment.,10
+113,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+113,2f,I can make a difference in my community.,7
+113,3a,Science.,9
+113,3b,How to research things I am curious about.,7
+113,3c,Learning about new subjects in school.,7
+113,3d,Learning more about nature.,6
+113,4a,Solving problems,10
+113,4b,Using science to answer a question,5
+113,4c,Listening to other people’s points of view,9
+113,4d,Knowing how to do research,10
+113,5a,Help to protect the environment.,10
+113,5b,Spend more time outside.,10
+113,5c,Make a positive difference in my community.,10
+113,5d,Listen more to other people's points of view.,7
+113,5e,Talk with others about ways to protect the environment.,8
+113,5f,Cooperate more with my classmates.,9
+113,5g,Work harder in school.,8
+113,5h,Pay more attention in class.,8
+113,6,Are you a girl or a boy?,Boy
+113,7,Which of the following best describes your racial or ethnic background?,Hispanic
+114,1a,Your school’s name ,Van Sickle Academy
+114,1b,Your grade level,7
+114,2a,I believe in myself.,6
+114,2b,I feel it is important to take good care of the environment.,10
+114,2c,"Humans are a part of nature, not separate from it.",10
+114,2d,I have the power to protect the environment.,5
+114,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+114,2f,I can make a difference in my community.,7
+114,3a,Science.,10
+114,3b,How to research things I am curious about.,10
+114,3c,Learning about new subjects in school.,7
+114,3d,Learning more about nature.,6
+114,4a,Solving problems,7
+114,4b,Using science to answer a question,6
+114,4c,Listening to other people’s points of view,10
+114,4d,Knowing how to do research,9
+114,5a,Help to protect the environment.,5
+114,5b,Spend more time outside.,7
+114,5c,Make a positive difference in my community.,5
+114,5d,Listen more to other people's points of view.,9
+114,5e,Talk with others about ways to protect the environment.,8
+114,5f,Cooperate more with my classmates.,8
+114,5g,Work harder in school.,NA
+114,5h,Pay more attention in class.,9
+114,6,Are you a girl or a boy?,Girl
+114,7,Which of the following best describes your racial or ethnic background?,"Hispanic, Mixed"
+115,1a,Your school’s name ,Van Sickle Academy
+115,1b,Your grade level,7
+115,2a,I believe in myself.,10
+115,2b,I feel it is important to take good care of the environment.,10
+115,2c,"Humans are a part of nature, not separate from it.",10
+115,2d,I have the power to protect the environment.,10
+115,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+115,2f,I can make a difference in my community.,10
+115,3a,Science.,9
+115,3b,How to research things I am curious about.,8
+115,3c,Learning about new subjects in school.,5
+115,3d,Learning more about nature.,10
+115,4a,Solving problems,10
+115,4b,Using science to answer a question,10
+115,4c,Listening to other people’s points of view,10
+115,4d,Knowing how to do research,10
+115,5a,Help to protect the environment.,10
+115,5b,Spend more time outside.,10
+115,5c,Make a positive difference in my community.,10
+115,5d,Listen more to other people's points of view.,10
+115,5e,Talk with others about ways to protect the environment.,10
+115,5f,Cooperate more with my classmates.,10
+115,5g,Work harder in school.,10
+115,5h,Pay more attention in class.,10
+115,6,Are you a girl or a boy?,Girl
+115,7,Which of the following best describes your racial or ethnic background?,NA
+116,1a,Your school’s name ,Van Sickle Academy
+116,1b,Your grade level,7
+116,2a,I believe in myself.,10
+116,2b,I feel it is important to take good care of the environment.,10
+116,2c,"Humans are a part of nature, not separate from it.",10
+116,2d,I have the power to protect the environment.,10
+116,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+116,2f,I can make a difference in my community.,10
+116,3a,Science.,9
+116,3b,How to research things I am curious about.,8
+116,3c,Learning about new subjects in school.,5
+116,3d,Learning more about nature.,10
+116,4a,Solving problems,10
+116,4b,Using science to answer a question,10
+116,4c,Listening to other people’s points of view,10
+116,4d,Knowing how to do research,10
+116,5a,Help to protect the environment.,10
+116,5b,Spend more time outside.,10
+116,5c,Make a positive difference in my community.,10
+116,5d,Listen more to other people's points of view.,10
+116,5e,Talk with others about ways to protect the environment.,10
+116,5f,Cooperate more with my classmates.,10
+116,5g,Work harder in school.,10
+116,5h,Pay more attention in class.,10
+116,6,Are you a girl or a boy?,Girl
+116,7,Which of the following best describes your racial or ethnic background?,NA
+117,1a,Your school’s name ,Van Sickle Academy
+117,1b,Your grade level,7
+117,2a,I believe in myself.,5
+117,2b,I feel it is important to take good care of the environment.,10
+117,2c,"Humans are a part of nature, not separate from it.",10
+117,2d,I have the power to protect the environment.,7
+117,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,0
+117,2f,I can make a difference in my community.,3
+117,3a,Science.,10
+117,3b,How to research things I am curious about.,10
+117,3c,Learning about new subjects in school.,0
+117,3d,Learning more about nature.,7
+117,4a,Solving problems,0
+117,4b,Using science to answer a question,10
+117,4c,Listening to other people’s points of view,10
+117,4d,Knowing how to do research,10
+117,5a,Help to protect the environment.,10
+117,5b,Spend more time outside.,10
+117,5c,Make a positive difference in my community.,10
+117,5d,Listen more to other people's points of view.,10
+117,5e,Talk with others about ways to protect the environment.,10
+117,5f,Cooperate more with my classmates.,10
+117,5g,Work harder in school.,10
+117,5h,Pay more attention in class.,10
+117,6,Are you a girl or a boy?,Rather not say
+117,7,Which of the following best describes your racial or ethnic background?,White
+118,1a,Your school’s name ,Van Sickle Academy
+118,1b,Your grade level,7
+118,2a,I believe in myself.,7
+118,2b,I feel it is important to take good care of the environment.,10
+118,2c,"Humans are a part of nature, not separate from it.",10
+118,2d,I have the power to protect the environment.,10
+118,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,6
+118,2f,I can make a difference in my community.,3
+118,3a,Science.,7
+118,3b,How to research things I am curious about.,NA
+118,3c,Learning about new subjects in school.,1
+118,3d,Learning more about nature.,3
+118,4a,Solving problems,5
+118,4b,Using science to answer a question,2
+118,4c,Listening to other people’s points of view,2
+118,4d,Knowing how to do research,0
+118,5a,Help to protect the environment.,9
+118,5b,Spend more time outside.,3
+118,5c,Make a positive difference in my community.,10
+118,5d,Listen more to other people's points of view.,10
+118,5e,Talk with others about ways to protect the environment.,8
+118,5f,Cooperate more with my classmates.,10
+118,5g,Work harder in school.,10
+118,5h,Pay more attention in class.,10
+118,6,Are you a girl or a boy?,Rather not say
+118,7,Which of the following best describes your racial or ethnic background?,Asian
+119,1a,Your school’s name ,Van Sickle Academy
+119,1b,Your grade level,7
+119,2a,I believe in myself.,5
+119,2b,I feel it is important to take good care of the environment.,10
+119,2c,"Humans are a part of nature, not separate from it.",10
+119,2d,I have the power to protect the environment.,5
+119,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,5
+119,2f,I can make a difference in my community.,7
+119,3a,Science.,8
+119,3b,How to research things I am curious about.,6
+119,3c,Learning about new subjects in school.,5
+119,3d,Learning more about nature.,5
+119,4a,Solving problems,6
+119,4b,Using science to answer a question,4
+119,4c,Listening to other people’s points of view,5
+119,4d,Knowing how to do research,8
+119,5a,Help to protect the environment.,5
+119,5b,Spend more time outside.,4
+119,5c,Make a positive difference in my community.,7
+119,5d,Listen more to other people's points of view.,5
+119,5e,Talk with others about ways to protect the environment.,4
+119,5f,Cooperate more with my classmates.,6
+119,5g,Work harder in school.,8
+119,5h,Pay more attention in class.,8
+119,6,Are you a girl or a boy?,Girl
+119,7,Which of the following best describes your racial or ethnic background?,NA
+120,1a,Your school’s name ,Van Sickle Academy
+120,1b,Your grade level,7
+120,2a,I believe in myself.,5
+120,2b,I feel it is important to take good care of the environment.,9
+120,2c,"Humans are a part of nature, not separate from it.",9
+120,2d,I have the power to protect the environment.,7
+120,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,7
+120,2f,I can make a difference in my community.,6
+120,3a,Science.,8
+120,3b,How to research things I am curious about.,5
+120,3c,Learning about new subjects in school.,5
+120,3d,Learning more about nature.,5
+120,4a,Solving problems,5
+120,4b,Using science to answer a question,1
+120,4c,Listening to other people’s points of view,7
+120,4d,Knowing how to do research,2
+120,5a,Help to protect the environment.,6
+120,5b,Spend more time outside.,5
+120,5c,Make a positive difference in my community.,5
+120,5d,Listen more to other people's points of view.,6
+120,5e,Talk with others about ways to protect the environment.,2
+120,5f,Cooperate more with my classmates.,6
+120,5g,Work harder in school.,5
+120,5h,Pay more attention in class.,5
+120,6,Are you a girl or a boy?,Girl
+120,7,Which of the following best describes your racial or ethnic background?,White
+121,1a,Your school’s name ,Van Sickle Academy
+121,1b,Your grade level,7
+121,2a,I believe in myself.,9
+121,2b,I feel it is important to take good care of the environment.,10
+121,2c,"Humans are a part of nature, not separate from it.",10
+121,2d,I have the power to protect the environment.,10
+121,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+121,2f,I can make a difference in my community.,10
+121,3a,Science.,10
+121,3b,How to research things I am curious about.,9
+121,3c,Learning about new subjects in school.,10
+121,3d,Learning more about nature.,10
+121,4a,Solving problems,10
+121,4b,Using science to answer a question,10
+121,4c,Listening to other people’s points of view,9
+121,4d,Knowing how to do research,10
+121,5a,Help to protect the environment.,10
+121,5b,Spend more time outside.,10
+121,5c,Make a positive difference in my community.,9
+121,5d,Listen more to other people's points of view.,10
+121,5e,Talk with others about ways to protect the environment.,10
+121,5f,Cooperate more with my classmates.,9
+121,5g,Work harder in school.,10
+121,5h,Pay more attention in class.,10
+121,6,Are you a girl or a boy?,Girl
+121,7,Which of the following best describes your racial or ethnic background?,Mixed
+122,1a,Your school’s name ,Van Sickle Academy
+122,1b,Your grade level,7
+122,2a,I believe in myself.,8
+122,2b,I feel it is important to take good care of the environment.,8
+122,2c,"Humans are a part of nature, not separate from it.",10
+122,2d,I have the power to protect the environment.,10
+122,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+122,2f,I can make a difference in my community.,9
+122,3a,Science.,10
+122,3b,How to research things I am curious about.,10
+122,3c,Learning about new subjects in school.,10
+122,3d,Learning more about nature.,9
+122,4a,Solving problems,9
+122,4b,Using science to answer a question,9
+122,4c,Listening to other people’s points of view,6
+122,4d,Knowing how to do research,9
+122,5a,Help to protect the environment.,8
+122,5b,Spend more time outside.,2
+122,5c,Make a positive difference in my community.,8
+122,5d,Listen more to other people's points of view.,9
+122,5e,Talk with others about ways to protect the environment.,6
+122,5f,Cooperate more with my classmates.,10
+122,5g,Work harder in school.,10
+122,5h,Pay more attention in class.,10
+122,6,Are you a girl or a boy?,Rather not say
+122,7,Which of the following best describes your racial or ethnic background?,"Hispanic, Mixed"
+123,1a,Your school’s name ,Van Sickle Academy
+123,1b,Your grade level,NA
+123,2a,I believe in myself.,10
+123,2b,I feel it is important to take good care of the environment.,10
+123,2c,"Humans are a part of nature, not separate from it.",10
+123,2d,I have the power to protect the environment.,10
+123,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+123,2f,I can make a difference in my community.,10
+123,3a,Science.,5
+123,3b,How to research things I am curious about.,7
+123,3c,Learning about new subjects in school.,7
+123,3d,Learning more about nature.,7
+123,4a,Solving problems,7
+123,4b,Using science to answer a question,7
+123,4c,Listening to other people’s points of view,7
+123,4d,Knowing how to do research,7
+123,5a,Help to protect the environment.,10
+123,5b,Spend more time outside.,10
+123,5c,Make a positive difference in my community.,10
+123,5d,Listen more to other people's points of view.,10
+123,5e,Talk with others about ways to protect the environment.,10
+123,5f,Cooperate more with my classmates.,10
+123,5g,Work harder in school.,10
+123,5h,Pay more attention in class.,10
+123,6,Are you a girl or a boy?,Girl
+123,7,Which of the following best describes your racial or ethnic background?,White
+124,1a,Your school’s name ,Van Sickle Academy
+124,1b,Your grade level,7
+124,2a,I believe in myself.,10
+124,2b,I feel it is important to take good care of the environment.,10
+124,2c,"Humans are a part of nature, not separate from it.",10
+124,2d,I have the power to protect the environment.,10
+124,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+124,2f,I can make a difference in my community.,10
+124,3a,Science.,8
+124,3b,How to research things I am curious about.,9
+124,3c,Learning about new subjects in school.,9
+124,3d,Learning more about nature.,7
+124,4a,Solving problems,7
+124,4b,Using science to answer a question,5
+124,4c,Listening to other people’s points of view,7
+124,4d,Knowing how to do research,8
+124,5a,Help to protect the environment.,5
+124,5b,Spend more time outside.,7
+124,5c,Make a positive difference in my community.,6
+124,5d,Listen more to other people's points of view.,7
+124,5e,Talk with others about ways to protect the environment.,4
+124,5f,Cooperate more with my classmates.,7
+124,5g,Work harder in school.,10
+124,5h,Pay more attention in class.,10
+124,6,Are you a girl or a boy?,Girl
+124,7,Which of the following best describes your racial or ethnic background?,"Black, Hispanic"
+125,1a,Your school’s name ,Van Sickle Academy
+125,1b,Your grade level,7
+125,2a,I believe in myself.,5
+125,2b,I feel it is important to take good care of the environment.,10
+125,2c,"Humans are a part of nature, not separate from it.",10
+125,2d,I have the power to protect the environment.,5
+125,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,4
+125,2f,I can make a difference in my community.,2
+125,3a,Science.,5
+125,3b,How to research things I am curious about.,NA
+125,3c,Learning about new subjects in school.,1
+125,3d,Learning more about nature.,5
+125,4a,Solving problems,4
+125,4b,Using science to answer a question,3
+125,4c,Listening to other people’s points of view,10
+125,4d,Knowing how to do research,5
+125,5a,Help to protect the environment.,5
+125,5b,Spend more time outside.,8
+125,5c,Make a positive difference in my community.,4
+125,5d,Listen more to other people's points of view.,10
+125,5e,Talk with others about ways to protect the environment.,5
+125,5f,Cooperate more with my classmates.,8
+125,5g,Work harder in school.,7
+125,5h,Pay more attention in class.,7
+125,6,Are you a girl or a boy?,Girl
+125,7,Which of the following best describes your racial or ethnic background?,Black
+126,1a,Your school’s name ,Van Sickle Academy
+126,1b,Your grade level,7
+126,2a,I believe in myself.,7
+126,2b,I feel it is important to take good care of the environment.,10
+126,2c,"Humans are a part of nature, not separate from it.",8
+126,2d,I have the power to protect the environment.,5
+126,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,6
+126,2f,I can make a difference in my community.,5
+126,3a,Science.,5
+126,3b,How to research things I am curious about.,6
+126,3c,Learning about new subjects in school.,5
+126,3d,Learning more about nature.,5
+126,4a,Solving problems,5
+126,4b,Using science to answer a question,4
+126,4c,Listening to other people’s points of view,5
+126,4d,Knowing how to do research,5
+126,5a,Help to protect the environment.,6
+126,5b,Spend more time outside.,10
+126,5c,Make a positive difference in my community.,4
+126,5d,Listen more to other people's points of view.,9
+126,5e,Talk with others about ways to protect the environment.,2
+126,5f,Cooperate more with my classmates.,3
+126,5g,Work harder in school.,4
+126,5h,Pay more attention in class.,5
+126,6,Are you a girl or a boy?,Girl
+126,7,Which of the following best describes your racial or ethnic background?,"Asian, Mixed"
+127,1a,Your school’s name ,Springfield Central High School
+127,1b,Your grade level,11
+127,2a,I believe in myself.,10
+127,2b,I feel it is important to take good care of the environment.,10
+127,2c,"Humans are a part of nature, not separate from it.",10
+127,2d,I have the power to protect the environment.,10
+127,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+127,2f,I can make a difference in my community.,5
+127,3a,Science.,10
+127,3b,How to research things I am curious about.,5
+127,3c,Learning about new subjects in school.,8
+127,3d,Learning more about nature.,10
+127,4a,Solving problems,10
+127,4b,Using science to answer a question,7
+127,4c,Listening to other people’s points of view,10
+127,4d,Knowing how to do research,8
+127,5a,Help to protect the environment.,6
+127,5b,Spend more time outside.,10
+127,5c,Make a positive difference in my community.,5
+127,5d,Listen more to other people's points of view.,10
+127,5e,Talk with others about ways to protect the environment.,9
+127,5f,Cooperate more with my classmates.,9
+127,5g,Work harder in school.,10
+127,5h,Pay more attention in class.,10
+127,6,Are you a girl or a boy?,Boy
+127,7,Which of the following best describes your racial or ethnic background?,Hispanic
+128,1a,Your school’s name ,Springfield Central High School
+128,1b,Your grade level,11
+128,2a,I believe in myself.,7
+128,2b,I feel it is important to take good care of the environment.,7
+128,2c,"Humans are a part of nature, not separate from it.",7
+128,2d,I have the power to protect the environment.,9
+128,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+128,2f,I can make a difference in my community.,6
+128,3a,Science.,5
+128,3b,How to research things I am curious about.,8
+128,3c,Learning about new subjects in school.,8
+128,3d,Learning more about nature.,5
+128,4a,Solving problems,7
+128,4b,Using science to answer a question,2
+128,4c,Listening to other people’s points of view,7
+128,4d,Knowing how to do research,7
+128,5a,Help to protect the environment.,7
+128,5b,Spend more time outside.,6
+128,5c,Make a positive difference in my community.,7
+128,5d,Listen more to other people's points of view.,7
+128,5e,Talk with others about ways to protect the environment.,7
+128,5f,Cooperate more with my classmates.,6
+128,5g,Work harder in school.,7
+128,5h,Pay more attention in class.,8
+128,6,Are you a girl or a boy?,Boy
+128,7,Which of the following best describes your racial or ethnic background?,Hispanic
+129,1a,Your school’s name ,Springfield Central High School
+129,1b,Your grade level,11
+129,2a,I believe in myself.,10
+129,2b,I feel it is important to take good care of the environment.,10
+129,2c,"Humans are a part of nature, not separate from it.",10
+129,2d,I have the power to protect the environment.,10
+129,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+129,2f,I can make a difference in my community.,10
+129,3a,Science.,8
+129,3b,How to research things I am curious about.,8
+129,3c,Learning about new subjects in school.,8
+129,3d,Learning more about nature.,10
+129,4a,Solving problems,8
+129,4b,Using science to answer a question,8
+129,4c,Listening to other people’s points of view,8
+129,4d,Knowing how to do research,8
+129,5a,Help to protect the environment.,8
+129,5b,Spend more time outside.,8
+129,5c,Make a positive difference in my community.,8
+129,5d,Listen more to other people's points of view.,8
+129,5e,Talk with others about ways to protect the environment.,8
+129,5f,Cooperate more with my classmates.,8
+129,5g,Work harder in school.,8
+129,5h,Pay more attention in class.,8
+129,6,Are you a girl or a boy?,Girl
+129,7,Which of the following best describes your racial or ethnic background?,Hispanic
+130,1a,Your school’s name ,Springfield Central High School
+130,1b,Your grade level,11
+130,2a,I believe in myself.,10
+130,2b,I feel it is important to take good care of the environment.,8
+130,2c,"Humans are a part of nature, not separate from it.",7
+130,2d,I have the power to protect the environment.,7
+130,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+130,2f,I can make a difference in my community.,10
+130,3a,Science.,5
+130,3b,How to research things I am curious about.,5
+130,3c,Learning about new subjects in school.,5
+130,3d,Learning more about nature.,5
+130,4a,Solving problems,5
+130,4b,Using science to answer a question,5
+130,4c,Listening to other people’s points of view,5
+130,4d,Knowing how to do research,5
+130,5a,Help to protect the environment.,10
+130,5b,Spend more time outside.,10
+130,5c,Make a positive difference in my community.,10
+130,5d,Listen more to other people's points of view.,10
+130,5e,Talk with others about ways to protect the environment.,10
+130,5f,Cooperate more with my classmates.,6
+130,5g,Work harder in school.,10
+130,5h,Pay more attention in class.,10
+130,6,Are you a girl or a boy?,Boy
+130,7,Which of the following best describes your racial or ethnic background?,Black
+131,1a,Your school’s name ,Springfield Central High School
+131,1b,Your grade level,11
+131,2a,I believe in myself.,10
+131,2b,I feel it is important to take good care of the environment.,10
+131,2c,"Humans are a part of nature, not separate from it.",5
+131,2d,I have the power to protect the environment.,5
+131,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,6
+131,2f,I can make a difference in my community.,4
+131,3a,Science.,4
+131,3b,How to research things I am curious about.,3
+131,3c,Learning about new subjects in school.,6
+131,3d,Learning more about nature.,2
+131,4a,Solving problems,4
+131,4b,Using science to answer a question,3
+131,4c,Listening to other people’s points of view,6
+131,4d,Knowing how to do research,2
+131,5a,Help to protect the environment.,5
+131,5b,Spend more time outside.,10
+131,5c,Make a positive difference in my community.,10
+131,5d,Listen more to other people's points of view.,5
+131,5e,Talk with others about ways to protect the environment.,10
+131,5f,Cooperate more with my classmates.,10
+131,5g,Work harder in school.,5
+131,5h,Pay more attention in class.,4
+131,6,Are you a girl or a boy?,Boy
+131,7,Which of the following best describes your racial or ethnic background?,Native Hawaiian or other Pacific Islander
+132,1a,Your school’s name ,Springfield Central High School
+132,1b,Your grade level,9
+132,2a,I believe in myself.,4
+132,2b,I feel it is important to take good care of the environment.,10
+132,2c,"Humans are a part of nature, not separate from it.",3
+132,2d,I have the power to protect the environment.,4
+132,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,4
+132,2f,I can make a difference in my community.,4
+132,3a,Science.,10
+132,3b,How to research things I am curious about.,9
+132,3c,Learning about new subjects in school.,5
+132,3d,Learning more about nature.,6
+132,4a,Solving problems,4
+132,4b,Using science to answer a question,8
+132,4c,Listening to other people’s points of view,10
+132,4d,Knowing how to do research,6
+132,5a,Help to protect the environment.,6
+132,5b,Spend more time outside.,6
+132,5c,Make a positive difference in my community.,6
+132,5d,Listen more to other people's points of view.,7
+132,5e,Talk with others about ways to protect the environment.,8
+132,5f,Cooperate more with my classmates.,8
+132,5g,Work harder in school.,9
+132,5h,Pay more attention in class.,9
+132,6,Are you a girl or a boy?,Girl
+132,7,Which of the following best describes your racial or ethnic background?,Hispanic
+133,1a,Your school’s name ,Springfield Central High School
+133,1b,Your grade level,11
+133,2a,I believe in myself.,10
+133,2b,I feel it is important to take good care of the environment.,9
+133,2c,"Humans are a part of nature, not separate from it.",10
+133,2d,I have the power to protect the environment.,0
+133,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+133,2f,I can make a difference in my community.,9
+133,3a,Science.,6
+133,3b,How to research things I am curious about.,NA
+133,3c,Learning about new subjects in school.,8
+133,3d,Learning more about nature.,10
+133,4a,Solving problems,9
+133,4b,Using science to answer a question,8
+133,4c,Listening to other people’s points of view,7
+133,4d,Knowing how to do research,5
+133,5a,Help to protect the environment.,NA
+133,5b,Spend more time outside.,NA
+133,5c,Make a positive difference in my community.,NA
+133,5d,Listen more to other people's points of view.,NA
+133,5e,Talk with others about ways to protect the environment.,NA
+133,5f,Cooperate more with my classmates.,NA
+133,5g,Work harder in school.,NA
+133,5h,Pay more attention in class.,NA
+133,6,Are you a girl or a boy?,Boy
+133,7,Which of the following best describes your racial or ethnic background?,NA
+134,1a,Your school’s name ,Springfield Central High School
+134,1b,Your grade level,10
+134,2a,I believe in myself.,8
+134,2b,I feel it is important to take good care of the environment.,NA
+134,2c,"Humans are a part of nature, not separate from it.",8
+134,2d,I have the power to protect the environment.,9
+134,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+134,2f,I can make a difference in my community.,7
+134,3a,Science.,10
+134,3b,How to research things I am curious about.,8
+134,3c,Learning about new subjects in school.,5
+134,3d,Learning more about nature.,8
+134,4a,Solving problems,7
+134,4b,Using science to answer a question,7
+134,4c,Listening to other people’s points of view,8
+134,4d,Knowing how to do research,9
+134,5a,Help to protect the environment.,8
+134,5b,Spend more time outside.,10
+134,5c,Make a positive difference in my community.,8
+134,5d,Listen more to other people's points of view.,7
+134,5e,Talk with others about ways to protect the environment.,7
+134,5f,Cooperate more with my classmates.,5
+134,5g,Work harder in school.,7
+134,5h,Pay more attention in class.,6
+134,6,Are you a girl or a boy?,Boy
+134,7,Which of the following best describes your racial or ethnic background?,Hispanic
+135,1a,Your school’s name ,Springfield Central High School
+135,1b,Your grade level,9
+135,2a,I believe in myself.,10
+135,2b,I feel it is important to take good care of the environment.,7
+135,2c,"Humans are a part of nature, not separate from it.",8
+135,2d,I have the power to protect the environment.,7
+135,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,9
+135,2f,I can make a difference in my community.,5
+135,3a,Science.,8
+135,3b,How to research things I am curious about.,7
+135,3c,Learning about new subjects in school.,5
+135,3d,Learning more about nature.,7
+135,4a,Solving problems,5
+135,4b,Using science to answer a question,7
+135,4c,Listening to other people’s points of view,4
+135,4d,Knowing how to do research,8
+135,5a,Help to protect the environment.,8
+135,5b,Spend more time outside.,9
+135,5c,Make a positive difference in my community.,7
+135,5d,Listen more to other people's points of view.,5
+135,5e,Talk with others about ways to protect the environment.,7
+135,5f,Cooperate more with my classmates.,5
+135,5g,Work harder in school.,8
+135,5h,Pay more attention in class.,7
+135,6,Are you a girl or a boy?,Boy
+135,7,Which of the following best describes your racial or ethnic background?,Hispanic
+136,1a,Your school’s name ,Springfield Central High School
+136,1b,Your grade level,11
+136,2a,I believe in myself.,6
+136,2b,I feel it is important to take good care of the environment.,10
+136,2c,"Humans are a part of nature, not separate from it.",10
+136,2d,I have the power to protect the environment.,10
+136,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,8
+136,2f,I can make a difference in my community.,10
+136,3a,Science.,10
+136,3b,How to research things I am curious about.,NA
+136,3c,Learning about new subjects in school.,10
+136,3d,Learning more about nature.,10
+136,4a,Solving problems,10
+136,4b,Using science to answer a question,10
+136,4c,Listening to other people’s points of view,10
+136,4d,Knowing how to do research,10
+136,5a,Help to protect the environment.,10
+136,5b,Spend more time outside.,10
+136,5c,Make a positive difference in my community.,10
+136,5d,Listen more to other people's points of view.,10
+136,5e,Talk with others about ways to protect the environment.,10
+136,5f,Cooperate more with my classmates.,10
+136,5g,Work harder in school.,10
+136,5h,Pay more attention in class.,10
+136,6,Are you a girl or a boy?,Boy
+136,7,Which of the following best describes your racial or ethnic background?,"Hispanic, American Indian or Alaskan Native"
+137,1a,Your school’s name ,Springfield Central High School
+137,1b,Your grade level,9
+137,2a,I believe in myself.,10
+137,2b,I feel it is important to take good care of the environment.,10
+137,2c,"Humans are a part of nature, not separate from it.",10
+137,2d,I have the power to protect the environment.,10
+137,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,10
+137,2f,I can make a difference in my community.,10
+137,3a,Science.,4
+137,3b,How to research things I am curious about.,10
+137,3c,Learning about new subjects in school.,10
+137,3d,Learning more about nature.,10
+137,4a,Solving problems,10
+137,4b,Using science to answer a question,10
+137,4c,Listening to other people’s points of view,10
+137,4d,Knowing how to do research,10
+137,5a,Help to protect the environment.,10
+137,5b,Spend more time outside.,8
+137,5c,Make a positive difference in my community.,9
+137,5d,Listen more to other people's points of view.,7
+137,5e,Talk with others about ways to protect the environment.,10
+137,5f,Cooperate more with my classmates.,8
+137,5g,Work harder in school.,10
+137,5h,Pay more attention in class.,9
+137,6,Are you a girl or a boy?,Girl
+137,7,Which of the following best describes your racial or ethnic background?,Hispanic
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,
+,1a,Your school’s name ,
+,1b,Your grade level,
+,2a,I believe in myself.,
+,2b,I feel it is important to take good care of the environment.,
+,2c,"Humans are a part of nature, not separate from it.",
+,2d,I have the power to protect the environment.,
+,2e,I  feel  confident  that  I  can  achieve  my  goals.  ,
+,2f,I can make a difference in my community.,
+,3a,Science.,
+,3b,How to research things I am curious about.,
+,3c,Learning about new subjects in school.,
+,3d,Learning more about nature.,
+,4a,Solving problems,
+,4b,Using science to answer a question,
+,4c,Listening to other people’s points of view,
+,4d,Knowing how to do research,
+,5a,Help to protect the environment.,
+,5b,Spend more time outside.,
+,5c,Make a positive difference in my community.,
+,5d,Listen more to other people's points of view.,
+,5e,Talk with others about ways to protect the environment.,
+,5f,Cooperate more with my classmates.,
+,5g,Work harder in school.,
+,5h,Pay more attention in class.,
+,6,Are you a girl or a boy?,
+,7,Which of the following best describes your racial or ethnic background?,

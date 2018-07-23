@@ -1,0 +1,417 @@
+teacher,question,qDetail,answer
+1,1,Today’s date,2018-05-24
+1,2,What was the date of your program?,2018-05-22
+1,3,What grade do you teach?,9-12
+1,4,What is the name of the school where you work?,Springfield Central High School
+1,5,Please rate your overall level of satisfaction with the program on a scale from 0 to 10.,9.5
+1,6a,Did you do any specific activities in class to prepare for this experience?,yes
+1,6b,Please explain below.,"Discussed what ""Ecology of Urban Songbirds"" meant, Students researched 1 article on Urban Songbirds"
+1,7a,Did you do any post-trip activities to reinforce the program?,yes
+1,7b,Please explain below.,Students designed their yards or made up yard to create ideal songbird habitat
+1,8a,This program helped my class meet state curriculum standards.,Strongly agree
+1,8b,The program motivated my students to perform better academically,Strongly agree
+1,8c,My students learned about the ecology of wildlife in their area.,Strongly agree
+1,8d,My students had fun,Strongly agree
+1,8e,My students learned about how people influence the world around them,Strongly agree
+1,8f,Participating in this program was well worth the effort,Strongly agree
+1,8g,The program was age-appropriate for my students.,Strongly agree
+1,8h,My students learned how resource availability influences populations in an ecosystem.,Strongly agree
+1,9a,How to analyze and interpret data.,A great deal
+1,9b,How to use their knowledge to predict patterns of interactions between organisms.,A great deal
+1,9c,How to use empirical evidence to construct valid arguments about how changes in ecosystems affect populations.,A moderate amount
+1,9d,How to develop ideas for maintaining biodiversity.,A moderate amount
+1,10a,Academic performance,A great deal
+1,10b,Attitudes toward school.,A great deal
+1,10c,Appreciation for the natural environment.,A great deal
+1,10d,Appreciation for science.,A great deal
+1,10e,Interest in taking actions to conserve or improve the environment.,A great deal
+1,10f,Understanding of ecological processes.,A great deal
+1,10g,Awareness of environmental issues.,A great deal
+1,10h,Ability to work together collaboratively.,A great deal
+1,10i,Scientific inquiry skills.,A great deal
+1,10j,Interest in learning more about the environment.,A great deal
+1,11,"If you have any comments that you would like to share about the program, please use the following space.","Demonstrate how mist net works, Break up classroom lesson (break, video, outside activity, Greate populations activity, Pictures of what good/bad habitat looks like, Excellent hands on experience with chickadee and blue jay, Would like to hear more about teacher's personal stories (urban backgrounds), Teachers handled students well, Any pre-teaching information/activities/prep for students would be great, THANK YOU! Looking forward to next year!"
+2,1,Today’s date,2018-05-29
+2,2,What was the date of your program?,2018-05-22
+2,3,What grade do you teach?,High School
+2,4,What is the name of the school where you work?,Springfield Central High School
+2,5,Please rate your overall level of satisfaction with the program on a scale from 0 to 10.,9
+2,6a,Did you do any specific activities in class to prepare for this experience?,NA
+2,6b,Please explain below.,NA
+2,7a,Did you do any post-trip activities to reinforce the program?,NA
+2,7b,Please explain below.,NA
+2,8a,This program helped my class meet state curriculum standards.,Agree
+2,8b,The program motivated my students to perform better academically,Agree
+2,8c,My students learned about the ecology of wildlife in their area.,Strongly agree
+2,8d,My students had fun,"Agree, Strongly agree"
+2,8e,My students learned about how people influence the world around them,Agree
+2,8f,Participating in this program was well worth the effort,Strongly agree
+2,8g,The program was age-appropriate for my students.,Strongly agree
+2,8h,My students learned how resource availability influences populations in an ecosystem.,Not sure
+2,9a,How to analyze and interpret data.,A moderate amount
+2,9b,How to use their knowledge to predict patterns of interactions between organisms.,A moderate amount
+2,9c,How to use empirical evidence to construct valid arguments about how changes in ecosystems affect populations.,A moderate amount
+2,9d,How to develop ideas for maintaining biodiversity.,A moderate amount
+2,10a,Academic performance,A moderate amount
+2,10b,Attitudes toward school.,A moderate amount
+2,10c,Appreciation for the natural environment.,A great deal
+2,10d,Appreciation for science.,A moderate amount
+2,10e,Interest in taking actions to conserve or improve the environment.,A great deal
+2,10f,Understanding of ecological processes.,A moderate amount
+2,10g,Awareness of environmental issues.,A moderate amount
+2,10h,Ability to work together collaboratively.,A moderate amount
+2,10i,Scientific inquiry skills.,A moderate amount
+2,10j,Interest in learning more about the environment.,A great deal
+2,11,"If you have any comments that you would like to share about the program, please use the following space.",Excellent program! Content and delivery with hands on activities perfect for our grade level students. Most participated and asked questions.
+3,1,Today’s date,2018-05-31
+3,2,What was the date of your program?,2018-05-24
+3,3,What grade do you teach?,6
+3,4,What is the name of the school where you work?,Van Sickle Academy
+3,5,Please rate your overall level of satisfaction with the program on a scale from 0 to 10.,8
+3,6a,Did you do any specific activities in class to prepare for this experience?,no
+3,6b,Please explain below.,NA
+3,7a,Did you do any post-trip activities to reinforce the program?,no
+3,7b,Please explain below.,NA
+3,8a,This program helped my class meet state curriculum standards.,Agree
+3,8b,The program motivated my students to perform better academically,Disagree
+3,8c,My students learned about the ecology of wildlife in their area.,Agree
+3,8d,My students had fun,Disagree
+3,8e,My students learned about how people influence the world around them,Agree
+3,8f,Participating in this program was well worth the effort,Agree
+3,8g,The program was age-appropriate for my students.,Not sure
+3,8h,My students learned how resource availability influences populations in an ecosystem.,Agree
+3,9a,How to analyze and interpret data.,A little
+3,9b,How to use their knowledge to predict patterns of interactions between organisms.,A little
+3,9c,How to use empirical evidence to construct valid arguments about how changes in ecosystems affect populations.,A moderate amount
+3,9d,How to develop ideas for maintaining biodiversity.,A great deal
+3,10a,Academic performance,A little
+3,10b,Attitudes toward school.,A moderate amount
+3,10c,Appreciation for the natural environment.,A great deal
+3,10d,Appreciation for science.,A great deal
+3,10e,Interest in taking actions to conserve or improve the environment.,A moderate amount
+3,10f,Understanding of ecological processes.,A moderate amount
+3,10g,Awareness of environmental issues.,A moderate amount
+3,10h,Ability to work together collaboratively.,A great deal
+3,10i,Scientific inquiry skills.,A great deal
+3,10j,Interest in learning more about the environment.,A great deal
+3,11,"If you have any comments that you would like to share about the program, please use the following space.",NA
+4,1,Today’s date,2018-05-31
+4,2,What was the date of your program?,2018-05-23
+4,3,What grade do you teach?,7-ELA
+4,4,What is the name of the school where you work?,Van Sickle Academy
+4,5,Please rate your overall level of satisfaction with the program on a scale from 0 to 10.,10
+4,6a,Did you do any specific activities in class to prepare for this experience?,no
+4,6b,Please explain below.,We had very short notice that 7th grade was invited.
+4,7a,Did you do any post-trip activities to reinforce the program?,no
+4,7b,Please explain below.,NA
+4,8a,This program helped my class meet state curriculum standards.,Agree
+4,8b,The program motivated my students to perform better academically,Agree
+4,8c,My students learned about the ecology of wildlife in their area.,Agree
+4,8d,My students had fun,Agree
+4,8e,My students learned about how people influence the world around them,Agree
+4,8f,Participating in this program was well worth the effort,Agree
+4,8g,The program was age-appropriate for my students.,Agree
+4,8h,My students learned how resource availability influences populations in an ecosystem.,Agree
+4,9a,How to analyze and interpret data.,A moderate amount
+4,9b,How to use their knowledge to predict patterns of interactions between organisms.,A moderate amount
+4,9c,How to use empirical evidence to construct valid arguments about how changes in ecosystems affect populations.,A moderate amount
+4,9d,How to develop ideas for maintaining biodiversity.,A moderate amount
+4,10a,Academic performance,A moderate amount
+4,10b,Attitudes toward school.,A moderate amount
+4,10c,Appreciation for the natural environment.,A moderate amount
+4,10d,Appreciation for science.,A moderate amount
+4,10e,Interest in taking actions to conserve or improve the environment.,A moderate amount
+4,10f,Understanding of ecological processes.,A moderate amount
+4,10g,Awareness of environmental issues.,A moderate amount
+4,10h,Ability to work together collaboratively.,A moderate amount
+4,10i,Scientific inquiry skills.,A moderate amount
+4,10j,Interest in learning more about the environment.,A moderate amount
+4,11,"If you have any comments that you would like to share about the program, please use the following space.",NA
+5,1,Today’s date,2018-05-31
+5,2,What was the date of your program?,2018-05-24
+5,3,What grade do you teach?,7
+5,4,What is the name of the school where you work?,Van Sickle Academy
+5,5,Please rate your overall level of satisfaction with the program on a scale from 0 to 10.,10
+5,6a,Did you do any specific activities in class to prepare for this experience?,yes
+5,6b,Please explain below.,We currently are in an ecology unit
+5,7a,Did you do any post-trip activities to reinforce the program?,yes
+5,7b,Please explain below.,We are talking about succession in ecosystems. The students are using what they learned from the trip in class. 
+5,8a,This program helped my class meet state curriculum standards.,Strongly agree
+5,8b,The program motivated my students to perform better academically,Agree
+5,8c,My students learned about the ecology of wildlife in their area.,Strongly agree
+5,8d,My students had fun,Agree
+5,8e,My students learned about how people influence the world around them,Agree
+5,8f,Participating in this program was well worth the effort,Agree
+5,8g,The program was age-appropriate for my students.,Agree
+5,8h,My students learned how resource availability influences populations in an ecosystem.,Agree
+5,9a,How to analyze and interpret data.,NA
+5,9b,How to use their knowledge to predict patterns of interactions between organisms.,NA
+5,9c,How to use empirical evidence to construct valid arguments about how changes in ecosystems affect populations.,NA
+5,9d,How to develop ideas for maintaining biodiversity.,NA
+5,10a,Academic performance,NA
+5,10b,Attitudes toward school.,NA
+5,10c,Appreciation for the natural environment.,NA
+5,10d,Appreciation for science.,NA
+5,10e,Interest in taking actions to conserve or improve the environment.,NA
+5,10f,Understanding of ecological processes.,NA
+5,10g,Awareness of environmental issues.,NA
+5,10h,Ability to work together collaboratively.,NA
+5,10i,Scientific inquiry skills.,NA
+5,10j,Interest in learning more about the environment.,NA
+5,11,"If you have any comments that you would like to share about the program, please use the following space.",NA
+6,1,Today’s date,2018-06-01
+6,2,What was the date of your program?,2018-05-25
+6,3,What grade do you teach?,NA
+6,4,What is the name of the school where you work?,Van Sickle Academy
+6,5,Please rate your overall level of satisfaction with the program on a scale from 0 to 10.,9
+6,6a,Did you do any specific activities in class to prepare for this experience?,no
+6,6b,Please explain below.,NA
+6,7a,Did you do any post-trip activities to reinforce the program?,no
+6,7b,Please explain below.,NA
+6,8a,This program helped my class meet state curriculum standards.,Not sure
+6,8b,The program motivated my students to perform better academically,Agree
+6,8c,My students learned about the ecology of wildlife in their area.,Agree
+6,8d,My students had fun,Agree
+6,8e,My students learned about how people influence the world around them,Agree
+6,8f,Participating in this program was well worth the effort,Agree
+6,8g,The program was age-appropriate for my students.,Agree
+6,8h,My students learned how resource availability influences populations in an ecosystem.,Agree
+6,9a,How to analyze and interpret data.,A little
+6,9b,How to use their knowledge to predict patterns of interactions between organisms.,A little
+6,9c,How to use empirical evidence to construct valid arguments about how changes in ecosystems affect populations.,A little
+6,9d,How to develop ideas for maintaining biodiversity.,A moderate amount
+6,10a,Academic performance,A little
+6,10b,Attitudes toward school.,A little
+6,10c,Appreciation for the natural environment.,A moderate amount
+6,10d,Appreciation for science.,A moderate amount
+6,10e,Interest in taking actions to conserve or improve the environment.,A moderate amount
+6,10f,Understanding of ecological processes.,A moderate amount
+6,10g,Awareness of environmental issues.,A moderate amount
+6,10h,Ability to work together collaboratively.,A little
+6,10i,Scientific inquiry skills.,A little
+6,10j,Interest in learning more about the environment.,A moderate amount
+6,11,"If you have any comments that you would like to share about the program, please use the following space.",NA
+7,1,Today’s date,2018-05-30
+7,2,What was the date of your program?,2018-05-23
+7,3,What grade do you teach?,6
+7,4,What is the name of the school where you work?,Van Sickle Academy
+7,5,Please rate your overall level of satisfaction with the program on a scale from 0 to 10.,10
+7,6a,Did you do any specific activities in class to prepare for this experience?,yes
+7,6b,Please explain below.,Did a unit on birds / made bird feeders
+7,7a,Did you do any post-trip activities to reinforce the program?,no
+7,7b,Please explain below.,NA
+7,8a,This program helped my class meet state curriculum standards.,Strongly agree
+7,8b,The program motivated my students to perform better academically,Strongly agree
+7,8c,My students learned about the ecology of wildlife in their area.,Strongly agree
+7,8d,My students had fun,Strongly agree
+7,8e,My students learned about how people influence the world around them,Strongly agree
+7,8f,Participating in this program was well worth the effort,Strongly agree
+7,8g,The program was age-appropriate for my students.,Strongly agree
+7,8h,My students learned how resource availability influences populations in an ecosystem.,Strongly agree
+7,9a,How to analyze and interpret data.,A moderate amount
+7,9b,How to use their knowledge to predict patterns of interactions between organisms.,A great deal
+7,9c,How to use empirical evidence to construct valid arguments about how changes in ecosystems affect populations.,A moderate amount
+7,9d,How to develop ideas for maintaining biodiversity.,A moderate amount
+7,10a,Academic performance,A moderate amount
+7,10b,Attitudes toward school.,A moderate amount
+7,10c,Appreciation for the natural environment.,A great deal
+7,10d,Appreciation for science.,A great deal
+7,10e,Interest in taking actions to conserve or improve the environment.,A great deal
+7,10f,Understanding of ecological processes.,A moderate amount
+7,10g,Awareness of environmental issues.,A moderate amount
+7,10h,Ability to work together collaboratively.,A moderate amount
+7,10i,Scientific inquiry skills.,A moderate amount
+7,10j,Interest in learning more about the environment.,A moderate amount
+7,11,"If you have any comments that you would like to share about the program, please use the following space.","Staff was very helpful, especially Johanna, with translating for my ELL students and making their experience that much better!! =)"
+8,1,Today’s date,2018-05-31
+8,2,What was the date of your program?,2018-05-24
+8,3,What grade do you teach?,6
+8,4,What is the name of the school where you work?,Van Sickle Academy
+8,5,Please rate your overall level of satisfaction with the program on a scale from 0 to 10.,8
+8,6a,Did you do any specific activities in class to prepare for this experience?,no
+8,6b,Please explain below.,NA
+8,7a,Did you do any post-trip activities to reinforce the program?,NA
+8,7b,Please explain below.,"We are doing a unit on fish conservation, which connects, but it was unintentional. "
+8,8a,This program helped my class meet state curriculum standards.,Agree
+8,8b,The program motivated my students to perform better academically,Not sure
+8,8c,My students learned about the ecology of wildlife in their area.,Agree
+8,8d,My students had fun,Agree
+8,8e,My students learned about how people influence the world around them,Agree
+8,8f,Participating in this program was well worth the effort,Agree
+8,8g,The program was age-appropriate for my students.,Agree
+8,8h,My students learned how resource availability influences populations in an ecosystem.,Agree
+8,9a,How to analyze and interpret data.,A moderate amount
+8,9b,How to use their knowledge to predict patterns of interactions between organisms.,A moderate amount
+8,9c,How to use empirical evidence to construct valid arguments about how changes in ecosystems affect populations.,A moderate amount
+8,9d,How to develop ideas for maintaining biodiversity.,A moderate amount
+8,10a,Academic performance,A little
+8,10b,Attitudes toward school.,Not at all
+8,10c,Appreciation for the natural environment.,A moderate amount
+8,10d,Appreciation for science.,A little
+8,10e,Interest in taking actions to conserve or improve the environment.,A little
+8,10f,Understanding of ecological processes.,A moderate amount
+8,10g,Awareness of environmental issues.,A moderate amount
+8,10h,Ability to work together collaboratively.,A little
+8,10i,Scientific inquiry skills.,A little
+8,10j,Interest in learning more about the environment.,A moderate amount
+8,11,"If you have any comments that you would like to share about the program, please use the following space.","The classroom portion, while interesting, was a little long and repetitive to keep students engaged. "
+9,1,Today’s date,2018-05-24
+9,2,What was the date of your program?,2018-05-10
+9,3,What grade do you teach?,FONZ Homeschool ages 11-14 (approx. gr. 5-8)
+9,4,What is the name of the school where you work?,Friends of the National Zoo
+9,5,Please rate your overall level of satisfaction with the program on a scale from 0 to 10.,NA
+9,6a,Did you do any specific activities in class to prepare for this experience?,yes
+9,6b,Please explain below.,We completed the first lesson in the experience migration curriculum that discusses a bird's annual cycle and analyzes tracking data to answer questions about migration. 
+9,7a,Did you do any post-trip activities to reinforce the program?,yes
+9,7b,Please explain below.,"We completed the second lession in the Experience Migration curriculum that reviews and compares 5 different types of tracking methods, then uses this information to make decisions about appropriate methods for posed situations. Also did a Zoo walk to visit other animals at the Zoo that scientists are researching using various tracking methods."
+9,8a,This program helped my class meet state curriculum standards.,NA
+9,8b,The program motivated my students to perform better academically,Agree
+9,8c,My students learned about the ecology of wildlife in their area.,Agree
+9,8d,My students had fun,Strongly agree
+9,8e,My students learned about how people influence the world around them,Strongly agree
+9,8f,Participating in this program was well worth the effort,Strongly agree
+9,8g,The program was age-appropriate for my students.,Strongly agree
+9,8h,My students learned how resource availability influences populations in an ecosystem.,Strongly agree
+9,9a,How to analyze and interpret data.,A little
+9,9b,How to use their knowledge to predict patterns of interactions between organisms.,A moderate amount
+9,9c,How to use empirical evidence to construct valid arguments about how changes in ecosystems affect populations.,A little
+9,9d,How to develop ideas for maintaining biodiversity.,A moderate amount
+9,10a,Academic performance,A moderate amount
+9,10b,Attitudes toward school.,A moderate amount
+9,10c,Appreciation for the natural environment.,A great deal
+9,10d,Appreciation for science.,A great deal
+9,10e,Interest in taking actions to conserve or improve the environment.,A great deal
+9,10f,Understanding of ecological processes.,A little
+9,10g,Awareness of environmental issues.,A little
+9,10h,Ability to work together collaboratively.,A moderate amount
+9,10i,Scientific inquiry skills.,A little
+9,10j,Interest in learning more about the environment.,A moderate amount
+9,11,"If you have any comments that you would like to share about the program, please use the following space.","Great program and super engaging. The kids loved the first two parts (bird banding and population change game). The habitat analysis was good but could be stronger. At least for my class, the second part (going back out into the space to correct the problems) seemed redundant / a little too long. I think this could have been accomplished by a collaborative discussion after the first part of this activity (identifying problem areas and helpful habitat markers on the map grid)"
+10,1,Today’s date,2018-06-01
+10,2,What was the date of your program?,2018-05-25
+10,3,What grade do you teach?,6
+10,4,What is the name of the school where you work?,Van Sickle Academy
+10,5,Please rate your overall level of satisfaction with the program on a scale from 0 to 10.,7
+10,6a,Did you do any specific activities in class to prepare for this experience?,no
+10,6b,Please explain below.,We were unsure of specific focus for the presentations
+10,7a,Did you do any post-trip activities to reinforce the program?,no
+10,7b,Please explain below.,Not yet - plan to build bird houses/feeders to take home.
+10,8a,This program helped my class meet state curriculum standards.,Not sure
+10,8b,The program motivated my students to perform better academically,Disagree
+10,8c,My students learned about the ecology of wildlife in their area.,Agree
+10,8d,My students had fun,Not sure
+10,8e,My students learned about how people influence the world around them,Agree
+10,8f,Participating in this program was well worth the effort,Agree
+10,8g,The program was age-appropriate for my students.,Agree
+10,8h,My students learned how resource availability influences populations in an ecosystem.,Agree
+10,9a,How to analyze and interpret data.,A little
+10,9b,How to use their knowledge to predict patterns of interactions between organisms.,A little
+10,9c,How to use empirical evidence to construct valid arguments about how changes in ecosystems affect populations.,Not at all
+10,9d,How to develop ideas for maintaining biodiversity.,A little
+10,10a,Academic performance,Not at all
+10,10b,Attitudes toward school.,Not at all
+10,10c,Appreciation for the natural environment.,A little
+10,10d,Appreciation for science.,A moderate amount
+10,10e,Interest in taking actions to conserve or improve the environment.,A little
+10,10f,Understanding of ecological processes.,A little
+10,10g,Awareness of environmental issues.,A moderate amount
+10,10h,Ability to work together collaboratively.,A little
+10,10i,Scientific inquiry skills.,A little
+10,10j,Interest in learning more about the environment.,A little
+10,11,"If you have any comments that you would like to share about the program, please use the following space.",NA
+11,1,Today’s date,2018-06-08
+11,2,What was the date of your program?,2018-05-29
+11,3,What grade do you teach?,8
+11,4,What is the name of the school where you work?,Duggan Academy
+11,5,Please rate your overall level of satisfaction with the program on a scale from 0 to 10.,10
+11,6a,Did you do any specific activities in class to prepare for this experience?,Yes
+11,6b,Please explain below.,"Before this trip I had my students resarch the how, why and when of bird migration"
+11,7a,Did you do any post-trip activities to reinforce the program?,Yes
+11,7b,Please explain below.,I asked my students resarch the impact of renewable energy on migratory birds and how the impact could be mitigated 
+11,8a,This program helped my class meet state curriculum standards.,Agree
+11,8b,The program motivated my students to perform better academically,Agree
+11,8c,My students learned about the ecology of wildlife in their area.,strongly agree
+11,8d,My students had fun,Agree
+11,8e,My students learned about how people influence the world around them,Agree
+11,8f,Participating in this program was well worth the effort,Strongly agree
+11,8g,The program was age-appropriate for my students.,Agree
+11,8h,My students learned how resource availability influences populations in an ecosystem.,Strongly agree
+11,9a,How to analyze and interpret data.,A great deal 
+11,9b,How to use their knowledge to predict patterns of interactions between organisms.,A great deal 
+11,9c,How to use empirical evidence to construct valid arguments about how changes in ecosystems affect populations.,A moderate amount
+11,9d,How to develop ideas for maintaining biodiversity.,A moderate amount
+11,10a,Academic performance,A moderate amount
+11,10b,Attitudes toward school.,A moderate amount
+11,10c,Appreciation for the natural environment.,A moderate amount
+11,10d,Appreciation for science.,A moderate amount
+11,10e,Interest in taking actions to conserve or improve the environment.,A moderate amount
+11,10f,Understanding of ecological processes.,A moderate amount
+11,10g,Awareness of environmental issues.,A moderate amount
+11,10h,Ability to work together collaboratively.,A moderate amount
+11,10i,Scientific inquiry skills.,A moderate amount
+11,10j,Interest in learning more about the environment.,A moderate amount
+11,11,"If you have any comments that you would like to share about the program, please use the following space.","This program did a fantastic job of utilizing the 4 E's: engage, explore and elaborate!"
+12,1,Today’s date,2018-06-11
+12,2,What was the date of your program?,NA
+12,3,What grade do you teach?,6
+12,4,What is the name of the school where you work?,Springfield Public Day Middle School
+12,5,Please rate your overall level of satisfaction with the program on a scale from 0 to 10.,10
+12,6a,Did you do any specific activities in class to prepare for this experience?,no
+12,6b,Please explain below.,NA
+12,7a,Did you do any post-trip activities to reinforce the program?,yes
+12,7b,Please explain below.,We watched the birds outside--looking to see their nests and looking for dangers
+12,8a,This program helped my class meet state curriculum standards.,strongly agree
+12,8b,The program motivated my students to perform better academically,strongly agree
+12,8c,My students learned about the ecology of wildlife in their area.,strongly agree
+12,8d,My students had fun,strongly agree
+12,8e,My students learned about how people influence the world around them,strongly agree
+12,8f,Participating in this program was well worth the effort,strongly agree
+12,8g,The program was age-appropriate for my students.,strongly agree
+12,8h,My students learned how resource availability influences populations in an ecosystem.,A moderate amount
+12,9a,How to analyze and interpret data.,A moderate amount
+12,9b,How to use their knowledge to predict patterns of interactions between organisms.,A moderate amount
+12,9c,How to use empirical evidence to construct valid arguments about how changes in ecosystems affect populations.,A moderate amount
+12,9d,How to develop ideas for maintaining biodiversity.,A moderate amount
+12,10a,Academic performance,A great deal
+12,10b,Attitudes toward school.,A great deal
+12,10c,Appreciation for the natural environment.,A great deal
+12,10d,Appreciation for science.,A great deal
+12,10e,Interest in taking actions to conserve or improve the environment.,A great deal
+12,10f,Understanding of ecological processes.,A great deal
+12,10g,Awareness of environmental issues.,A great deal
+12,10h,Ability to work together collaboratively.,A great deal
+12,10i,Scientific inquiry skills.,A great deal
+12,10j,Interest in learning more about the environment.,A great deal
+12,11,"If you have any comments that you would like to share about the program, please use the following space.","Very interesting, fun for the students and pertinent for today"
+13,1,Today’s date,2018-06-11
+13,2,What was the date of your program?,2018-06-01
+13,3,What grade do you teach?,"6,7,8"
+13,4,What is the name of the school where you work?,Springfield Public Day Middle School
+13,5,Please rate your overall level of satisfaction with the program on a scale from 0 to 10.,10
+13,6a,Did you do any specific activities in class to prepare for this experience?,no
+13,6b,Please explain below.,NA
+13,7a,Did you do any post-trip activities to reinforce the program?,no
+13,7b,Please explain below.,NA
+13,8a,This program helped my class meet state curriculum standards.,Agree
+13,8b,The program motivated my students to perform better academically,Agree
+13,8c,My students learned about the ecology of wildlife in their area.,Strongly agree
+13,8d,My students had fun,Strongly agree
+13,8e,My students learned about how people influence the world around them,Strongly agree
+13,8f,Participating in this program was well worth the effort,Strongly agree
+13,8g,The program was age-appropriate for my students.,Strongly agree
+13,8h,My students learned how resource availability influences populations in an ecosystem.,Strongly agree
+13,9a,How to analyze and interpret data.,A great deal
+13,9b,How to use their knowledge to predict patterns of interactions between organisms.,A great deal
+13,9c,How to use empirical evidence to construct valid arguments about how changes in ecosystems affect populations.,A great deal
+13,9d,How to develop ideas for maintaining biodiversity.,A great deal
+13,10a,Academic performance,A great deal
+13,10b,Attitudes toward school.,A great deal
+13,10c,Appreciation for the natural environment.,A great deal
+13,10d,Appreciation for science.,A great deal
+13,10e,Interest in taking actions to conserve or improve the environment.,A great deal
+13,10f,Understanding of ecological processes.,A great deal
+13,10g,Awareness of environmental issues.,A great deal
+13,10h,Ability to work together collaboratively.,A great deal
+13,10i,Scientific inquiry skills.,A great deal
+13,10j,Interest in learning more about the environment.,A great deal
+13,11,"If you have any comments that you would like to share about the program, please use the following space.",Teachers were great--activities were great. Thank you!!
